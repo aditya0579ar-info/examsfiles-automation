@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "user_access_token": "PASTE_YOUR_LONG_LIVED_USER_ACCESS_TOKEN_HERE",
+    "page_access_token": "PASTE_YOUR_PAGE_ACCESS_TOKEN_HERE",
+    "ig_user_id": "PASTE_YOUR_INSTAGRAM_BUSINESS_ACCOUNT_ID_HERE",
+    "page_id": "PASTE_YOUR_FACEBOOK_PAGE_ID_HERE"
+  },
+  "gemini": {
+    "api_key": "PASTE_YOUR_GEMINI_API_KEY_HERE"
+  },
+  "imgbb": {
+    "api_key": "PASTE_YOUR_IMGBB_API_KEY_HERE"
+  },
+  "settings": {
+    "image_folder": "C:\\Users\\Welcome\\Pictures\\bite upload",
+    "uploaded_folder": "C:\\Users\\Welcome\\Pictures\\uploaded  bite",
+    "posts_per_day": 20,
+    "immediate_posts": 2,
+    "hour_gap": 1,
+    "profile_name": "upscbite"
+  }
+}

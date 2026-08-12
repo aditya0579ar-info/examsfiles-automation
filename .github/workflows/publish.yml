@@ -1,0 +1,64 @@
+name: Publish Instagram Posts
+
+# Runs every hour at :30 to publish the next pending @upscbite post.
+# Also supports manual triggering from the Actions tab.
+
+on:
+  # Allow manual trigger from GitHub Actions UI
+  workflow_dispatch:
+  # Allow external webhook triggers (like cron-job.org)
+  repository_dispatch:
+    types:
+      - publish
+
+# Prevent overlapping runs
+concurrency:
+  group: publish-instagram
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+
+    steps:
+      # 1. Check out the repo (contains queue.json and publish.py)
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch the latest to avoid merge conflicts
+          fetch-depth: 1
+
+      # 2. Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # 3. Install dependencies
+      - name: Install dependencies
+        run: pip install requests
+
+      # 4. (Removed random delay to ensure precise execution)
+
+      # 5. Run the publisher
+      - name: Publish next Instagram post
+        env:
+          META_USER_ACCESS_TOKEN: ${{ secrets.META_USER_ACCESS_TOKEN }}
+          META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
+          META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+        run: python publish.py
+
+      # 6. Commit and push updated queue
+      - name: Commit queue updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add queue.json post_log.json
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "📸 Published Instagram post [automated]"
+          git push

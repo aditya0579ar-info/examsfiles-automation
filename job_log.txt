@@ -1,0 +1,272 @@
+﻿2026-08-08T19:07:21.4846934Z Current runner version: '2.336.0'
+2026-08-08T19:07:21.4881841Z ##[group]Runner Image Provisioner
+2026-08-08T19:07:21.4883292Z Hosted Compute Agent
+2026-08-08T19:07:21.4884198Z Version: 20260707.563
+2026-08-08T19:07:21.4884986Z Commit: 02667638d2b423fbc733a8e32a88b44996a3ba6e
+2026-08-08T19:07:21.4885964Z Build Date: 2026-07-07T19:33:50Z
+2026-08-08T19:07:21.4886858Z Worker ID: {c8b316c1-2114-4a31-9c42-c1e0685824cf}
+2026-08-08T19:07:21.4887850Z Azure Region: westus3
+2026-08-08T19:07:21.4888667Z ##[endgroup]
+2026-08-08T19:07:21.4890681Z ##[group]Operating System
+2026-08-08T19:07:21.4891614Z Ubuntu
+2026-08-08T19:07:21.4892419Z 24.04.4
+2026-08-08T19:07:21.4893418Z LTS
+2026-08-08T19:07:21.4894200Z ##[endgroup]
+2026-08-08T19:07:21.4894944Z ##[group]Runner Image
+2026-08-08T19:07:21.4895797Z Image: ubuntu-24.04
+2026-08-08T19:07:21.4896608Z Version: 20260720.247.2
+2026-08-08T19:07:21.4898450Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20260720.247/images/ubuntu/Ubuntu2404-Readme.md
+2026-08-08T19:07:21.4900586Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20260720.247
+2026-08-08T19:07:21.4901988Z ##[endgroup]
+2026-08-08T19:07:21.4903949Z ##[group]GITHUB_TOKEN Permissions
+2026-08-08T19:07:21.4907144Z Contents: read
+2026-08-08T19:07:21.4907970Z Metadata: read
+2026-08-08T19:07:21.4909142Z Packages: read
+2026-08-08T19:07:21.4910092Z ##[endgroup]
+2026-08-08T19:07:21.4913381Z Secret source: Actions
+2026-08-08T19:07:21.4914960Z Prepare workflow directory
+2026-08-08T19:07:21.6892068Z Prepare all required actions
+2026-08-08T19:07:21.6965542Z Getting action download info
+2026-08-08T19:07:22.0085258Z Download action repository 'actions/checkout@v4' (SHA:11d5960a326750d5838078e36cf38b85af677262)
+2026-08-08T19:07:22.7759737Z Download action repository 'actions/setup-python@v5' (SHA:a26af69be951a213d495a4c3e4e4022e16d87065)
+2026-08-08T19:07:23.0061430Z Complete job name: prepare
+2026-08-08T19:07:23.0773909Z Node 20 is being deprecated. This workflow is running with Node 24 by default. If you need to temporarily use Node 20, you can set the ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true environment variable. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
+2026-08-08T19:07:23.0783389Z ##[group]Run actions/checkout@v4
+2026-08-08T19:07:23.0784392Z with:
+2026-08-08T19:07:23.0784992Z   fetch-depth: 1
+2026-08-08T19:07:23.0785758Z   repository: aditya0579ar-info/instagram-automation-bite-v2
+2026-08-08T19:07:23.0790508Z   token: ***
+2026-08-08T19:07:23.0791130Z   ssh-strict: true
+2026-08-08T19:07:23.0791753Z   ssh-user: git
+2026-08-08T19:07:23.0792356Z   persist-credentials: true
+2026-08-08T19:07:23.0793108Z   clean: true
+2026-08-08T19:07:23.0793723Z   sparse-checkout-cone-mode: true
+2026-08-08T19:07:23.0794459Z   fetch-tags: false
+2026-08-08T19:07:23.0795083Z   show-progress: true
+2026-08-08T19:07:23.0795694Z   lfs: false
+2026-08-08T19:07:23.0796410Z   submodules: false
+2026-08-08T19:07:23.0797014Z   set-safe-directory: true
+2026-08-08T19:07:23.0797742Z   allow-unsafe-pr-checkout: false
+2026-08-08T19:07:23.0798568Z ##[endgroup]
+2026-08-08T19:07:23.1977575Z Syncing repository: aditya0579ar-info/instagram-automation-bite-v2
+2026-08-08T19:07:23.1998585Z ##[group]Getting Git version info
+2026-08-08T19:07:23.2003501Z Working directory is '/home/runner/work/instagram-automation-bite-v2/instagram-automation-bite-v2'
+2026-08-08T19:07:23.2007027Z [command]/usr/bin/git version
+2026-08-08T19:07:23.2010149Z git version 2.54.0
+2026-08-08T19:07:23.2066188Z ##[endgroup]
+2026-08-08T19:07:23.2078929Z Temporarily overriding HOME='/home/runner/work/_temp/e1ae3fe6-902c-47a1-a7a8-19e7a6f68b63' before making global git config changes
+2026-08-08T19:07:23.2083642Z Adding repository directory to the temporary git global config as a safe directory
+2026-08-08T19:07:23.2086811Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/instagram-automation-bite-v2/instagram-automation-bite-v2
+2026-08-08T19:07:23.2155793Z Deleting the contents of '/home/runner/work/instagram-automation-bite-v2/instagram-automation-bite-v2'
+2026-08-08T19:07:23.2173821Z ##[group]Initializing the repository
+2026-08-08T19:07:23.2179302Z [command]/usr/bin/git init /home/runner/work/instagram-automation-bite-v2/instagram-automation-bite-v2
+2026-08-08T19:07:23.2244232Z hint: Using 'master' as the name for the initial branch. This default branch name
+2026-08-08T19:07:23.2265253Z hint: will change to "main" in Git 3.0. To configure the initial branch name
+2026-08-08T19:07:23.2287658Z hint: to use in all of your new repositories, which will suppress this warning,
+2026-08-08T19:07:23.2289874Z hint: call:
+2026-08-08T19:07:23.2291177Z hint:
+2026-08-08T19:07:23.2292772Z hint: 	git config --global init.defaultBranch <name>
+2026-08-08T19:07:23.2294653Z hint:
+2026-08-08T19:07:23.2296424Z hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+2026-08-08T19:07:23.2298866Z hint: 'development'. The just-created branch can be renamed via this command:
+2026-08-08T19:07:23.2300668Z hint:
+2026-08-08T19:07:23.2302063Z hint: 	git branch -m <name>
+2026-08-08T19:07:23.2303935Z hint:
+2026-08-08T19:07:23.2305819Z hint: Disable this message with "git config set advice.defaultBranchName false"
+2026-08-08T19:07:23.2309683Z Initialized empty Git repository in /home/runner/work/instagram-automation-bite-v2/instagram-automation-bite-v2/.git/
+2026-08-08T19:07:23.2328551Z [command]/usr/bin/git remote add origin https://github.com/aditya0579ar-info/instagram-automation-bite-v2
+2026-08-08T19:07:23.2334360Z ##[endgroup]
+2026-08-08T19:07:23.2336962Z ##[group]Disabling automatic garbage collection
+2026-08-08T19:07:23.2339354Z [command]/usr/bin/git config --local gc.auto 0
+2026-08-08T19:07:23.2382371Z ##[endgroup]
+2026-08-08T19:07:23.2384743Z ##[group]Setting up auth
+2026-08-08T19:07:23.2396169Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2026-08-08T19:07:23.2453296Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+2026-08-08T19:07:23.2897742Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2026-08-08T19:07:23.2964146Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+2026-08-08T19:07:23.3272100Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+2026-08-08T19:07:23.3299851Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+2026-08-08T19:07:23.3498891Z [command]/usr/bin/git config --local http.https://github.com/.extraheader AUTHORIZATION: basic ***
+2026-08-08T19:07:23.3535229Z ##[endgroup]
+2026-08-08T19:07:23.3537576Z ##[group]Fetching the repository
+2026-08-08T19:07:23.3546317Z [command]/usr/bin/git -c protocol.version=2 fetch --no-tags --prune --no-recurse-submodules --depth=1 origin +2b26b9342084a8902fc9647e85cc47cc36164709:refs/remotes/origin/main
+2026-08-08T19:07:34.3675813Z From https://github.com/aditya0579ar-info/instagram-automation-bite-v2
+2026-08-08T19:07:34.3679553Z  * [new ref]         2b26b9342084a8902fc9647e85cc47cc36164709 -> origin/main
+2026-08-08T19:07:34.3709440Z ##[endgroup]
+2026-08-08T19:07:34.3710908Z ##[group]Determining the checkout info
+2026-08-08T19:07:34.3712314Z ##[endgroup]
+2026-08-08T19:07:34.3715100Z [command]/usr/bin/git sparse-checkout disable
+2026-08-08T19:07:34.3965942Z [command]/usr/bin/git config --local --unset-all extensions.worktreeConfig
+2026-08-08T19:07:34.3997272Z ##[group]Checking out the ref
+2026-08-08T19:07:34.4001290Z [command]/usr/bin/git checkout --progress --force -B main refs/remotes/origin/main
+2026-08-08T19:07:35.4350918Z Updating files:  87% (400/456)
+2026-08-08T19:07:35.4990273Z Updating files:  88% (402/456)
+2026-08-08T19:07:35.5636338Z Updating files:  89% (406/456)
+2026-08-08T19:07:35.6409544Z Updating files:  90% (411/456)
+2026-08-08T19:07:35.6948553Z Updating files:  91% (415/456)
+2026-08-08T19:07:35.7613484Z Updating files:  92% (420/456)
+2026-08-08T19:07:35.8226856Z Updating files:  93% (425/456)
+2026-08-08T19:07:35.8668670Z Updating files:  94% (429/456)
+2026-08-08T19:07:35.9194432Z Updating files:  95% (434/456)
+2026-08-08T19:07:35.9719903Z Updating files:  96% (438/456)
+2026-08-08T19:07:35.9972179Z Updating files:  97% (443/456)
+2026-08-08T19:07:36.0433477Z Updating files:  98% (447/456)
+2026-08-08T19:07:36.0759105Z Updating files:  99% (452/456)
+2026-08-08T19:07:36.0761497Z Updating files: 100% (456/456)
+2026-08-08T19:07:36.0774991Z Updating files: 100% (456/456), done.
+2026-08-08T19:07:36.1929400Z Switched to a new branch 'main'
+2026-08-08T19:07:36.1964868Z branch 'main' set up to track 'origin/main'.
+2026-08-08T19:07:36.2059180Z ##[endgroup]
+2026-08-08T19:07:36.2103882Z [command]/usr/bin/git log -1 --format=%H
+2026-08-08T19:07:36.2144420Z 2b26b9342084a8902fc9647e85cc47cc36164709
+2026-08-08T19:07:36.3978955Z Node 20 is being deprecated. This workflow is running with Node 24 by default. If you need to temporarily use Node 20, you can set the ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true environment variable. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
+2026-08-08T19:07:36.3980970Z ##[group]Run actions/setup-python@v5
+2026-08-08T19:07:36.3981343Z with:
+2026-08-08T19:07:36.3981645Z   python-version: 3.12
+2026-08-08T19:07:36.3982018Z   check-latest: false
+2026-08-08T19:07:36.3984956Z   token: ***
+2026-08-08T19:07:36.3985286Z   update-environment: true
+2026-08-08T19:07:36.3985627Z   allow-prereleases: false
+2026-08-08T19:07:36.3985961Z   freethreaded: false
+2026-08-08T19:07:36.3986282Z ##[endgroup]
+2026-08-08T19:07:36.5417782Z ##[group]Installed versions
+2026-08-08T19:07:36.5715628Z (node:1920) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2026-08-08T19:07:36.5717211Z Successfully set up CPython (3.12.13)
+2026-08-08T19:07:36.5718043Z (Use `node --trace-deprecation ...` to show where the warning was created)
+2026-08-08T19:07:36.5719429Z ##[endgroup]
+2026-08-08T19:07:36.6098058Z ##[group]Run pip install requests google-genai
+2026-08-08T19:07:36.6098991Z [36;1mpip install requests google-genai[0m
+2026-08-08T19:07:36.6168907Z shell: /usr/bin/bash -e {0}
+2026-08-08T19:07:36.6169394Z env:
+2026-08-08T19:07:36.6169962Z   pythonLocation: /opt/hostedtoolcache/Python/3.12.13/x64
+2026-08-08T19:07:36.6170642Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.12.13/x64/lib/pkgconfig
+2026-08-08T19:07:36.6171534Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.13/x64
+2026-08-08T19:07:36.6172558Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.13/x64
+2026-08-08T19:07:36.6173551Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.13/x64
+2026-08-08T19:07:36.6174276Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.12.13/x64/lib
+2026-08-08T19:07:36.6174948Z ##[endgroup]
+2026-08-08T19:07:40.2715408Z Collecting requests
+2026-08-08T19:07:40.3526999Z   Downloading requests-2.34.2-py3-none-any.whl.metadata (4.8 kB)
+2026-08-08T19:07:40.3857045Z Collecting google-genai
+2026-08-08T19:07:40.3958038Z   Downloading google_genai-2.17.0-py3-none-any.whl.metadata (56 kB)
+2026-08-08T19:07:40.5946587Z Collecting charset_normalizer<4,>=2 (from requests)
+2026-08-08T19:07:40.6049443Z   Downloading charset_normalizer-3.4.9-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (41 kB)
+2026-08-08T19:07:40.6384501Z Collecting idna<4,>=2.5 (from requests)
+2026-08-08T19:07:40.6478732Z   Downloading idna-3.18-py3-none-any.whl.metadata (6.1 kB)
+2026-08-08T19:07:40.6755116Z Collecting urllib3<3,>=1.26 (from requests)
+2026-08-08T19:07:40.6855850Z   Downloading urllib3-2.7.0-py3-none-any.whl.metadata (6.9 kB)
+2026-08-08T19:07:40.7110437Z Collecting certifi>=2023.5.7 (from requests)
+2026-08-08T19:07:40.7213353Z   Downloading certifi-2026.7.22-py3-none-any.whl.metadata (2.5 kB)
+2026-08-08T19:07:40.7460761Z Collecting anyio<5.0.0,>=4.8.0 (from google-genai)
+2026-08-08T19:07:40.7559371Z   Downloading anyio-4.14.2-py3-none-any.whl.metadata (4.6 kB)
+2026-08-08T19:07:40.8144608Z Collecting google-auth<3.0.0,>=2.56.0 (from google-auth[requests]<3.0.0,>=2.56.0->google-genai)
+2026-08-08T19:07:40.8246915Z   Downloading google_auth-2.56.3-py3-none-any.whl.metadata (6.0 kB)
+2026-08-08T19:07:40.8550187Z Collecting httpx<1.0.0,>=0.28.1 (from google-genai)
+2026-08-08T19:07:40.8650309Z   Downloading httpx-0.28.1-py3-none-any.whl.metadata (7.1 kB)
+2026-08-08T19:07:40.9760876Z Collecting pydantic<3.0.0,>=2.12.5 (from google-genai)
+2026-08-08T19:07:40.9862886Z   Downloading pydantic-2.13.4-py3-none-any.whl.metadata (109 kB)
+2026-08-08T19:07:41.0241338Z Collecting tenacity<9.2.0,>=8.2.3 (from google-genai)
+2026-08-08T19:07:41.0344463Z   Downloading tenacity-9.1.4-py3-none-any.whl.metadata (1.2 kB)
+2026-08-08T19:07:41.1793481Z Collecting websockets<17.0,>=13.0.0 (from google-genai)
+2026-08-08T19:07:41.1898980Z   Downloading websockets-16.1.1-cp312-cp312-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl.metadata (6.8 kB)
+2026-08-08T19:07:41.2268244Z Collecting typing-extensions<5.0.0,>=4.14.0 (from google-genai)
+2026-08-08T19:07:41.2369662Z   Downloading typing_extensions-4.16.0-py3-none-any.whl.metadata (3.3 kB)
+2026-08-08T19:07:41.2556439Z Collecting distro<2,>=1.7.0 (from google-genai)
+2026-08-08T19:07:41.2658602Z   Downloading distro-1.9.0-py3-none-any.whl.metadata (6.8 kB)
+2026-08-08T19:07:41.2837639Z Collecting sniffio (from google-genai)
+2026-08-08T19:07:41.2938761Z   Downloading sniffio-1.3.1-py3-none-any.whl.metadata (3.9 kB)
+2026-08-08T19:07:41.3230828Z Collecting pyasn1-modules>=0.2.1 (from google-auth<3.0.0,>=2.56.0->google-auth[requests]<3.0.0,>=2.56.0->google-genai)
+2026-08-08T19:07:41.3332555Z   Downloading pyasn1_modules-0.4.2-py3-none-any.whl.metadata (3.5 kB)
+2026-08-08T19:07:41.5057092Z Collecting cryptography>=38.0.3 (from google-auth<3.0.0,>=2.56.0->google-auth[requests]<3.0.0,>=2.56.0->google-genai)
+2026-08-08T19:07:41.5159363Z   Downloading cryptography-50.0.0-cp311-abi3-manylinux_2_34_x86_64.whl.metadata (4.3 kB)
+2026-08-08T19:07:41.5820316Z Collecting httpcore==1.* (from httpx<1.0.0,>=0.28.1->google-genai)
+2026-08-08T19:07:41.5922583Z   Downloading httpcore-1.0.9-py3-none-any.whl.metadata (21 kB)
+2026-08-08T19:07:41.6134612Z Collecting h11>=0.16 (from httpcore==1.*->httpx<1.0.0,>=0.28.1->google-genai)
+2026-08-08T19:07:41.6233488Z   Downloading h11-0.16.0-py3-none-any.whl.metadata (8.3 kB)
+2026-08-08T19:07:41.7054938Z Collecting annotated-types>=0.6.0 (from pydantic<3.0.0,>=2.12.5->google-genai)
+2026-08-08T19:07:41.7157245Z   Downloading annotated_types-0.8.0-py3-none-any.whl.metadata (15 kB)
+2026-08-08T19:07:42.3143279Z Collecting pydantic-core==2.46.4 (from pydantic<3.0.0,>=2.12.5->google-genai)
+2026-08-08T19:07:42.3234617Z   Downloading pydantic_core-2.46.4-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (6.6 kB)
+2026-08-08T19:07:44.0973109Z Collecting typing-inspection>=0.4.2 (from pydantic<3.0.0,>=2.12.5->google-genai)
+2026-08-08T19:07:44.1084580Z   Downloading typing_inspection-0.4.2-py3-none-any.whl.metadata (2.6 kB)
+2026-08-08T19:07:45.8948846Z Collecting cffi>=2.0.0 (from cryptography>=38.0.3->google-auth<3.0.0,>=2.56.0->google-auth[requests]<3.0.0,>=2.56.0->google-genai)
+2026-08-08T19:07:45.9051181Z   Downloading cffi-2.1.1-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl.metadata (2.5 kB)
+2026-08-08T19:07:47.7595875Z Collecting pycparser (from cffi>=2.0.0->cryptography>=38.0.3->google-auth<3.0.0,>=2.56.0->google-auth[requests]<3.0.0,>=2.56.0->google-genai)
+2026-08-08T19:07:47.7697866Z   Downloading pycparser-3.0-py3-none-any.whl.metadata (8.2 kB)
+2026-08-08T19:07:47.7975041Z Collecting pyasn1<0.7.0,>=0.6.1 (from pyasn1-modules>=0.2.1->google-auth<3.0.0,>=2.56.0->google-auth[requests]<3.0.0,>=2.56.0->google-genai)
+2026-08-08T19:07:47.8073864Z   Downloading pyasn1-0.6.4-py3-none-any.whl.metadata (8.4 kB)
+2026-08-08T19:07:47.8237309Z Downloading requests-2.34.2-py3-none-any.whl (73 kB)
+2026-08-08T19:07:47.8434632Z Downloading charset_normalizer-3.4.9-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (224 kB)
+2026-08-08T19:07:47.8780311Z Downloading idna-3.18-py3-none-any.whl (65 kB)
+2026-08-08T19:07:47.8950857Z Downloading urllib3-2.7.0-py3-none-any.whl (131 kB)
+2026-08-08T19:07:47.9184538Z Downloading google_genai-2.17.0-py3-none-any.whl (1.0 MB)
+2026-08-08T19:07:48.0087779Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.0/1.0 MB 12.1 MB/s  0:00:00
+2026-08-08T19:07:48.0180058Z Downloading anyio-4.14.2-py3-none-any.whl (125 kB)
+2026-08-08T19:07:48.0356345Z Downloading distro-1.9.0-py3-none-any.whl (20 kB)
+2026-08-08T19:07:48.0489759Z Downloading google_auth-2.56.3-py3-none-any.whl (259 kB)
+2026-08-08T19:07:48.0743396Z Downloading httpx-0.28.1-py3-none-any.whl (73 kB)
+2026-08-08T19:07:48.0885356Z Downloading httpcore-1.0.9-py3-none-any.whl (78 kB)
+2026-08-08T19:07:48.1029594Z Downloading pydantic-2.13.4-py3-none-any.whl (472 kB)
+2026-08-08T19:07:48.1381385Z Downloading pydantic_core-2.46.4-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (2.1 MB)
+2026-08-08T19:07:48.2421538Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 20.4 MB/s  0:00:00
+2026-08-08T19:07:48.2520455Z Downloading tenacity-9.1.4-py3-none-any.whl (28 kB)
+2026-08-08T19:07:48.2638667Z Downloading typing_extensions-4.16.0-py3-none-any.whl (45 kB)
+2026-08-08T19:07:48.2769992Z Downloading websockets-16.1.1-cp312-cp312-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl (187 kB)
+2026-08-08T19:07:48.2935432Z Downloading annotated_types-0.8.0-py3-none-any.whl (13 kB)
+2026-08-08T19:07:48.3059837Z Downloading certifi-2026.7.22-py3-none-any.whl (136 kB)
+2026-08-08T19:07:48.3203365Z Downloading cryptography-50.0.0-cp311-abi3-manylinux_2_34_x86_64.whl (4.7 MB)
+2026-08-08T19:07:48.4724674Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.7/4.7 MB 30.8 MB/s  0:00:00
+2026-08-08T19:07:48.4829216Z Downloading cffi-2.1.1-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (221 kB)
+2026-08-08T19:07:48.4977302Z Downloading h11-0.16.0-py3-none-any.whl (37 kB)
+2026-08-08T19:07:48.5104566Z Downloading pyasn1_modules-0.4.2-py3-none-any.whl (181 kB)
+2026-08-08T19:07:48.5240550Z Downloading pyasn1-0.6.4-py3-none-any.whl (84 kB)
+2026-08-08T19:07:48.5378426Z Downloading typing_inspection-0.4.2-py3-none-any.whl (14 kB)
+2026-08-08T19:07:48.5494254Z Downloading pycparser-3.0-py3-none-any.whl (48 kB)
+2026-08-08T19:07:48.5616586Z Downloading sniffio-1.3.1-py3-none-any.whl (10 kB)
+2026-08-08T19:07:48.7084757Z Installing collected packages: websockets, urllib3, typing-extensions, tenacity, sniffio, pycparser, pyasn1, idna, h11, distro, charset_normalizer, certifi, annotated-types, typing-inspection, requests, pydantic-core, pyasn1-modules, httpcore, cffi, anyio, pydantic, httpx, cryptography, google-auth, google-genai
+2026-08-08T19:07:51.3440438Z 
+2026-08-08T19:07:51.3465881Z Successfully installed annotated-types-0.8.0 anyio-4.14.2 certifi-2026.7.22 cffi-2.1.1 charset_normalizer-3.4.9 cryptography-50.0.0 distro-1.9.0 google-auth-2.56.3 google-genai-2.17.0 h11-0.16.0 httpcore-1.0.9 httpx-0.28.1 idna-3.18 pyasn1-0.6.4 pyasn1-modules-0.4.2 pycparser-3.0 pydantic-2.13.4 pydantic-core-2.46.4 requests-2.34.2 sniffio-1.3.1 tenacity-9.1.4 typing-extensions-4.16.0 typing-inspection-0.4.2 urllib3-2.7.0 websockets-16.1.1
+2026-08-08T19:07:51.3474519Z 
+2026-08-08T19:07:51.3475127Z [notice] A new release of pip is available: 26.1.2 -> 26.2.1
+2026-08-08T19:07:51.3476202Z [notice] To update, run: pip install --upgrade pip
+2026-08-08T19:07:51.4501925Z ##[group]Run python prepare.py
+2026-08-08T19:07:51.4502357Z [36;1mpython prepare.py[0m
+2026-08-08T19:07:51.4530868Z shell: /usr/bin/bash -e {0}
+2026-08-08T19:07:51.4531266Z env:
+2026-08-08T19:07:51.4531643Z   pythonLocation: /opt/hostedtoolcache/Python/3.12.13/x64
+2026-08-08T19:07:51.4532168Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.12.13/x64/lib/pkgconfig
+2026-08-08T19:07:51.4532819Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.13/x64
+2026-08-08T19:07:51.4533524Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.13/x64
+2026-08-08T19:07:51.4533999Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.13/x64
+2026-08-08T19:07:51.4534446Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.12.13/x64/lib
+2026-08-08T19:07:51.4534851Z   GEMINI_API_KEY: 
+2026-08-08T19:07:51.4535165Z   IMGBB_API_KEY: 
+2026-08-08T19:07:51.4537229Z   META_USER_ACCESS_TOKEN: ***
+2026-08-08T19:07:51.4537571Z   META_IG_USER_ID: ***
+2026-08-08T19:07:51.4537880Z   META_PAGE_ACCESS_TOKEN: 
+2026-08-08T19:07:51.4538352Z   META_PAGE_ID: ***
+2026-08-08T19:07:51.4538646Z ##[endgroup]
+2026-08-08T19:07:53.5622320Z =======================================================
+2026-08-08T19:07:53.5624059Z   📸 @upscbite — Daily Post Preparation
+2026-08-08T19:07:53.5625221Z =======================================================
+2026-08-08T19:07:53.5626216Z ❌ config.json not found!
+2026-08-08T19:07:53.5627402Z    Copy config.example.json → config.json and fill in your API keys.
+2026-08-08T19:07:53.5629078Z    Expected at: /home/runner/work/instagram-automation-bite-v2/instagram-automation-bite-v2/config.json
+2026-08-08T19:07:53.7314286Z ##[error]Process completed with exit code 1.
+2026-08-08T19:07:53.7457035Z Node 20 is being deprecated. This workflow is running with Node 24 by default. If you need to temporarily use Node 20, you can set the ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true environment variable. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
+2026-08-08T19:07:53.7458185Z Post job cleanup.
+2026-08-08T19:07:53.8375035Z [command]/usr/bin/git version
+2026-08-08T19:07:53.8432283Z git version 2.54.0
+2026-08-08T19:07:53.8510919Z Temporarily overriding HOME='/home/runner/work/_temp/eb71f0d4-9470-4ada-ad1f-2c4fa728dffb' before making global git config changes
+2026-08-08T19:07:53.8522214Z Adding repository directory to the temporary git global config as a safe directory
+2026-08-08T19:07:53.8523886Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/instagram-automation-bite-v2/instagram-automation-bite-v2
+2026-08-08T19:07:53.8586601Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2026-08-08T19:07:53.8655757Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+2026-08-08T19:07:53.9017437Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2026-08-08T19:07:53.9025221Z http.https://github.com/.extraheader
+2026-08-08T19:07:53.9050057Z [command]/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
+2026-08-08T19:07:53.9053585Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+2026-08-08T19:07:53.9411923Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+2026-08-08T19:07:53.9485591Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+2026-08-08T19:07:54.0164132Z Cleaning up orphan processes
+2026-08-08T19:07:54.0389151Z ##[warning]Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v4, actions/setup-python@v5. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/

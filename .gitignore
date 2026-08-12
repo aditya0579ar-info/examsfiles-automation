@@ -1,0 +1,9 @@
+﻿.venv
+__pycache__
+vault
+processed
+*.log
+git_portable
+gh_cli
+user_msgs.txt
+config.json
