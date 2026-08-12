@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-prepare.py — Daily Instagram/Facebook Post Preparation for @upscbite
+prepare.py — Daily Instagram/Facebook Post Preparation for @examsfiles
 
 Usage:
     python prepare.py              Normal mode: process images, post & schedule
@@ -15,7 +15,7 @@ Flow:
     5. Schedules all 20 to Facebook Page (server-side)
     6. Creates Instagram containers for remaining 18
     7. Pushes queue to GitHub for automated hourly publishing
-    8. Moves all processed images to 'uploaded  bite' folder
+    8. Moves all processed images to 'uploaded exam' folder
 """
 
 import os
@@ -486,7 +486,7 @@ def prepare(dry_run: bool = False):
     on the next run.
     """
     print("=" * 55)
-    print("  📸 @upscbite — Daily Post Preparation")
+    print("  📸 @examsfiles — Daily Post Preparation")
     print("=" * 55)
 
     if dry_run:
@@ -499,7 +499,7 @@ def prepare(dry_run: bool = False):
     settings = config.get("settings", {})
 
     image_folder = Path(settings.get("image_folder", r"C:\Users\Welcome\Pictures\bite upload"))
-    uploaded_folder = Path(settings.get("uploaded_folder", r"C:\Users\Welcome\Pictures\uploaded  bite"))
+    uploaded_folder = Path(settings.get("uploaded_folder", r"C:\Users\Welcome\Pictures\uploaded exam"))
     
     is_ci = os.environ.get("GITHUB_ACTIONS") == "true"
     if is_ci:
@@ -714,7 +714,7 @@ def prepare(dry_run: bool = False):
         atomic_write_json(QUEUE_PATH, queue)
 
     # ------------------------------------------------------------------
-    # Move ALL fully-processed images to 'uploaded  bite'
+    # Move ALL fully-processed images to 'uploaded exam'
     # ------------------------------------------------------------------
     moved = 0
     for post in queue["posts"]:
@@ -743,7 +743,7 @@ def prepare(dry_run: bool = False):
         moved += 1
     if moved:
         atomic_write_json(QUEUE_PATH, queue)
-        print(f"\n📁 Moved {moved} image(s) to uploaded  bite/")
+        print(f"\n📁 Moved {moved} image(s) to uploaded exam/")
 
     # ------------------------------------------------------------------
     # Push queue to GitHub so Actions can publish remaining IG posts
@@ -839,7 +839,7 @@ def show_status():
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Prepare daily Instagram/Facebook posts for @upscbite",
+        description="Prepare daily Instagram/Facebook posts for @examsfiles",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
@@ -864,3 +864,5 @@ Examples:
         show_status()
     else:
         prepare(dry_run=args.dry_run)
+
+

@@ -18,9 +18,9 @@ def run_git_command(args, env):
     git_exe = str(SCRIPT_DIR / "git_portable" / "cmd" / "git.exe")
     return subprocess.run([git_exe] + args, cwd=str(SCRIPT_DIR), capture_output=True, text=True, env=env)
 
-def sync_exam upload():
+def sync_exam_upload():
     print("==================================================")
-    print("☁️   UPSC Bite - Upload Exam Upload Sync (One-by-One)")
+    print("☁️   Exams Files - Upload Exam Upload Sync (One-by-One)")
     print("==================================================")
     
     settings = get_settings()
@@ -28,8 +28,8 @@ def sync_exam upload():
     uploaded_folder = Path(settings.get("uploaded_folder", r"C:\Users\Welcome\Pictures\uploaded  bite"))
     uploaded_folder.mkdir(parents=True, exist_ok=True)
     
-    exam upload_folder = SCRIPT_DIR / "exam upload"
-    exam upload_folder.mkdir(parents=True, exist_ok=True)
+    exam_upload_folder = SCRIPT_DIR / "exam upload"
+    exam_upload_folder.mkdir(parents=True, exist_ok=True)
     
     env = {**os.environ, "GIT_TERMINAL_PROMPT": "0"}
     
@@ -62,7 +62,7 @@ def sync_exam upload():
     synced = 0
     for i, img_path in enumerate(images, 1):
         print(f"\n   [{i}/{len(images)}] ⚙️  Processing {img_path.name}...")
-        dst_path = exam upload_folder / img_path.name
+        dst_path = exam_upload_folder / img_path.name
         
         try:
             # Atomic-like copy: copy to .tmp first, then rename
@@ -95,4 +95,6 @@ def sync_exam upload():
     print(f"\n   🌟 Sync complete! Successfully and safely uploaded {synced} images.")
 
 if __name__ == "__main__":
-    sync_exam upload()
+    sync_exam_upload()
+
+
