@@ -206,7 +206,14 @@ def publish_next(dry_run: bool = False):
     if not targets:
         all_done = all(p.get("ig_published") for p in posts if p.get("ig_container_id"))
         if all_done:
-            print("✅ All Instagram posts have been published! Queue complete.")
+            print("o. All Instagram posts have been published! Queue complete.")
+            if os.environ.get("GITHUB_ACTIONS"):
+                print("sT,? Triggering cloud cleanup of processed images...")
+                # Delete both folders to ensure no images are left behind in the git repository
+                import subprocess
+                subprocess.run(["git", "rm", "-r", "--ignore-unmatch", "uploaded exam/"], capture_output=True)
+                subprocess.run(["git", "rm", "-r", "--ignore-unmatch", "exam upload/"], capture_output=True)
+                print("o. Cloud cleanup staged successfully.")
         else:
             pending = [p for p in posts if p.get("ig_container_id") and not p.get("ig_published")]
             if pending:
@@ -334,4 +341,5 @@ if __name__ == "__main__":
         show_status()
     else:
         publish_next(dry_run=args.dry_run)
+
 
