@@ -504,14 +504,13 @@ def prepare(dry_run: bool = False):
     is_ci = os.environ.get("GITHUB_ACTIONS") == "true"
     if is_ci:
         print("☁️ Running in GitHub Actions (Cloud Vault Mode)")
-        image_folder = SCRIPT_DIR / "vault"
-        uploaded_folder = SCRIPT_DIR / "processed"
+        image_folder = SCRIPT_DIR / "exam upload"
+        uploaded_folder = SCRIPT_DIR / "uploaded exam"
         image_folder.mkdir(parents=True, exist_ok=True)
         uploaded_folder.mkdir(parents=True, exist_ok=True)
     posts_per_day = int(settings.get("posts_per_day", 20))
     immediate_posts = int(settings.get("immediate_posts", 2))
-    hour_gap = float(settings.get("hour_gap", 1.0))
-
+    minute_gap = float(settings.get("minute_gap", 37.0))
     # Ensure the uploaded folder exists
     uploaded_folder.mkdir(parents=True, exist_ok=True)
 
@@ -532,8 +531,8 @@ def prepare(dry_run: bool = False):
     # Filter out images that are already in the queue BEFORE slicing
     images = [img for img in images if img.name not in existing]
     
-    # Always start scheduling at exactly 8:00 AM IST for the current day
-    start_time = datetime.now(IST).replace(hour=8, minute=0, second=0, microsecond=0)
+    # Always start scheduling at exactly 8:30 AM IST for the current day
+    start_time = datetime.now(IST).replace(hour=8, minute=30, second=0, microsecond=0)
 
     # Prevent adding new posts if we already prepared a batch today
     if queue.get("prepared_at"):
@@ -557,7 +556,7 @@ def prepare(dry_run: bool = False):
         if img_path.name in existing:
             continue  # Already queued from a previous (interrupted) run
 
-        scheduled = start_time + timedelta(hours=idx * hour_gap)
+        scheduled = start_time + timedelta(minutes=idx * minute_gap)
         queue["posts"].append({
             "index": idx,
             "filename": img_path.name,
