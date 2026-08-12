@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-publish.py — Hourly Instagram Publisher for @upscbite
+publish.py — Hourly Instagram Publisher for @examsfiles
 
 Called by GitHub Actions every hour to publish the next pending Instagram post.
 Can also be run locally for testing.
@@ -324,7 +324,7 @@ if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser(
-        description="Publish next pending Instagram post for @upscbite"
+        description="Publish next pending Instagram post for @examsfiles"
     )
     parser.add_argument("--dry-run", action="store_true", help="Simulate without publishing")
     parser.add_argument("--status", action="store_true", help="Show queue status")
@@ -334,3 +334,4 @@ if __name__ == "__main__":
         show_status()
     else:
         publish_next(dry_run=args.dry_run)
+

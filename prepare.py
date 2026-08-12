@@ -61,9 +61,9 @@ CAPTION_PROMPT_TEMPLATE = """Generate an Instagram educational caption on {topic
 - Add 6 concise bullet points covering the most important aspects (definition, types, features, functions, importance, challenges, examples, or related concepts—whichever fits the topic).
 - Keep the content factually accurate, exam-oriented, and suitable for UPSC/SSC/School/Competitive exams.
 - End with a short list of relevant target audiences (e.g., UPSC, SSC, Indian Polity, Geography, etc.).
-- After the audience list, add the channel name: upscbite
-- After the channel name, add: upscbite notes
-- Finish with 8–10 relevant hashtags, always ending with #upscbite
+- After the audience list, add the channel name: examsfiles
+- After the channel name, add: Exams Files notes
+- Finish with 8–10 relevant hashtags, always ending with #examsfiles
 - Do not use tables, markdown headings, or unnecessary emojis. Keep the caption clean, informative, and easy to read.
 - Do NOT wrap the output in markdown code blocks or quotes.
 - Total caption MUST be under 2200 characters.
@@ -864,5 +864,6 @@ Examples:
         show_status()
     else:
         prepare(dry_run=args.dry_run)
+
 
 
