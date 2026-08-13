@@ -515,6 +515,22 @@ def prepare(dry_run: bool = False):
     uploaded_folder.mkdir(parents=True, exist_ok=True)
 
     # ------------------------------------------------------------------
+    # Clean up yesterday's published images from GitHub storage
+    # (Only runs in CI — clears 'uploaded exam/' before picking new images)
+    # ------------------------------------------------------------------
+    if is_ci and uploaded_folder.exists():
+        old_files = [f for f in uploaded_folder.iterdir() if f.is_file()]
+        if old_files:
+            print(f"\n🧹 Cleaning {len(old_files)} previously published image(s) from '{uploaded_folder.name}/'...")
+            for f in old_files:
+                rel_path = str(f.relative_to(SCRIPT_DIR))
+                subprocess.run(["git", "rm", "-f", "--ignore-unmatch", rel_path],
+                               cwd=str(SCRIPT_DIR), capture_output=True)
+            print(f"   ✅ Cleared {len(old_files)} old image(s) to free GitHub storage.")
+        else:
+            print("\n🧹 No old processed images to clean up.")
+
+    # ------------------------------------------------------------------
     # Scan images
     # ------------------------------------------------------------------
     images = scan_images(image_folder)
