@@ -1,7 +1,6 @@
 .venv
 __pycache__
-exam upload
-uploaded exam
+*.tmp
 *.log
 git_portable
 gh_cli
