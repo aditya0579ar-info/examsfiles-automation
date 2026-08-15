@@ -633,7 +633,7 @@ def prepare(dry_run: bool = False):
             else:
                 try:
                     post["image_url"] = upload_to_imgbb(img_path, config["imgbb"]["api_key"])
-                    time.sleep(5)  # Wait for ImgBB CDN to propagate before FB fetches it
+                    time.sleep(10)  # Wait for ImgBB CDN to propagate before FB fetches it
                 except Exception as exc:
                     print(f"   ❌ Upload failed: {exc}")
                     print(f"   ⏩ Skipping — will retry on next run")
@@ -647,14 +647,24 @@ def prepare(dry_run: bool = False):
             if dry_run:
                 post["ig_container_id"] = f"dry-run-container-{idx}"
             else:
-                try:
-                    post["ig_container_id"] = create_ig_container(
-                        post["image_url"], post["caption"], config
-                    )
-                    time.sleep(2)
-                except Exception as exc:
-                    print(f"   ❌ IG container failed: {exc}")
+                for attempt in range(3):
+                    try:
+                        post["ig_container_id"] = create_ig_container(
+                            post["image_url"], post["caption"], config
+                        )
+                        time.sleep(2)
+                        break
+                    except Exception as exc:
+                        if attempt < 2:
+                            print(f"   ⚠️ IG container failed (CDN delay?), retrying in 15s... ({exc})")
+                            time.sleep(15)
+                        else:
+                            print(f"   ❌ IG container failed permanently: {exc}")
+                
+                # If it failed all attempts, skip to next image
+                if not post.get("ig_container_id"):
                     continue
+            
             atomic_write_json(QUEUE_PATH, queue)  # Checkpoint ✓
             print(f"   ✅ Container → {post['ig_container_id']}")
 
