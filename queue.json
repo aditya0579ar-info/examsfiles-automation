@@ -53,7 +53,7 @@
       "ig_published": true,
       "fb_post_id": "122120092389068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-15T09:44:00+05:30"
     },
     {
@@ -67,7 +67,7 @@
       "ig_published": true,
       "fb_post_id": null,
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-15T10:21:00+05:30"
     },
     {
@@ -81,7 +81,7 @@
       "ig_published": true,
       "fb_post_id": "122120092719068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-15T10:58:00+05:30"
     },
     {
@@ -95,7 +95,7 @@
       "ig_published": true,
       "fb_post_id": null,
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-15T11:35:00+05:30"
     },
     {
@@ -109,7 +109,7 @@
       "ig_published": true,
       "fb_post_id": "122120092869068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-15T12:12:00+05:30"
     },
     {
@@ -123,7 +123,7 @@
       "ig_published": true,
       "fb_post_id": null,
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-15T12:49:00+05:30"
     },
     {
@@ -137,7 +137,7 @@
       "ig_published": true,
       "fb_post_id": "122120093199068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-15T13:26:00+05:30"
     },
     {
@@ -151,7 +151,7 @@
       "ig_published": true,
       "fb_post_id": null,
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-15T14:03:00+05:30"
     },
     {
@@ -263,7 +263,7 @@
       "ig_published": true,
       "fb_post_id": null,
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-15T18:59:00+05:30"
     },
     {
@@ -277,7 +277,7 @@
       "ig_published": true,
       "fb_post_id": "122120094069068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-15T19:36:00+05:30"
     },
     {
@@ -305,7 +305,7 @@
       "ig_published": true,
       "fb_post_id": "122120094393068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-15T20:50:00+05:30"
     },
     {
@@ -314,12 +314,12 @@
       "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0002_Linear_Programming.png",
       "caption": "Linear Programming in Operations Research 📊\nLinear Programming is an essential tool in Operations Research used to optimize a problem by selecting the best option from a set of feasible solutions. It is a powerful technique used in various fields such as business, economics, engineering, and more. By using Linear Programming, decision-makers can make informed decisions that maximize benefits and minimize costs.\n\nHere are the key aspects of Linear Programming:\n- It is a method to find the optimal solution to a problem by maximizing or minimizing a linear objective function.\n- Linear Programming problems are typically represented graphically as a linear constraint model.\n- There are two main types of Linear Programming problems: Maximization and Minimization.\n- The Simplex method is a popular algorithm used to solve Linear Programming problems.\n- Linear Programming is used in various real-world applications such as resource allocation, project management, and supply chain optimization.\n- It has many features such as sensitivity analysis and post-optimality analysis.\n- Linear Programming is used in various industries such as finance, logistics, and manufacturing.\n- One example of Linear Programming is the airline scheduling problem where airlines aim to maximize revenue and minimize costs.\n\nTarget Audience: UPSC, SSC, Management, Commerce, Economics, Engineering.\n\nexamsfiles Exams Files notes\n#LinearProgramming #OperationsResearch #Management #Commerce #Economics #Engineering #Mathematics #Optimization #examsfiles",
       "image_url": "https://i.ibb.co/SwtNK6rT/0002-Linear-Programming.jpg",
-      "ig_container_id": null,
+      "ig_container_id": "18045169376654948",
       "ig_post_id": null,
       "ig_published": false,
-      "fb_post_id": null,
-      "fb_scheduled": false,
-      "moved": false,
+      "fb_post_id": "122120194287068119",
+      "fb_scheduled": true,
+      "moved": true,
       "scheduled_time": "2026-08-15T21:27:00+05:30"
     },
     {
@@ -328,12 +328,12 @@
       "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0002_Lucknow_Pact.png",
       "caption": "Lucknow Pact: A Unifying Force 📚\nThe Lucknow Pact was a historic agreement between the Indian National Congress and the All-India Muslim League in 1916, marking a significant milestone in the Indian independence movement. This pact aimed to bridge the gap between Hindus and Muslims, ensuring their collective representation in India's fight for freedom. It was a crucial step towards a unified India.\n\nKey aspects of the Lucknow Pact:\n- The pact was signed on December 29, 1916, in Lucknow, Uttar Pradesh.\n- It was a joint initiative of Bal Gangadhar Tilak and Muhammad Ali Jinnah.\n- The pact aimed to establish a joint front against British rule in India.\n- It included demands for greater representation in the Indian Legislative Council.\n- The pact also sought to protect minority rights and interests.\n- It was a significant precursor to the eventual partition of India and Pakistan.\n- The Lucknow Pact ultimately failed to achieve its goal of a unified India.\n\nAudience: UPSC, SSC, Indian Polity, History, Geography, NCERT.\nexamsfiles\nExams Files notes\n#LucknowPact #IndianIndependenceMovement #IndianNationalCongress #AllIndiaMuslimLeague #BalGangadharTilak #MuhammadAliJinnah #IndianHistory #GeographyOfIndia #IndianPolity #examsfiles",
       "image_url": "https://i.ibb.co/TM5jKKk4/0002-Lucknow-Pact.jpg",
-      "ig_container_id": null,
+      "ig_container_id": "18045169415654948",
       "ig_post_id": null,
       "ig_published": false,
-      "fb_post_id": null,
-      "fb_scheduled": false,
-      "moved": false,
+      "fb_post_id": "122120194503068119",
+      "fb_scheduled": true,
+      "moved": true,
       "scheduled_time": "2026-08-15T22:04:00+05:30"
     },
     {
@@ -347,7 +347,7 @@
       "ig_published": true,
       "fb_post_id": "122120095329068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-15T22:41:00+05:30"
     },
     {
@@ -361,7 +361,7 @@
       "ig_published": true,
       "fb_post_id": "122120095383068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T08:30:00+05:30"
     },
     {
@@ -375,7 +375,7 @@
       "ig_published": true,
       "fb_post_id": null,
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T09:07:00+05:30"
     },
     {
@@ -389,7 +389,7 @@
       "ig_published": true,
       "fb_post_id": "122120095923068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T09:44:00+05:30"
     },
     {
@@ -403,7 +403,7 @@
       "ig_published": true,
       "fb_post_id": "122120096061068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T10:21:00+05:30"
     },
     {
@@ -417,7 +417,7 @@
       "ig_published": true,
       "fb_post_id": "122120096253068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T10:58:00+05:30"
     },
     {
@@ -431,7 +431,7 @@
       "ig_published": true,
       "fb_post_id": "122120096601068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T11:35:00+05:30"
     },
     {
@@ -445,7 +445,7 @@
       "ig_published": true,
       "fb_post_id": "122120096961068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T12:12:00+05:30"
     },
     {
@@ -459,7 +459,7 @@
       "ig_published": true,
       "fb_post_id": "122120097495068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T12:49:00+05:30"
     },
     {
@@ -473,7 +473,7 @@
       "ig_published": true,
       "fb_post_id": "122120097699068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T13:26:00+05:30"
     },
     {
@@ -487,7 +487,7 @@
       "ig_published": true,
       "fb_post_id": null,
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T14:03:00+05:30"
     },
     {
@@ -501,7 +501,7 @@
       "ig_published": true,
       "fb_post_id": "122120098341068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T14:40:00+05:30"
     },
     {
@@ -515,7 +515,7 @@
       "ig_published": true,
       "fb_post_id": "122120098497068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T15:17:00+05:30"
     },
     {
@@ -529,7 +529,7 @@
       "ig_published": true,
       "fb_post_id": "122120098569068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T15:54:00+05:30"
     },
     {
@@ -543,7 +543,7 @@
       "ig_published": true,
       "fb_post_id": "122120098779068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T16:31:00+05:30"
     },
     {
@@ -557,7 +557,7 @@
       "ig_published": true,
       "fb_post_id": "122120099013068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T17:08:00+05:30"
     },
     {
@@ -571,7 +571,7 @@
       "ig_published": true,
       "fb_post_id": "122120099325068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T17:45:00+05:30"
     },
     {
@@ -585,7 +585,7 @@
       "ig_published": true,
       "fb_post_id": "122120099511068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T18:22:00+05:30"
     },
     {
@@ -599,7 +599,7 @@
       "ig_published": true,
       "fb_post_id": "122120099583068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T18:59:00+05:30"
     },
     {
@@ -613,7 +613,7 @@
       "ig_published": true,
       "fb_post_id": "122120099781068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T19:36:00+05:30"
     },
     {
@@ -627,7 +627,7 @@
       "ig_published": true,
       "fb_post_id": null,
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T20:13:00+05:30"
     },
     {
@@ -636,12 +636,12 @@
       "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0004_Vertebral_Column_Structure.png",
       "caption": "Vertebral Column Structure 🦴\nThe vertebral column, also known as the spine, is the backbone of the human body providing support, flexibility, and protection to the internal organs. Understanding the structure of the vertebral column is crucial for various medical and biological studies. In this post, we will explore the key aspects of the vertebral column.\n\n• The vertebral column is a complex structure consisting of 33 vertebrae, which are divided into five regions: cervical, thoracic, lumbar, sacrum, and coccyx.\n• The cervical region contains 7 vertebrae, the thoracic region contains 12 vertebrae, the lumbar region contains 5 vertebrae, the sacrum contains 5 fused vertebrae, and the coccyx contains 4 fused vertebrae.\n• Each vertebra is composed of a vertebral body, a vertebral arch, and a spinous process, which provide support, protection, and attachment points for muscles and ligaments.\n• The vertebral column functions to support the body's weight, facilitate movement, and protect the spinal cord and internal organs such as the heart and lungs.\n• The vertebral column is crucial for maintaining posture, balance, and flexibility, and any damage or abnormality can lead to a range of health problems.\n• The vertebral column has five types of joints: fibrous, cartilaginous, synovial, pivot, and plane joints, which enable flexibility and movement.\n• The vertebral column is made up of a combination of bones that are connected by ligaments, tendons, and muscles, which provide support and stability.\n• Understanding the vertebral column is essential for various medical and biological studies, including orthopedics, physical therapy, and anatomy.\n\nTarget Audience: UPSC, SSC, NEET, MBBS, AIIMS, and Medical Entrance Exams\nexamsfiles\nExams Files notes\n#vertebralcolumn #spine #backbone #anatomy #medicalscience #biology #UPSC #SSC #NEET #MBBS #AIIMS #medicalentranceexams #examsfiles",
       "image_url": "https://i.ibb.co/Ngvf7qWj/0004-Vertebral-Column-Structure.jpg",
-      "ig_container_id": null,
+      "ig_container_id": "18045169475654948",
       "ig_post_id": null,
       "ig_published": false,
       "fb_post_id": null,
-      "fb_scheduled": false,
-      "moved": false,
+      "fb_scheduled": true,
+      "moved": true,
       "scheduled_time": "2026-08-16T20:50:00+05:30"
     },
     {
@@ -655,7 +655,7 @@
       "ig_published": true,
       "fb_post_id": null,
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T21:27:00+05:30"
     },
     {
@@ -669,7 +669,7 @@
       "ig_published": true,
       "fb_post_id": "122120100039068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T22:04:00+05:30"
     },
     {
@@ -683,9 +683,345 @@
       "ig_published": true,
       "fb_post_id": "122120100207068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-16T22:41:00+05:30"
+    },
+    {
+      "index": 0,
+      "filename": "0005_Common_Spine_Disorders.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0005_Common_Spine_Disorders.png",
+      "caption": "Spine Disorders Awareness 🦴\n\nThe human spine is a complex and vital part of the skeletal system, providing support, protection, and flexibility to the body. However, various spine disorders can cause pain, discomfort, and even disability. Understanding these disorders is crucial for maintaining spinal health and seeking timely medical attention. \n\nHere are some key aspects of common spine disorders:\n- Herniated discs occur when the gel-like substance between spinal vertebrae bulges or ruptures, causing pain and numbness.\n- Scoliosis is a curvature of the spine that can be congenital or acquired, often leading to back pain and breathing difficulties.\n- Spinal stenosis is a narrowing of the spinal canal, compressing nerves and causing leg pain, numbness, and weakness.\n- Osteoporosis weakens the bones, including the spine, making them more susceptible to fractures and deformities.\n- Spondylolisthesis is a condition where a vertebra slips out of place, often causing back pain and leg numbness.\n- Degenerative disc disease occurs when spinal discs wear out, causing back pain and stiffness.\n\nTarget audiences: UPSC, SSC, MBBS, Nursing, Physical Therapy\nexamsfiles\nExams Files notes\n#spinedisorders #backpain #osteoarthritis #spinalhealth #physicaltherapy #medicalnotes #examsfiles",
+      "image_url": "https://i.ibb.co/nxP33pg/0005-Common-Spine-Disorders.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-17T08:30:00+05:30"
+    },
+    {
+      "index": 1,
+      "filename": "0005_Duties_and_Powers.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0005_Duties_and_Powers.png",
+      "caption": "Duties and Powers of the President 📚\nThe President of India is the head of the executive branch of the government and plays a crucial role in shaping the country's future. The duties and powers of the President are as per the Constitution of India and are essential to understand for anyone interested in Indian Polity. The President's duties and powers are outlined in Article 53-78 of the Constitution.\n\n- The President is the symbol of the nation and the unity of its people.\n- The President has the power to appoint the Prime Minister and the Council of Ministers.\n- The President serves as the Supreme Commander of the Defence Forces.\n- The President has the power to grant pardons, reprieves, and respites to convicts.\n- The President has the power to appoint the Governors of States.\n- The President has the power to dissolve the Lok Sabha and call for fresh elections.\n\nUPSC, Indian Polity, Geography, Current Affairs, SSC, State PSC\nexamsfiles\nExams Files notes\n#IndianPolity #UPSC #SSC #Geography #CurrentAffairs #StatePSC #DutiesAndPowersOfPresident #PresidentOfIndia #examsfiles",
+      "image_url": "https://i.ibb.co/8nwX7jsY/0005-Duties-and-Powers.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-17T09:07:00+05:30"
+    },
+    {
+      "index": 2,
+      "filename": "0005_Henry's_Law.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0005_Henry's_Law.png",
+      "caption": "Henry's Law: Understanding Gas Solubility in Liquids 💡\n\nHenry's Law is a fundamental concept in chemistry that describes the relationship between the concentration of a gas in a liquid and its partial pressure. This law is crucial for understanding various phenomena in chemistry, physics, and biology. It has numerous practical applications in fields like medicine, agriculture, and environmental science.\n\nHere are the key points to remember about Henry's Law:\n- Henry's Law states that the solubility of a gas in a liquid is directly proportional to its partial pressure above the liquid.\n- The law is named after William Henry, who first described it in 1803.\n- There are different types of Henry's Law, including the ideal gas law and the non-ideal gas law.\n- The law has several features, including linearity and proportionality between gas concentration and partial pressure.\n- Henry's Law is essential for understanding the behavior of gases in various systems, including the atmosphere, oceans, and biological tissues.\n- The law has several challenges, including the need to account for non-ideal behavior and the effects of temperature and pressure.\n- Examples of Henry's Law in action include the solubility of carbon dioxide in water and the absorption of anesthetic gases in the lungs.\n- Henry's Law is related to other concepts, including Dalton's Law of Partial Pressures and the ideal gas law.\n\nTarget audiences: UPSC, SSC, Chemistry, Physics, Biology.\n\nexamsfiles Exams Files notes #HenryLaw #Chemistry #Physics #Biology #GasSolubility #PartialPressure #IdealGasLaw #ExamsFiles #ScienceNotes #ChemistryNotes #PhysicsNotes #BiologyNotes #ExamsFiles",
+      "image_url": "https://i.ibb.co/FkTVYPd0/0005-Henry-s-Law.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-17T09:44:00+05:30"
+    },
+    {
+      "index": 3,
+      "filename": "0005_Human_Blood_Genetics.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0005_Human_Blood_Genetics.png",
+      "caption": "Human Blood Genetics 🧬\nHuman blood genetics is the study of the genetic information encoded in an individual's blood cells. This field of study helps understand the genetic makeup of an individual and its impact on their overall health. By analyzing blood cells, scientists can identify genetic disorders and develop treatments for them.\n\n• Blood type is determined by the presence or absence of specific antigens on the surface of red blood cells.\n• There are four main blood types: A, B, AB, and O, which are determined by the presence or absence of A and B antigens.\n• Blood type is inherited in an autosomal codominant manner, meaning that a person's blood type is determined by the combination of their parents' blood types.\n• The ABO blood group system is the most important blood group system in transfusion medicine, as ABO-incompatible blood transfusions can lead to serious complications.\n• The Rh blood group system is another important blood group system, as the Rh factor can cause hemolytic disease of the newborn in Rh-negative mothers carrying Rh-positive fetuses.\n• Blood typing is crucial in medical settings, such as during blood transfusions, where matching the blood type of the donor and recipient is essential to prevent adverse reactions.\n\nTarget Audience: UPSC, SSC, NEET, MBBS, Nursing, Medical Entrance Exams, Biology, Genetics.\nexamsfiles Exams Files notes\n#humanbiology #bloodgenetics #genetics #bloodtype #abo #rh #bloodtransfusion #medicalscience #biology #medicalexams #examsfiles",
+      "image_url": "https://i.ibb.co/3yt4RN61/0005-Human-Blood-Genetics.jpg",
+      "ig_container_id": "18045170003654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120195331068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-17T10:21:00+05:30"
+    },
+    {
+      "index": 4,
+      "filename": "0005_National_Parks_of_India.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0005_National_Parks_of_India.png",
+      "caption": "National Parks of India 🌳\nThe National Parks of India are protected areas managed by the Government of India that provide a safe habitat for a variety of flora and fauna. These parks are crucial for preserving biodiversity and promoting eco-tourism. They serve as a natural haven for various species of plants and animals.\n\nHere are some key aspects of National Parks of India:\n- National Parks are designated areas that provide a safe habitat for endangered species and other wildlife. \n- India has a total of 106 National Parks, which are spread across 18 states and union territories. \n- The National Parks in India are home to a diverse range of wildlife, including the Bengal tiger, Asiatic lion, and Indian elephant. \n- They also provide opportunities for eco-tourism, which helps in generating revenue and promoting conservation efforts. \n- The National Parks in India are managed by the Ministry of Environment, Forest and Climate Change. \n- These parks are not only important for preserving biodiversity but also play a crucial role in maintaining the ecological balance of the ecosystem.\n\nTarget Audience: UPSC, SSC, Indian Geography, Environmental Studies\nexamsfiles\nExams Files notes\n#NationalParksOfIndia #IndianGeography #EnvironmentalStudies #Biodiversity #EcoTourism #WildlifeConservation #UPSCNotes #SSCNotes #examsfiles",
+      "image_url": "https://i.ibb.co/cS4zCSjM/0005-National-Parks-of-India.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-17T10:58:00+05:30"
+    },
+    {
+      "index": 5,
+      "filename": "0005_Psychology_of_Success.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0005_Psychology_of_Success.png",
+      "caption": "Psychology of Success 🏆\nUnderstanding the mindset and behaviors that drive individuals to achieve their goals.\nThe psychology of success is a vast and intriguing field that delves into the cognitive, emotional, and social factors that contribute to an individual's ability to succeed. In this post, we will explore some key aspects of the psychology of success.\n\n- It is defined as the combination of skills, knowledge, and attitudes that enable individuals to set and achieve their goals.\n- There are three types of success: material, emotional, and social.\n- Key features of successful individuals include a growth mindset, resilience, and self-discipline.\n- The functions of the psychology of success include goal-setting, motivation, and self-regulation.\n- It is essential for personal growth, happiness, and overall well-being.\n- Successful individuals often face challenges such as procrastination, self-doubt, and fear of failure.\n- Examples of successful individuals who possess a strong psychology of success include entrepreneurs, athletes, and leaders.\n\nTarget Audience: UPSC, SSC, Psychology, Indian Polity, Geography, Economics, and Management.\nexamsfiles\nExams Files notes\n#PsychologyOfSuccess #SuccessMindset #GoalSetting #Motivation #PersonalGrowth #Happiness #Wellness #examsfiles",
+      "image_url": "https://i.ibb.co/dwWjJxV2/0005-Psychology-of-Success.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-17T11:35:00+05:30"
+    },
+    {
+      "index": 6,
+      "filename": "0006_ABO_Blood_Group_Inheritance.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0006_ABO_Blood_Group_Inheritance.png",
+      "caption": "Blood Group Inheritance 🧬\nThe ABO blood group system is a crucial concept in genetics, determining the compatibility of blood for transfusions and understanding the genetic basis of this trait. Understanding this concept is essential for medical professionals, researchers, and anyone interested in genetics. The ABO blood group system is a complex trait influenced by multiple genes.\n\n- The ABO blood group system is a genetic system that categorizes blood into four main groups: A, B, AB, and O.\n- The ABO blood group is determined by a single gene with three alleles: A, B, and O.\n- Each individual inherits two alleles, one from each parent, and the combination of these alleles determines their blood group.\n- The presence of the A or B allele results in the production of A or B antigens on red blood cells, while the O allele does not produce any antigens.\n- Individuals with type AB blood group are universal recipients, meaning they can accept blood from all groups, while those with type O blood group are universal donors.\n- The ABO blood group system is important in medical transfusions, as incompatible blood groups can lead to serious health complications.\n\nSuitable for: UPSC, SSC, Medical Entrance, Genetics, Biology.\n\nexamsfiles Exams Files notes\n#ABO blood group system #genetics #blood transfusion #medical science #biology #genetic inheritance #medical entrance #competitive exams #examsfiles",
+      "image_url": "https://i.ibb.co/chtJ4xkV/0006-ABO-Blood-Group-Inheritance.jpg",
+      "ig_container_id": "18045170441654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120195697068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-17T12:12:00+05:30"
+    },
+    {
+      "index": 7,
+      "filename": "0006_Complete_Coordinate_Geometry_Formula_Sheet.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0006_Complete_Coordinate_Geometry_Formula_Sheet.png",
+      "caption": "Complete Coordinate Geometry Formula Sheet 📚\nCoordinate geometry is a branch of mathematics that deals with the study of geometric shapes and figures using algebraic methods. It is an essential topic in mathematics that helps us understand the properties and relationships between different geometric figures. In this post, we will cover the key formulas and concepts that you need to know for your exams.\n\nHere are the key formulas and concepts in coordinate geometry:\n\n- The distance between two points (x1, y1) and (x2, y2) is given by the formula: √((x2 - x1)² + (y2 - y1)²)\n- The midpoint of a line segment with endpoints (x1, y1) and (x2, y2) is given by the formula: ((x1 + x2)/2, (y1 + y2)/2)\n- The slope of a line passing through two points (x1, y1) and (x2, y2) is given by the formula: (y2 - y1)/(x2 - x1)\n- The equation of a circle with center (h, k) and radius r is given by the formula: (x - h)² + (y - k)² = r²\n- The equation of a line passing through the point (x1, y1) and having slope m is given by the formula: y - y1 = m(x - x1)\n- The area of a triangle with vertices (x1, y1), (x2, y2), and (x3, y3) is given by the formula: ½ |(x1(y2 - y3) + x2(y3 - y1) + x3(y1 - y2))|\n\nThis formula sheet is relevant for various exams such as:\n- UPSC\n- SSC\n- Engineering Entrance Exams\n- Mathematics Olympiads\n- Class 10 and 12 Boards\n\nexamsfiles Exams Files notes\n#coordinategeometry #mathsformulas #upsc #ssc #engineeringentrance #mathsolympiads #class10 #class12 #mathsrevision #examsfiles",
+      "image_url": "https://i.ibb.co/Zzpj5Qmh/0006-Complete-Coordinate-Geometry-Formula-Sheet.jpg",
+      "ig_container_id": "18045170501654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120195829068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-17T12:49:00+05:30"
+    },
+    {
+      "index": 8,
+      "filename": "0006_Desert_Regions_of_India.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0006_Desert_Regions_of_India.png",
+      "caption": "Desert Regions of India 🏜️\nThe arid and semi-arid regions of India are classified under the desert category, characterized by low rainfall and high evaporation rates. These regions are home to a diverse range of flora and fauna that have adapted to the harsh conditions. They also play a crucial role in the country's economy and ecosystem.\n\nHere are some key points about desert regions in India:\n- The Thar Desert, also known as the Great Indian Desert, is the largest desert region in India, covering an area of approximately 3,20,000 square kilometers.\n- The desert regions of India can be broadly classified into two types: the cold desert of Ladakh and the hot desert of the Thar.\n- These regions are characterized by extreme temperatures, low rainfall, and high evaporation rates.\n- The desert regions of India have limited agricultural production due to the harsh climate conditions.\n- However, they are rich in mineral resources such as copper, zinc, and lead.\n- The desert regions of India are facing the challenges of sand dune stabilization, water scarcity, and habitat loss.\n- The Great Rann of Kutch and the Little Rann of Kutch are notable examples of salt marsh desert ecosystems in India.\n- The Thar Desert is a significant tourist destination due to its unique landscapes and cultural heritage.\n\nTarget Audience: UPSC, SSC, Geography, Indian Geography, Indian Polity, Environment Studies.\nexamsfiles Exams Files notes\n#DesertRegionsOfIndia #IndianGeography #UPSCNotes #SSCNotes #GeographyNotes #IndianPolity #EnvironmentStudies #EcosystemConservation #DesertEcosystems #examsfiles",
+      "image_url": "https://i.ibb.co/HTj3ph2G/0006-Desert-Regions-of-India.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-17T13:26:00+05:30"
+    },
+    {
+      "index": 9,
+      "filename": "0006_Genetic_Screening_Methods.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0006_Genetic_Screening_Methods.png",
+      "caption": "Genetic Screening Methods 🧬\n\nGenetic screening is an essential tool in modern genetics, allowing us to identify genetic disorders, predict health risks, and make informed decisions about our health. It involves the analysis of an individual's DNA to detect genetic mutations that may lead to diseases. Today, we'll discuss the various methods used in genetic screening.\n\nHere are the key aspects of genetic screening methods:\n- **Definition**: Genetic screening involves the analysis of an individual's DNA to detect genetic mutations that may lead to diseases.\n- **Types**: There are four types of genetic screening methods: carrier screening, prenatal screening, new-born screening, and predictive testing.\n- **Functions**: Genetic screening helps identify genetic disorders, predict health risks, and make informed decisions about our health.\n- **Importance**: Early detection of genetic disorders through genetic screening can improve treatment outcomes and quality of life.\n- **Challenges**: Genetic screening is not 100% accurate and may have false positives or false negatives.\n- **Examples**: Genetic screening is used to detect genetic disorders such as sickle cell anemia, cystic fibrosis, and Tay-Sachs disease.\n\nTarget Audience: UPSC, SSC, Biology, Genetics, Medical Entrance Exams, NEET, JEE.\n\nexamsfiles Exams Files notes\n\n#GeneticScreening #Genetics #Biology #MedicalScience #UPSC #SSC #BiologyNotes #MedicalEntranceExams #ExamsFiles",
+      "image_url": "https://i.ibb.co/pSRJQQt/0006-Genetic-Screening-Methods.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-17T14:03:00+05:30"
+    },
+    {
+      "index": 10,
+      "filename": "0006_Goal_Setting_Psychology.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0006_Goal_Setting_Psychology.png",
+      "caption": "Goal Setting Psychology 📊\nGoal setting psychology is a branch of psychology that deals with the process of setting and achieving goals. It helps individuals to understand their motivations, identify their strengths and weaknesses, and develop strategies to overcome obstacles. By applying goal setting psychology, individuals can improve their performance, increase their motivation, and enhance their overall well-being.\n\nHere are the key aspects of goal setting psychology:\n- Goals are specific, measurable, achievable, relevant, and time-bound (SMART), which makes them more likely to be achieved.\n- There are two types of goals: intrinsic (personal satisfaction) and extrinsic (social recognition).\n- The features of goal setting include self-efficacy, self-regulation, and feedback.\n- The functions of goal setting include motivation, performance, and well-being.\n- Goal setting is important for achieving success and overcoming challenges in various areas of life, including education, career, and personal development.\n- Challenges of goal setting include procrastination, self-doubt, and lack of motivation.\n- Example of goal setting is creating a to-do list, setting deadlines, and tracking progress.\n\nTarget Audience: UPSC, SSC, Indian Polity, Geography, Psychology, Social Science.\nexamsfiles Exams Files notes\n#goalsettingpsychology #psychology #motivation #performance #wellbeing #examsfiles #education #career #personaldevelopment #psychologyexams #examtips #studyhabits #examsfiles",
+      "image_url": "https://i.ibb.co/wFZkrj4x/0006-Goal-Setting-Psychology.jpg",
+      "ig_container_id": "18045171221654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120196543068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-17T14:40:00+05:30"
+    },
+    {
+      "index": 11,
+      "filename": "0007_Diodes_and_Transistors.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0007_Diodes_and_Transistors.png",
+      "caption": "Diodes and Transistors 📈\nDiodes and transistors are two fundamental components in electronics that play a crucial role in modern technology. They are semiconductor devices that control the flow of electrical current. Understanding their working principles and applications is essential for electronics enthusiasts and students.\n\nHere are some key facts about diodes and transistors:\n- A diode is a two-terminal device that allows current to flow in one direction but blocks it in the other, used in rectification and voltage regulation.\n- Transistors are three-terminal devices that amplify or switch electronic signals, used in amplifiers, switches, and digital logic circuits.\n- Diodes are available in various types, including Zener diodes, Schottky diodes, and light-emitting diodes (LEDs).\n- Transistors are also categorized into bipolar junction transistors (BJTs) and field-effect transistors (FETs).\n- Diodes and transistors are used in a wide range of applications, including power supplies, audio equipment, and computer systems.\n- They are essential components in modern electronics, and their properties determine the performance of electronic circuits.\n- Diodes and transistors can be used to detect and regulate electrical signals, as well as to amplify weak signals.\n\nTarget audiences: UPSC, SSC, Indian Polity, Geography, Engineering, Electronics.\nexamsfiles Exams Files notes\n#diodes #transistors #electronics #semiconductors #UPSCnotes #SSCnotes #engineeringnotes #examsfiles #electronicsnotes #scienceexams #examhelp #examresources #studytips #studyguide",
+      "image_url": "https://i.ibb.co/F4cgxdVw/0007-Diodes-and-Transistors.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-17T15:17:00+05:30"
+    },
+    {
+      "index": 12,
+      "filename": "0007_Growth_Mindset.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0007_Growth_Mindset.png",
+      "caption": "Growth Mindset 💡\nA growth mindset is an essential quality that enables individuals to adapt and learn from their experiences, leading to personal and professional growth. It is a mindset that believes abilities and intelligence can be developed through dedication and hard work. \n\nHere are the key aspects of a growth mindset:\n- It is a mindset that believes abilities and intelligence can be developed through dedication and hard work.\n- Distinguishes between fixed and growth mindset: a fixed mindset believes abilities are innate, while a growth mindset believes they can be developed.\n- Encourages resilience and perseverance in the face of challenges.\n- Focuses on effort rather than talent or natural ability.\n- Develops a love for learning and a desire to acquire new skills.\n- Fosters a sense of curiosity and openness to new experiences.\n- Helps individuals to reframe failures as opportunities for growth and learning.\n\nThis topic is relevant for: UPSC, SSC, Indian Polity, Geography, Psychology, and Education.\nexamsfiles\nExams Files notes\n#GrowthMindset #PersonalDevelopment #Learning #Psychology #Education #Motivation #SelfImprovement #Resilience #examsfiles",
+      "image_url": "https://i.ibb.co/kshwrhzy/0007-Growth-Mindset.jpg",
+      "ig_container_id": "18045171542654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120196759068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-17T15:54:00+05:30"
+    },
+    {
+      "index": 13,
+      "filename": "0007_Inflation_vs_Deflation.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0007_Inflation_vs_Deflation.png",
+      "caption": "Inflation vs Deflation 📈\n\nInflation and deflation are two crucial economic concepts that affect the purchasing power of consumers and the overall economy. Understanding the difference between these two terms is essential for making informed financial decisions. Let's dive into the key aspects of inflation and deflation.\n\n- Inflation is a sustained increase in the general price level of goods and services in an economy over a period of time, usually measured as an annual percentage increase in a price index, such as the Consumer Price Index (CPI).\n- Deflation, on the other hand, is a sustained decrease in the general price level of goods and services in an economy.\n- Inflation is often caused by an increase in the money supply, a surge in aggregate demand, or an increase in commodity prices, while deflation is caused by a decrease in aggregate demand or a decrease in commodity prices.\n- Inflation can have positive effects, such as stimulating economic growth and employment, but it can also lead to reduced purchasing power and increased income inequality.\n- Deflation can lead to reduced consumption and investment, as people delay purchases in anticipation of lower prices in the future.\n- Examples of high inflation countries include Venezuela and Zimbabwe, while examples of deflation countries include Japan and Germany.\n- Inflation is often measured using tools such as the inflation rate, which is calculated by comparing the current price level to the price level of the previous year.\n- Understanding inflation and deflation is crucial for central banks to make informed monetary policy decisions to control inflation and maintain economic stability.\n\nUPSC, SSC, Economics, Business Studies, Geography, Indian Economy\nexamsfiles\nExams Files notes\n#InflationVsDeflation #EconomicConcepts #MonetaryPolicy #CentralBank #Economics #BusinessStudies #Geography #IndianEconomy #examsfiles",
+      "image_url": "https://i.ibb.co/Nn9vTrFH/0007-Inflation-vs-Deflation.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-17T16:31:00+05:30"
+    },
+    {
+      "index": 14,
+      "filename": "0007_Rh_Factor_Explained.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0007_Rh_Factor_Explained.png",
+      "caption": "Rh Factor Explained 🧬\n\nThe Rh Factor, also known as the Rhesus factor, is a genetic variation that affects the compatibility of blood transfusions. Understanding the Rh Factor is crucial for medical professionals and individuals who require blood transfusions. In this explanation, we'll delve into the basics of the Rh Factor and its significance.\n\n• The Rh Factor is a protein present on the surface of red blood cells and is determined by the presence or absence of the RhD protein.\n• There are two main types of Rh Factors: Rh Positive (Rh+) and Rh Negative (Rh-). Individuals with Rh+ have the RhD protein, while those with Rh- do not.\n• The Rh Factor is usually inherited from parents in an autosomal dominant pattern, meaning that a single copy of the RhD gene is enough to determine the Rh+ status.\n• The Rh Factor plays a crucial role in blood transfusions, as Rh+ individuals can receive Rh+ blood but not Rh- blood, and vice versa.\n• A mismatch in Rh Factor can lead to a severe reaction, known as hemolysis, which can be life-threatening.\n• The Rh Factor is not related to the ABO blood group system, which is another system used to classify blood types.\n\nTarget Audience: UPSC, SSC, Medical Entrance, Nursing Entrance, Anatomy, Physiology.\n\nexamsfiles Exams Files notes\n\n#BloodTransfusion #MedicalScience #Genetics #RhFactor #UPSCNotes #SSCNotes #MedicalEntrance #NursingEntrance #AnatomyNotes",
+      "image_url": "https://i.ibb.co/B5mcQrMy/0007-Rh-Factor-Explained.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-17T17:08:00+05:30"
+    },
+    {
+      "index": 15,
+      "filename": "0007_Union_Territories_of_India.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0007_Union_Territories_of_India.png",
+      "caption": "Union Territories of India 🇮🇳\nUnion Territories of India are parts of the country that are not divided into states, directly governed by the central government. These territories have a unique administrative setup, and their governance is a significant aspect of Indian politics. Understanding the Union Territories is essential for understanding the country's federal structure.\n\n• The Union Territories are formed when a state is dissolved or merged with another state, or when the central government decides to create a new territory for administrative convenience.\n• There are currently 9 Union Territories in India, including Delhi, Puducherry, and Jammu and Kashmir.\n• The Lieutenant Governor is the head of the Union Territory, appointed by the President of India, and is responsible for implementing the central government's policies.\n• The Union Territories do not have any elected legislative assembly and the central government makes laws for them.\n• The Union Territories have a significant impact on the country's economy, culture, and politics.\n• Some of the Union Territories, such as Delhi, have a high population density and are major economic hubs.\n• The Union Territories are also an essential part of India's federal structure, as they provide a unique example of direct governance by the central government.\n• The Union Territories have a unique administrative setup, with the central government exercising direct control over them.\n\nTarget Audience: UPSC, SSC, Indian Polity, Geography, Political Science\nexamsfiles\nExams Files notes\n#UnionTerritories #IndianPolity #Geography #UPSC #SSC #IndianPolityNotes #GeographyNotes #ExamsFiles #IndianPolitics #FederalStructure #India #GovernmentOfIndia #CentralGovernment #StateGovernment #LieutenantGovernor #LegislativeAssembly #ElectedGovernment",
+      "image_url": "https://i.ibb.co/fzrgxC66/0007-Union-Territories-of-India.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-17T17:45:00+05:30"
+    },
+    {
+      "index": 16,
+      "filename": "0008_Finance_Commission_of_India.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0008_Finance_Commission_of_India.png",
+      "caption": "Financing the Nation's Development 📈\nThe Finance Commission of India is a constitutional body that plays a crucial role in the financial management of the country. It was established in 1951 under Article 280 of the Indian Constitution. The commission's primary objective is to recommend the distribution of the net proceeds of taxes between the Centre and the States.\n\nHere are some key aspects of the Finance Commission of India:\n- The Finance Commission is established every five years to review and recommend the distribution of taxes between the Centre and the States.\n- It consists of a Chairman and four other members who are experts in finance, economics, and law.\n- The commission recommends the share of taxes for the Centre and the States, including the share of the divisible pool of taxes.\n- It also recommends grants-in-aid to local governments and other funds for specific purposes.\n- The commission's recommendations are binding on the Centre and the States.\n- The commission has the power to review the existing tax structure and make recommendations for changes.\n- The commission's recommendations have a significant impact on the budget of the Centre and the States.\n- The commission's reports are tabled in both Houses of Parliament.\n\nTarget Audience: UPSC, SSC, Indian Polity, Geography.\n\nexamsfiles Exams Files notes\n#FinanceCommission #IndianPolity #Geography #UPSC #SSC #FinancialManagement #Taxation #IndianConstitution #examsfiles",
+      "image_url": "https://i.ibb.co/WWQ2b2ch/0008-Finance-Commission-of-India.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-17T18:22:00+05:30"
+    },
+    {
+      "index": 17,
+      "filename": "0008_Gandhi-Irwin_Pact.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0008_Gandhi-Irwin_Pact.png",
+      "caption": "Gandhi Irwin Pact 1931 🇮🇳\nThe Gandhi Irwin Pact, also known as the Delhi Pact, was a significant agreement signed between Mahatma Gandhi and Lord Irwin, the then Viceroy of India, in 1931. This pact aimed at resolving the communal riots and bringing peace to the country. It played a crucial role in the Indian independence movement.\n\nHere are the key aspects of the Gandhi Irwin Pact:\n- The pact was signed on March 5, 1931, at the Viceregal Lodge in Shimla.\n- It was a result of Gandhi's non-violent civil disobedience movement against the British government.\n- The pact allowed for the release of all Indian political prisoners who had been arrested during the civil disobedience movement.\n- Gandhi agreed to suspend the civil disobedience movement temporarily in exchange for the release of prisoners.\n- The pact also established a joint committee to investigate the causes of communal riots.\n- It was seen as a significant victory for the Indian National Congress and marked a turning point in the Indian independence movement.\n\nTarget Audience: UPSC, SSC, Indian History, Indian Polity, Geography\nexamsfiles Exams Files notes\n#GandhiIrwinPact #IndianIndependenceMovement #IndianHistory #IndianPolity #UPSC #SSC #ExamsFiles #IndianIndependence #CivilDisobedienceMovement #NonViolentResistance",
+      "image_url": "https://i.ibb.co/VYjsJ1Jz/0008-Gandhi-Irwin-Pact.jpg",
+      "ig_container_id": "18045172367654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120197089068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-17T18:59:00+05:30"
+    },
+    {
+      "index": 18,
+      "filename": "0009_Dairy_Cooperatives.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0009_Dairy_Cooperatives.png",
+      "caption": "Dairy Cooperatives 🐮\nDairy cooperatives are business enterprises owned and controlled by their member dairy farmers who come together to improve their economic conditions. These cooperatives play a vital role in enhancing the livelihoods of dairy farmers and increasing the availability of milk and dairy products. They also contribute to the development of rural areas.\n\n- A dairy cooperative is a voluntary association of producers who pool their resources and expertise to achieve common objectives.\n- There are different types of dairy cooperatives, including primary cooperatives, secondary cooperatives, and federations.\n- Features of a dairy cooperative include democratic decision-making, financial stability, and the provision of services to members.\n- The functions of a dairy cooperative include purchasing raw materials, processing and marketing products, and providing technical assistance to members.\n- Dairy cooperatives are important for improving the economic conditions of dairy farmers, increasing the availability of milk and dairy products, and promoting rural development.\n- Challenges faced by dairy cooperatives include inadequate infrastructure, limited financial resources, and competition from large-scale dairy companies.\n- Examples of successful dairy cooperatives include the National Dairy Development Board (NDDB) in India and the Dairy Farmers of America in the United States.\n- Related concepts include rural development, agricultural cooperatives, and food security.\n\nTarget audience: UPSC, SSC, Geography, Indian Polity, Rural Development, Agricultural Economics, etc.\nexamsfiles\nExams Files notes\n#DairyCooperatives #RuralDevelopment #FoodSecurity #AgriculturalEconomics #CooperativeMovement #DairyFarmers #NationalDairyDevelopmentBoard #DairyDevelopment #ExamsFiles",
+      "image_url": "https://i.ibb.co/wrLbQrbs/0009-Dairy-Cooperatives.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-17T19:36:00+05:30"
+    },
+    {
+      "index": 19,
+      "filename": "0009_Logic_Gates_Basics.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0009_Logic_Gates_Basics.png",
+      "caption": "Logic Gates Basics 🤖\nLogic Gates are the building blocks of digital electronics and computer hardware, used to perform operations on binary data (0s and 1s). They are the foundation of digital systems, enabling complex operations to be broken down into simple, manageable parts. Understanding logic gates is essential for computer science and electronics enthusiasts.\n\nHere are the key aspects of Logic Gates:\n- A Logic Gate is an electronic circuit that takes one or more binary inputs and produces a binary output based on a specific logic operation.\n- There are three main types of Logic Gates: AND, OR, and NOT (or Inverter), each with distinct functions.\n- Logic Gates can be combined to create more complex digital circuits, enabling the creation of Arithmetic Logic Units (ALUs).\n- The basic Logic Gates can be used to build a variety of digital components, such as adders, subtractors, and multiplexers.\n- Logic Gates play a crucial role in computer hardware, data processing, and information transmission.\n- They are essential for understanding digital electronics, computer architecture, and programming languages.\n- Logic Gates are used in a wide range of applications, including calculators, microcontrollers, and computers.\n- The correct application of Logic Gates is critical in avoiding errors and ensuring reliable operation in digital systems.\n\nTarget Audience: UPSC, SSC, Computer Science, Electronics, Computer Engineering\nexamsfiles Exams Files notes\n#LogicGates #DigitalElectronics #ComputerScience #ElectronicsEngineering #ComputerEngineering #BinaryData #BinaryOperations #DigitalSystems",
+      "image_url": "https://i.ibb.co/pBs1qcvT/0009-Logic-Gates-Basics.jpg",
+      "ig_container_id": "18045172463654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120197515068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-17T20:13:00+05:30"
+    },
+    {
+      "index": 20,
+      "filename": "0009_Nebulae_Explained.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0009_Nebulae_Explained.png",
+      "caption": "Nebulae Explained 🌌\nNebulae are vast, interstellar clouds of gas and dust that play a crucial role in the formation of stars and planets. They are found throughout the galaxy and are a fascinating area of study for astronomers. With this caption, let's delve into the world of nebulae.\n\nHere are six key aspects of nebulae:\n- Definition: Nebulae are composed of ionized gas and dust that are held together by gravity.\n- Types: There are three main types of nebulae: emission, reflection, and dark nebulae.\n- Features: Nebulae can be hundreds of light-years across and contain a wide range of elements, including hydrogen, helium, and heavier metals.\n- Functions: Nebulae serve as nurseries for new star formation and provide insight into the life cycle of stars.\n- Importance: Studying nebulae helps us understand the origins of our solar system and the formation of galaxies.\n- Examples: The Orion Nebula and the Carina Nebula are two well-known examples of emission nebulae.\n\nTarget audiences: UPSC, SSC, Geography, Astronomy, Physics\nexamsfiles Exams Files notes\n#Nebulae #Astronomy #Physics #GalaxyFormation #StellarEvolution #Cosmology #Astrophysics #examsfiles",
+      "image_url": "https://i.ibb.co/HDCgGjvG/0009-Nebulae-Explained.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-17T20:50:00+05:30"
+    },
+    {
+      "index": 21,
+      "filename": "0010_Success_of_Amul_Model.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0010_Success_of_Amul_Model.png",
+      "caption": "Success of Amul Model 🥛\nThe Amul model is a highly successful business model that has been adopted by the Gujarat Cooperative Milk Marketing Federation (GCMMF) to promote milk and dairy products in India. It is a unique example of rural entrepreneurship and community-driven development. The model has been successful in improving the lives of millions of farmers and dairy farmers across the country.\n\nHere are the key features of the Amul model:\n• The Amul model is a cooperative model where farmers own and control the production and marketing of milk and dairy products.\n• It is a decentralized model where milk is collected from farmers and processed at the village level.\n• The model ensures that farmers get a fair price for their milk and also provides them with other benefits like training, credit facilities, and technical assistance.\n• The Amul model has been successful in increasing the income of farmers and also promoting rural development.\n• The model has also been successful in providing employment opportunities to thousands of people across the country.\n• The Amul model has been replicated in several other states in India and has been recognized as a model for rural development.\n\nTarget Audience: UPSC, SSC, Indian Polity, Geography, Rural Development, Business Studies, Economics\nexamsfiles Exams Files notes\n#AmulModel #RuralDevelopment #CooperativeModel #BusinessStudies #Economics #IndianPolity #Geography #RuralEntrepreneurship #UPSC #SSC #ExamsFiles",
+      "image_url": "https://i.ibb.co/zVYHG3F6/0010-Success-of-Amul-Model.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-17T21:27:00+05:30"
+    },
+    {
+      "index": 22,
+      "filename": "0010_Types_of_Nebulae.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0010_Types_of_Nebulae.png",
+      "caption": "Types of Nebulae 🌠\n\nNebulae are vast, interstellar clouds of gas and dust that play a crucial role in the formation of stars and planets. In the vast expanse of space, there are several types of nebulae, each with its unique features and functions. Understanding these types is essential for astronomers and space enthusiasts alike.\n\nHere are the main types of nebulae:\n- Dark Nebulae: These are dark clouds of gas and dust that block the light from stars behind them, creating a dark silhouette.\n- Emission Nebulae: These nebulae emit light due to the presence of ionized gases, often surrounding hot stars.\n- Reflection Nebulae: These nebulae reflect the light from nearby stars, creating a bright, glowing appearance.\n- Planetary Nebulae: These are the remnants of stars that have exhausted their fuel and are expelling their outer layers into space.\n- Supernova Remnant Nebulae: These form when a massive star explodes as a supernova, leaving behind a cloud of gas and dust.\n- Star-Forming Nebulae: These nebulae are the birthplaces of new stars, where gas and dust collapse to form protostars.\n\nTarget audiences: UPSC, SSC, Indian Polity, Geography, Science Olympiad, Astronomy Enthusiasts, Space Explorers.\n\nexamsfiles Exams Files notes\n\n#Astronomy #Nebulae #Space #Stars #Galaxies #Cosmology #Astrophysics #SpaceExploration #examsfiles",
+      "image_url": "https://i.ibb.co/vxTsXH3J/0010-Types-of-Nebulae.jpg",
+      "ig_container_id": "18045172763654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-17T22:04:00+05:30"
+    },
+    {
+      "index": 23,
+      "filename": "0011_Birth_of_Stars.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0011_Birth_of_Stars.png",
+      "caption": "Birth of Stars ⭐️\n\nThe formation of stars is a complex and fascinating process that has captivated scientists and astronomers for centuries. Stars are massive, luminous spheres of plasma held together by their own gravity, and their birth is a crucial aspect of understanding the universe. The process of star formation is still not fully understood and is an active area of research.\n\nHere are some key facts about the birth of stars:\n- The birth of stars occurs from giant molecular clouds, which are regions of space filled with gas and dust.\n- Stars form through a process known as gravitational collapse, where the cloud collapses under its own gravity.\n- The collapse leads to the formation of a protostar, a large, spinning ball of gas and dust.\n- As the protostar collapses, it begins to heat up and eventually ignites nuclear fusion in its core, marking the birth of a new star.\n- The process of star formation can take millions or even billions of years.\n- The birth of stars is responsible for creating new elements and heavy isotopes in the universe.\n- The formation of stars plays a crucial role in shaping the evolution of galaxies.\n- The study of star formation helps us understand the life cycle of stars and the ultimate fate of the universe.\n\nTarget audience: UPSC, SSC, Indian Geography, Physics, Astronomy, Space Science.\nexamsfiles\nExams Files notes\n#astrophysics #starformation #universe #space #astronomy #physics #geography #university #examsfiles #astrophysicalsciences #galaxyanatomy #starformationprocess #stellarformation",
+      "image_url": "https://i.ibb.co/F4n7f6zt/0011-Birth-of-Stars.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-17T22:41:00+05:30"
     }
   ],
-  "prepared_at": "2026-08-16T08:30:00+05:30"
+  "prepared_at": "2026-08-17T08:30:00+05:30"
 }
