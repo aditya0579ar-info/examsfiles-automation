@@ -291,7 +291,7 @@
       "ig_published": true,
       "fb_post_id": "122120281731068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-15T20:13:00+05:30"
     },
     {
@@ -697,7 +697,7 @@
       "ig_published": true,
       "fb_post_id": "122120281797068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-17T08:30:00+05:30"
     },
     {
@@ -711,7 +711,7 @@
       "ig_published": true,
       "fb_post_id": "122120282115068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-17T09:07:00+05:30"
     },
     {
@@ -725,7 +725,7 @@
       "ig_published": true,
       "fb_post_id": "122120282487068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-17T09:44:00+05:30"
     },
     {
@@ -753,7 +753,7 @@
       "ig_published": true,
       "fb_post_id": "122120282559068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-17T10:58:00+05:30"
     },
     {
@@ -767,7 +767,7 @@
       "ig_published": true,
       "fb_post_id": "122120283249068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-17T11:35:00+05:30"
     },
     {
@@ -809,7 +809,7 @@
       "ig_published": true,
       "fb_post_id": "122120283345068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-17T13:26:00+05:30"
     },
     {
@@ -823,7 +823,7 @@
       "ig_published": true,
       "fb_post_id": "122120283495068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-17T14:03:00+05:30"
     },
     {
@@ -851,7 +851,7 @@
       "ig_published": true,
       "fb_post_id": "122120283747068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-17T15:17:00+05:30"
     },
     {
@@ -879,7 +879,7 @@
       "ig_published": true,
       "fb_post_id": "122120283921068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-17T16:31:00+05:30"
     },
     {
@@ -893,7 +893,7 @@
       "ig_published": true,
       "fb_post_id": "122120284005068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-17T17:08:00+05:30"
     },
     {
@@ -907,7 +907,7 @@
       "ig_published": true,
       "fb_post_id": "122120284071068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-17T17:45:00+05:30"
     },
     {
@@ -921,7 +921,7 @@
       "ig_published": true,
       "fb_post_id": "122120284503068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-17T18:22:00+05:30"
     },
     {
@@ -949,7 +949,7 @@
       "ig_published": true,
       "fb_post_id": "122120284695068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-17T19:36:00+05:30"
     },
     {
@@ -977,7 +977,7 @@
       "ig_published": true,
       "fb_post_id": "122120284827068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-17T20:50:00+05:30"
     },
     {
@@ -991,7 +991,7 @@
       "ig_published": true,
       "fb_post_id": "122120285025068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-17T21:27:00+05:30"
     },
     {
@@ -1019,7 +1019,7 @@
       "ig_published": true,
       "fb_post_id": "122120285253068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-17T22:41:00+05:30"
     },
     {
