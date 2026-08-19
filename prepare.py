@@ -234,7 +234,7 @@ def generate_caption(image_path: Path, config: dict) -> str:
     }
     
     data = {
-        "model": "llama-3.1-8b-instant",
+        "model": "qwen/qwen3.6-27b",
         "messages": [
             {"role": "user", "content": prompt}
         ],
