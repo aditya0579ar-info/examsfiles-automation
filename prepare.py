@@ -542,14 +542,29 @@ def prepare(dry_run: bool = False):
     # Load or create queue  (resume-safe)
     # ------------------------------------------------------------------
     queue = load_json(QUEUE_PATH, {"prepared_at": None, "posts": []})
+    
+    # Always start scheduling at exactly 8:30 AM IST for the current day
+    start_time = datetime.now(IST).replace(hour=8, minute=30, second=0, microsecond=0)
+
+    # REMOVE past failed posts from the queue so they can be recycled into today's quota
+    new_posts = []
+    removed_count = 0
+    for p in queue.get("posts", []):
+        p_time = datetime.fromisoformat(p["scheduled_time"])
+        if not p.get("ig_published") and p_time.date() < start_time.date():
+            removed_count += 1
+            continue
+        new_posts.append(p)
+    
+    if removed_count > 0:
+        print(f"🧹 Recycled {removed_count} failed posts from previous days back into the vault.")
+        queue["posts"] = new_posts
+
     existing = {p["filename"] for p in queue.get("posts", [])}
 
     # Filter out images that are already in the queue BEFORE slicing
     images = [img for img in images if img.name not in existing]
     
-    # Always start scheduling at exactly 8:30 AM IST for the current day
-    start_time = datetime.now(IST).replace(hour=8, minute=30, second=0, microsecond=0)
-
     # Prevent adding new posts if we already prepared a batch today
     if queue.get("prepared_at"):
         try:
