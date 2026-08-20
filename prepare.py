@@ -547,11 +547,13 @@ def prepare(dry_run: bool = False):
     start_time = datetime.now(IST).replace(hour=8, minute=30, second=0, microsecond=0)
 
     # REMOVE past failed posts from the queue so they can be recycled into today's quota
+    # BUT only if they didn't already get scheduled on Facebook (to prevent double-posting)
     new_posts = []
     removed_count = 0
     for p in queue.get("posts", []):
         p_time = datetime.fromisoformat(p["scheduled_time"])
-        if not p.get("ig_published") and p_time.date() < start_time.date():
+        is_past = p_time.date() < start_time.date()
+        if is_past and not p.get("ig_published") and not p.get("fb_scheduled"):
             removed_count += 1
             continue
         new_posts.append(p)
