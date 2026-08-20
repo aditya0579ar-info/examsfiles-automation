@@ -234,7 +234,7 @@ def generate_caption(image_path: Path, config: dict) -> str:
     }
     
     data = {
-        "model": "qwen/qwen3.6-27b",
+        "model": "openai/gpt-oss-20b",
         "messages": [
             {"role": "user", "content": prompt}
         ],
