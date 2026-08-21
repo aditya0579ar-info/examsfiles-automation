@@ -1023,20 +1023,6 @@
       "scheduled_time": "2026-08-17T22:41:00+05:30"
     },
     {
-      "index": 0,
-      "filename": "Gemini_Generated_Image_ab0s2zab0s2zab0s.png",
-      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/Gemini_Generated_Image_ab0s2zab0s2zab0s.png",
-      "caption": "Gemini Generated Image Explained 📸\n\nGemini is Google's multimodal AI platform that can create realistic images from textual prompts. These images, identified by unique IDs like ab0s2zab0s2zab0s, showcase the model's ability to blend art, design, and data visualization. Understanding Gemini-generated images is essential for exam topics on AI ethics, technology, and digital media.\n\n• Definition: A visual output produced by Gemini’s generative model using natural language input.  \n• Types: Photorealistic, stylized, infographic, and hybrid images.  \n• Key Features: High resolution, contextual relevance, style transfer, and adaptive color palettes.  \n• Functions: Used in content creation, data augmentation, UI/UX design, and educational materials.  \n• Importance: Illustrates the intersection of AI with creative industries and highlights automation trends in media.  \n• Challenges: Bias in training data, copyright concerns, and interpretability of AI decisions.\n\nTarget audiences: UPSC, SSC, AI & Machine Learning, Computer Science, Digital Media, Indian Polity (technology section)\n\nexamsfiles\n\nExams Files notes\n\n#AI #Gemini #ImageGeneration #DigitalMedia #Technology #UPSC #SSC #ComputerScience #ExamsFiles",
-      "image_url": "https://i.ibb.co/rfbFY9hs/Gemini-Generated-Image-ab0s2zab0s2zab0s.jpg",
-      "ig_container_id": null,
-      "ig_post_id": null,
-      "ig_published": false,
-      "fb_post_id": null,
-      "fb_scheduled": false,
-      "moved": false,
-      "scheduled_time": "2026-08-20T08:30:00+05:30"
-    },
-    {
       "index": 1,
       "filename": "Gemini_Generated_Image_ac3y21ac3y21ac3y.png",
       "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/Gemini_Generated_Image_ac3y21ac3y21ac3y.png",
@@ -1047,7 +1033,7 @@
       "ig_published": true,
       "fb_post_id": "122120507055068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T09:07:00+05:30"
     },
     {
@@ -1061,7 +1047,7 @@
       "ig_published": true,
       "fb_post_id": "122120507463068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T09:44:00+05:30"
     },
     {
@@ -1075,7 +1061,7 @@
       "ig_published": true,
       "fb_post_id": "122120507721068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T10:21:00+05:30"
     },
     {
@@ -1089,7 +1075,7 @@
       "ig_published": true,
       "fb_post_id": "122120507943068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T10:58:00+05:30"
     },
     {
@@ -1103,7 +1089,7 @@
       "ig_published": true,
       "fb_post_id": "122120508027068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T11:35:00+05:30"
     },
     {
@@ -1117,7 +1103,7 @@
       "ig_published": true,
       "fb_post_id": "122120508183068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T12:12:00+05:30"
     },
     {
@@ -1131,7 +1117,7 @@
       "ig_published": true,
       "fb_post_id": "122120508393068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T12:49:00+05:30"
     },
     {
@@ -1145,7 +1131,7 @@
       "ig_published": true,
       "fb_post_id": "122120508651068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T13:26:00+05:30"
     },
     {
@@ -1159,7 +1145,7 @@
       "ig_published": true,
       "fb_post_id": "122120508999068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T14:03:00+05:30"
     },
     {
@@ -1173,7 +1159,7 @@
       "ig_published": true,
       "fb_post_id": "122120509257068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T14:40:00+05:30"
     },
     {
@@ -1187,7 +1173,7 @@
       "ig_published": true,
       "fb_post_id": "122120509335068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T15:17:00+05:30"
     },
     {
@@ -1201,7 +1187,7 @@
       "ig_published": true,
       "fb_post_id": "122120509599068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T15:54:00+05:30"
     },
     {
@@ -1215,7 +1201,7 @@
       "ig_published": true,
       "fb_post_id": "122120509977068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T16:31:00+05:30"
     },
     {
@@ -1229,7 +1215,7 @@
       "ig_published": true,
       "fb_post_id": "122120510361068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T17:08:00+05:30"
     },
     {
@@ -1243,7 +1229,7 @@
       "ig_published": true,
       "fb_post_id": "122120510421068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T17:45:00+05:30"
     },
     {
@@ -1257,7 +1243,7 @@
       "ig_published": true,
       "fb_post_id": "122120510685068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T18:22:00+05:30"
     },
     {
@@ -1271,7 +1257,7 @@
       "ig_published": false,
       "fb_post_id": "122120510931068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T18:59:00+05:30"
     },
     {
@@ -1285,7 +1271,7 @@
       "ig_published": false,
       "fb_post_id": "122120511189068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T19:36:00+05:30"
     },
     {
@@ -1299,7 +1285,7 @@
       "ig_published": false,
       "fb_post_id": "122120511675068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T20:13:00+05:30"
     },
     {
@@ -1313,51 +1299,345 @@
       "ig_published": false,
       "fb_post_id": "122120511909068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-20T20:50:00+05:30"
     },
     {
-      "index": 21,
-      "filename": "WORLD_CLIMATE_CLASSIFICATION Page 016.png",
-      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/WORLD_CLIMATE_CLASSIFICATION Page 016.png",
-      "caption": null,
-      "image_url": null,
+      "index": 0,
+      "filename": "0013_Ear_Disorders.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0013_Ear_Disorders.png",
+      "caption": "Ear Disorders 🦻  \nEar disorders encompass a spectrum of conditions affecting the outer, middle, and inner ear, leading to hearing loss, tinnitus, vertigo, and pain. Understanding their etiology, presentation, and management is crucial for clinical practice and public health.  \n\n- Definition: Abnormalities of ear structure or function causing auditory or vestibular symptoms.  \n- Common types: Conductive, sensorineural, and mixed hearing loss; otitis media; Meniere’s disease; otosclerosis.  \n- Key features: Hearing impairment, ringing, imbalance, ear pain, or fullness.  \n- Diagnostic tools: Audiometry, tympanometry, vestibular tests, imaging (CT/MRI).  \n- Management: Medical therapy, surgery, hearing aids, vestibular rehabilitation.  \n- Public health impact: High prevalence, socioeconomic burden, and importance of prevention.  \n\nUPSC, SSC, Medical Entrance, ENT, Public Health  \n\nexamsfiles  \nExams Files notes  \n\n#EarDisorders #HearingLoss #ENT #MedicalExam #UPSC #SSC #HealthSciences #MedicalEducation #examsfiles",
+      "image_url": "https://i.ibb.co/mVkZtHj9/0013-Ear-Disorders.jpg",
       "ig_container_id": null,
       "ig_post_id": null,
       "ig_published": false,
       "fb_post_id": null,
       "fb_scheduled": false,
       "moved": false,
-      "scheduled_time": "2026-08-20T21:27:00+05:30"
+      "scheduled_time": "2026-08-21T08:30:00+05:30"
+    },
+    {
+      "index": 1,
+      "filename": "0013_Human_Blood.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0013_Human_Blood.png",
+      "caption": "Human Blood: Life’s Liquid 🩸  \nBlood is the vital fluid that circulates through our bodies, carrying oxygen, nutrients, and waste products. It also plays a key role in immune defense, clotting, and maintaining homeostasis. Understanding its components and functions is essential for medical, scientific, and competitive exam preparation.  \n\n- Definition: a specialized connective tissue composed of cells and plasma.  \n- Cellular components: red blood cells (erythrocytes), white blood cells (leukocytes), platelets (thrombocytes).  \n- Plasma: 55% of blood volume, carries proteins, electrolytes, hormones, and waste.  \n- Functions: transport O₂/CO₂, immune response, clot formation, temperature & pH regulation.  \n- Blood types: ABO and Rh systems; O negative is universal donor.  \n- Challenges: donor shortages, transfusion reactions, transmissible diseases, storage limitations.  \n\nUPSC, SSC, School, Competitive exams  \nexamsfiles  \nExams Files notes  \n#humanblood #bloodscience #hematology #medicalscience #UPSC #SSC #competitiveexams #studyguide #examsfiles",
+      "image_url": "https://i.ibb.co/CKvfQ658/0013-Human-Blood.jpg",
+      "ig_container_id": "18045789065654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120601639068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-21T09:07:00+05:30"
+    },
+    {
+      "index": 2,
+      "filename": "0014_Blood_Clotting_Mechanism.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0014_Blood_Clotting_Mechanism.png",
+      "caption": "Blood Clotting Mechanism 🩸  \nBlood clotting, also called haemostasis, is the body’s rapid response to vascular injury, preventing excessive bleeding and initiating tissue repair. It involves a cascade of cellular and plasma protein events that culminate in fibrin mesh formation.  \n\n- Definition: Platelets and clotting factors convert fibrinogen to fibrin, forming a stable plug.  \n- Primary vs. Secondary Hemostasis: Platelet plug formation followed by fibrin stabilization.  \n- Key Proteins: Factors I (fibrinogen), II (prothrombin), VII–Xa, V, VIII, IX, XI, XII, XIII.  \n- Regulation: Intrinsic, extrinsic, and common pathways; anticoagulants like antithrombin, protein C/S, TFPI.  \n- Clinical Relevance: Thrombosis (DVT, stroke), bleeding disorders (hemophilia, von Willebrand), and anticoagulant therapy (warfarin, heparin, DOACs).  \n- Diagnostics: PT, aPTT, INR, platelet count, fibrinogen level.  \n\nUPSC, SSC, Medical Entrance, Competitive Exams  \nexamsfiles  \nExams Files notes  \n#bloodclotting #haemostasis #coagulation #medicalbiology #examprep #competitiveexams #UPSC #SSC #medicalentrance #examsfiles",
+      "image_url": "https://i.ibb.co/zHSSgFh2/0014-Blood-Clotting-Mechanism.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-21T09:44:00+05:30"
+    },
+    {
+      "index": 3,
+      "filename": "0016_Human_Skeleton.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0016_Human_Skeleton.png",
+      "caption": "Human Skeleton 🦴  \nThe human skeleton is the internal framework that supports the body, protects vital organs, and facilitates movement. It comprises 206 bones in adults, categorized into axial and appendicular components. Understanding its structure and functions is essential for biology and medical exams.  \n\n- 206 bones in adults; 80 % axial skeleton (skull, vertebral column, rib cage).  \n- Appendicular skeleton includes 126 bones for limbs and girdles.  \n- Primary functions: support, movement via joints, protection of organs, blood cell production in bone marrow.  \n- Bone composition: cortical (compact) and cancellous (spongy) tissues; rich vascular supply.  \n- Remodeling: osteoblasts build bone, osteoclasts resorb; regulated by hormones like PTH, calcitonin.  \n- Clinical relevance: fractures, osteoporosis, growth plate injuries; importance in forensic anthropology.  \n\nUPSC, SSC, School, Competitive Exams  \nexamsfiles  \nExams Files notes  \n#HumanSkeleton #Anatomy #Biology #MedicalScience #BoneHealth #ForensicAnthropology #ExamPrep #UPSC #SSC #examsfiles",
+      "image_url": "https://i.ibb.co/prxjYzdK/0016-Human-Skeleton.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-21T10:21:00+05:30"
+    },
+    {
+      "index": 4,
+      "filename": "0016_Soil_Types_of_India.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0016_Soil_Types_of_India.png",
+      "caption": "Soil Types of India 🌱  \nIndia’s diverse topography gives rise to a variety of soil types that are crucial for agriculture, ecology, and land management. Understanding these soils helps in crop selection, erosion control, and sustainable development.  \n\n- Definition: Soil is the upper layer of earth formed by weathering of rocks, organic matter, and living organisms, acting as a medium for plant growth.  \n- Major Indian soil groups (per ISRIC): Lateritic, Black (Regur), Red, Alluvial, Kankar, Saline/alkaline.  \n- Key features: Lateritic soils are iron‑rich and reddish; Black soils are clay‑rich, high in organic matter, ideal for cotton; Red soils are sandy loam with low fertility; Alluvial soils are fertile, found in plains; Kankar soils contain calcium carbonate nodules; Saline soils have high salt content limiting crop growth.  \n- Functions: Provide nutrients, water retention, support plant roots, and influence microclimate.  \n- Importance: Basis of agriculture, food security, rural livelihoods; informs land use planning and environmental conservation.  \n- Challenges: Erosion, salinization, nutrient depletion, land degradation, and climate change impacts.  \n\nUPSC, SSC, Geography, Agricultural Science, Environmental Science  \nexamsfiles  \nExams Files notes  \n#SoilScience #IndianSoils #Agriculture #LandManagement #Geography #UPSC #SSC #ExamPrep #CompetitiveExams #examsfiles",
+      "image_url": "https://i.ibb.co/Zp7qT1yv/0016-Soil-Types-of-India.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-21T10:58:00+05:30"
+    },
+    {
+      "index": 5,
+      "filename": "0021_Exam_Tricks.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0021_Exam_Tricks.png",
+      "caption": "Exam Tricks 📚\n\nBoost your exam performance with quick, high‑yield strategies that save time and improve accuracy. These tricks are proven to help you tackle multiple choice, short answer, and essay sections efficiently.\n\n- **Definition**: Techniques that streamline studying, reduce recall effort, and enhance test‑taking speed.  \n- **Types**: Time‑management hacks, mnemonic devices, pattern recognition, and logical deduction shortcuts.  \n- **Features**: Easy to apply, scalable across subjects, and adaptable to various exam formats.  \n- **Functions**: Aid in quick recall, minimize errors, and improve confidence during exams.  \n- **Importance**: Crucial for competitive exams where time is limited and precision is key.  \n- **Challenges**: Requires practice to internalize; over‑reliance can reduce depth of understanding.\n\nUPSC, SSC, IIT‑JEE, NEET, School, Competitive exams\n\nexamsfiles  \nExams Files notes  \n\n#examtricks #testprep #examstrategy #competitiveexams #UPSC #SSC #IITJEE #NEET #schoolprep #examsfiles",
+      "image_url": "https://i.ibb.co/1f32LryS/0021-Exam-Tricks.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-21T11:35:00+05:30"
+    },
+    {
+      "index": 6,
+      "filename": "0035_Removal_Process.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0035_Removal_Process.png",
+      "caption": "Removal Process 🚫  \nThe removal process refers to the legal procedure for relieving a public servant or official from office due to misconduct, incapacity, or other statutory reasons. It safeguards accountability, ensures due process, and protects the integrity of public administration.  \n\n- Definition: Formal mechanism by which an official is relieved of duties, typically initiated by the executive or judiciary.  \n- Grounds: Misconduct, incapacity, violation of statutes, or loss of public trust.  \n- Procedure: Notice to the official, investigation, hearing, recommendation, and final order of removal.  \n- Key Features: Right to be heard, appeal mechanisms, time‑bound proceedings, and transparency requirements.  \n- Importance: Upholds meritocracy, prevents abuse of power, and maintains public confidence in governance.  \n- Challenges: Political interference, lack of transparency, procedural delays, and potential misuse of the process.  \n\nUPSC, SSC, Indian Polity, Civil Services, Law, Governance  \nexamsfiles  \nExams Files notes  \n#IndianPolity #CivilServices #UPSC #SSC #Law #Governance #PublicAdministration #ExamPrep #CompetitiveExams #examsfiles",
+      "image_url": "https://i.ibb.co/H9wGM2j/0035-Removal-Process.jpg",
+      "ig_container_id": "18045789557654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120602197068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-21T12:12:00+05:30"
+    },
+    {
+      "index": 7,
+      "filename": "0036_Qualities_of_Effective_Leaders.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0036_Qualities_of_Effective_Leaders.png",
+      "caption": "Effective Leadership Traits 🚀  \nLeaders shape vision, inspire action, and steer teams toward success. Understanding their qualities is essential for competitive exams, especially in UPSC, SSC, and general management sections.  \n\n- Definition: A leader who inspires, guides, and influences others toward shared goals.  \n- Core traits: Vision, integrity, empathy, decisiveness, communication, adaptability.  \n- Leadership styles: Autocratic, democratic, transformational, transactional.  \n- Key functions: Setting direction, motivating, coordinating, monitoring, developing.  \n- Importance: Drives organizational success, fosters innovation, ensures resilience.  \n- Challenges: Balancing authority with collaboration, managing diverse teams, adapting to rapid change.  \n\nAudience: UPSC, SSC, School Exams, Competitive Exams  \nexamsfiles  \nExams Files notes  \n#Leadership #EffectiveLeadership #UPSC #SSC #CompetitiveExams #IndianPolity #Governance #ExamPreparation #StudyTips #examsfiles",
+      "image_url": "https://i.ibb.co/7Jytd55b/0036-Qualities-of-Effective-Leaders.jpg",
+      "ig_container_id": "18045789593654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120602317068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-21T12:49:00+05:30"
+    },
+    {
+      "index": 8,
+      "filename": "0037_Escape_Velocity.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0037_Escape_Velocity.png",
+      "caption": "Escape Velocity 🚀  \nEscape velocity is the minimum speed an object must achieve to break free from a planet’s gravitational pull without further propulsion. It depends on the planet’s mass and radius, and is crucial for planning space missions and predicting launch windows. Mastering this concept helps in calculating fuel requirements and understanding orbital mechanics.  \n\n- **Definition**: Minimum speed to escape a planet’s gravity without additional thrust.  \n- **Formula**: \\(v_e = \\sqrt{2GM/R}\\) – depends on mass \\(M\\) and radius \\(R\\).  \n- **Types**: Orbital escape velocity (for circular orbits) vs. surface escape.  \n- **Features**: Independent of launch angle; increases with planetary mass.  \n- **Functions**: Determines required launch speed for satellites, probes, and interplanetary travel.  \n- **Challenges**: Requires large energy; affected by atmospheric drag and gravity assists.  \n\nUPSC, SSC, Geography, Astronomy, Competitive Exams  \nexamsfiles  \nExams Files notes  \n#EscapeVelocity #SpaceScience #Astronomy #Physics #UPSC #SSC #Geography #CompetitiveExams #SpaceTravel #examsfiles",
+      "image_url": "https://i.ibb.co/m38RSFx/0037-Escape-Velocity.jpg",
+      "ig_container_id": "18045789773654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120602431068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-21T13:26:00+05:30"
+    },
+    {
+      "index": 9,
+      "filename": "0037_Make_in_India_Programme.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0037_Make_in_India_Programme.png",
+      "caption": "Make in India 🚀  \nThe Make in India Programme, launched in 2014, aims to transform India into a global manufacturing hub by attracting investment, fostering innovation, and creating jobs. It focuses on 25 key sectors and offers policy incentives to boost domestic production and exports.\n\n- Definition: A flagship initiative to boost manufacturing, attract FDI, and generate employment.  \n- Sectors: 25 core areas such as automobiles, electronics, pharma, renewable energy, textiles, and agriculture.  \n- Features: Single‑window clearance, tax incentives, investment promotion agencies, and ease‑of‑doing‑business reforms.  \n- Functions: Attract foreign investment, promote technology transfer, enhance export capacity, and build supply chains.  \n- Importance: Drives GDP growth, reduces import dependence, creates skilled jobs, and improves global competitiveness.  \n- Challenges: Infrastructure gaps, regulatory bottlenecks, skill mismatch, and intense global competition.  \n\nTarget Audiences: UPSC, SSC, Indian Polity, Geography, Economics, Business, General Studies  \nexamsfiles  \nExams Files notes  \n#MakeInIndia #Manufacturing #FDI #EconomicGrowth #SkillDevelopment #Infrastructure #India #UPSC #SSC #examsfiles",
+      "image_url": "https://i.ibb.co/DHXN9H5p/0037-Make-in-India-Programme.jpg",
+      "ig_container_id": "18045789941654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120602587068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-21T14:03:00+05:30"
+    },
+    {
+      "index": 10,
+      "filename": "0038_Satellite_Motion.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0038_Satellite_Motion.png",
+      "caption": "Satellite Motion 🚀  \nSatellite motion refers to the trajectory and dynamics of artificial satellites orbiting Earth or other celestial bodies. Understanding their paths is crucial for communication, navigation, and scientific research.  \n\n- Definition: Path traced by a satellite under gravitational influence, following Keplerian orbits.  \n- Types of orbits: LEO, MEO, GEO, HEO – each with distinct altitude, period, and applications.  \n- Key features: Period, inclination, eccentricity, RAAN, argument of perigee.  \n- Functions: GPS, weather monitoring, telecommunications, Earth observation, scientific experiments.  \n- Importance: Enables global positioning, climate monitoring, disaster management, and international communication.  \n- Challenges: Atmospheric drag in LEO, orbital debris, radiation, precise propulsion, collision avoidance.  \n\nTarget audiences: UPSC, SSC, Geography, Physics, Space Science.  \nexamsfiles  \nExams Files notes  \n#SatelliteMotion #OrbitalPhysics #SpaceScience #UPSC #SSC #Geography #Physics #Space #Astronomy #examsfiles",
+      "image_url": "https://i.ibb.co/vyRvnDs/0038-Satellite-Motion.jpg",
+      "ig_container_id": "18045789989654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120602677068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-21T14:40:00+05:30"
+    },
+    {
+      "index": 11,
+      "filename": "0039_Industrial_Corridors.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0039_Industrial_Corridors.png",
+      "caption": "Industrial Corridors 🚧  \n\nIndustrial corridors are specialized zones that cluster manufacturing units, logistics hubs, and supporting infrastructure to accelerate regional economic development. They integrate transport links, power supply, and digital connectivity to create a seamless supply chain, attract investment, and generate employment.  \n\n- Definition: Linear zones of coordinated industrial activity linked by transport and infrastructure.  \n- Types: Manufacturing corridors (e.g., DMIC, Gujarat), logistics corridors, and technology corridors.  \n- Key features: Dedicated highways, rail links, power grids, and ICT nodes.  \n- Functions: Reduce transaction costs, enhance productivity, and promote cluster development.  \n- Importance: Catalyze balanced growth, boost exports, and create jobs.  \n- Challenges: Land acquisition, environmental impact, and coordination among stakeholders.  \n\nUPSC, SSC, Geography, Economics, Industrial Development  \n\nexamsfiles  \n\nExams Files notes  \n\n#IndustrialCorridors #EconomicDevelopment #Infrastructure #SupplyChain #Manufacturing #India #UPSC #SSC #CompetitiveExams #examsfiles",
+      "image_url": "https://i.ibb.co/Y47Q4LnC/0039-Industrial-Corridors.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-21T15:17:00+05:30"
+    },
+    {
+      "index": 12,
+      "filename": "AIR_MASSES,_FRONTS_AND_CYCLONES Page 010.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/AIR_MASSES,_FRONTS_AND_CYCLONES Page 010.png",
+      "caption": "Air Masses, Fronts & Cyclones 🌬️\n\nAir masses are large bodies of air with uniform temperature and humidity, while fronts are the boundaries where two air masses meet. Cyclones are low‑pressure systems formed at these boundaries, crucial for global weather patterns.\n\n- Definition of air mass, front, and cyclone  \n- Types of air masses: polar, tropical, maritime, continental  \n- Fronts: cold, warm, stationary, occluded – key characteristics  \n- Cyclones: low‑pressure centers, structure, and impact on weather  \n- Functions: weather forecasting, monsoon dynamics, climate regulation  \n- Challenges: prediction accuracy, climate change effects, regional impacts  \n\nUPSC, SSC, Geography, Climate Science, Weather Forecasting, Students  \n\nexamsfiles  \n\nExams Files notes  \n\n#AirMasses #Fronts #Cyclones #Weather #Geography #UPSC #SSC #ExamPrep #ClimateChange #examsfiles",
+      "image_url": "https://i.ibb.co/8gwgDQrR/AIR-MASSES-FRONTS-AND-CYCLONES-Page-010.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-21T15:54:00+05:30"
+    },
+    {
+      "index": 13,
+      "filename": "AIR_MASSES,_FRONTS_AND_CYCLONES Page 011.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/AIR_MASSES,_FRONTS_AND_CYCLONES Page 011.png",
+      "caption": "Air Masses, Fronts & Cyclones 🌬️  \n\nAir masses are vast parcels of air with uniform temperature, humidity and pressure that move over the earth’s surface. Their interactions form fronts, while low‑pressure systems called cyclones bring clouds, rain and storms. Understanding these concepts is crucial for predicting weather patterns and preparing for natural disasters.  \n\n- Air mass = large volume of air with nearly uniform temperature, humidity, and pressure.  \n- Main types: polar (cold), tropical (warm), continental (dry), maritime (moist).  \n- Fronts = boundaries where two air masses meet; cold, warm, stationary, occluded.  \n- Cyclones = low‑pressure centers with inward spiraling winds; produce heavy rainfall and storms.  \n- They drive global circulation, influence monsoons, and shape regional climates.  \n- Forecasting challenges: rapid development, complex interactions, impacts on agriculture and disaster readiness.  \n\nUPSC, SSC, Geography, Climate Science, Meteorology, School students  \nexamsfiles  \nExams Files notes  \n#AirMasses #Fronts #Cyclones #Meteorology #Geography #UPSC #SSC #Climate #Weather #examsfiles",
+      "image_url": "https://i.ibb.co/Xxw5jjNS/AIR-MASSES-FRONTS-AND-CYCLONES-Page-011.jpg",
+      "ig_container_id": "18045790100654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120603385068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-21T16:31:00+05:30"
+    },
+    {
+      "index": 14,
+      "filename": "ATMOSPHERE_AND_ITS_COMPOSITION Page 055.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/ATMOSPHERE_AND_ITS_COMPOSITION Page 055.png",
+      "caption": "Atmosphere & Its Composition 🌍  \nThe Earth's atmosphere is a dynamic gas envelope that sustains life and shapes climate. It is mainly composed of nitrogen and oxygen, with trace gases that influence weather, radiation balance, and biological processes. Understanding its layers and constituents is key for any geography or environmental science exam.  \n\n- **Definition & Major Gases** – 78 % N₂, 21 % O₂, 1 % Ar + trace gases (CO₂, CH₄, N₂O, O₃).  \n- **Vertical Layers** – Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere – each with distinct temperature gradients and functions.  \n- **Key Trace Gases** – CO₂ (greenhouse), O₃ (UV shield), CH₄ (greenhouse), N₂O (ozone depleting), Ar (inert).  \n- **Functions** – Regulates surface temperature, protects life from solar UV, supports weather systems, provides breathable air.  \n- **Importance for Exams** – Central to climate change, ozone layer topics, and Earth system science chapters in UPSC, SSC, and school curricula.  \n- **Current Challenges** – Rising greenhouse gases, ozone layer depletion, aerosol pollution, and their impact on global warming and human health.  \n\n**Target Audiences:** UPSC, SSC, Geography, Earth Science, School, Competitive Exams  \nexamsfiles  \nExams Files notes  \n#Atmosphere #Composition #Geography #EarthScience #UPSC #SSC #CompetitiveExam #StudyTips #ExamPreparation #examsfiles",
+      "image_url": "https://i.ibb.co/MD1pHDb4/ATMOSPHERE-AND-ITS-COMPOSITION-Page-055.jpg",
+      "ig_container_id": "18045790247654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120603517068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-21T17:08:00+05:30"
+    },
+    {
+      "index": 15,
+      "filename": "ATMOSPHERE_AND_ITS_COMPOSITION Page 056.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/ATMOSPHERE_AND_ITS_COMPOSITION Page 056.png",
+      "caption": "Atmosphere & Its Composition 🌍  \n\nThe Earth's atmosphere is a thin layer of gases that surrounds the planet and is crucial for life. It regulates temperature, protects us from solar radiation, and facilitates the water cycle. Understanding its makeup is essential for geography and environmental science exams.  \n\n- Definition: A gaseous envelope bound by gravity, composed of nitrogen, oxygen, and trace gases.  \n- Main Layers: Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere – each with distinct temperature gradients.  \n- Major Gases: ~78% N₂, ~21% O₂, ~1% Ar, CO₂, and other trace gases.  \n- Trace Gases: CO₂, CH₄, N₂O, ozone – key in greenhouse effect and ozone layer protection.  \n- Functions: Supports respiration, drives weather systems, moderates surface temperature.  \n- Challenges: Anthropogenic emissions, ozone depletion, climate change, air pollution.  \n\nTarget Audiences: UPSC, SSC, Geography, Environmental Science, Competitive Exams, School  \n\nexamsfiles  \nExams Files notes  \n\n#Atmosphere #Composition #Geography #UPSC #SSC #CompetitiveExams #EnvironmentalScience #EarthScience #Climate #examsfiles",
+      "image_url": "https://i.ibb.co/yBZhPbT6/ATMOSPHERE-AND-ITS-COMPOSITION-Page-056.jpg",
+      "ig_container_id": "18045790298654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120603577068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-21T17:45:00+05:30"
+    },
+    {
+      "index": 16,
+      "filename": "COASTAL_LANDFORMS_AND_PROCESSES Page 043.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/COASTAL_LANDFORMS_AND_PROCESSES Page 043.png",
+      "caption": "Coastal Landforms & Processes 🌊  \nCoastal landforms are dynamic features formed by the interaction of marine and terrestrial processes. They include beaches, cliffs, dunes, and estuaries, each shaped by waves, currents, tides, and sediment supply. Understanding these processes is essential for coastal management and hazard mitigation.  \n\n- Definition: Natural shoreline features created by erosion, deposition, and sediment transport.  \n- Types: Beaches, cliffs, dunes, spits, bars, estuaries, lagoons, tidal flats.  \n- Formation processes: Wave action, longshore drift, tidal currents, storm surges, sediment supply, sea‑level rise.  \n- Functions: Protect inland areas, support biodiversity, provide resources, influence human settlement.  \n- Importance: Economic (fishing, tourism), ecological (habitats), cultural (heritage sites).  \n- Challenges: Coastal erosion, sea‑level rise, human encroachment, pollution, climate change impacts.  \n\nTarget audiences: UPSC, SSC, Geography, Environmental Science, Civil Engineering, Disaster Management  \nexamsfiles  \nExams Files notes  \n#CoastalLandforms #Geography #CoastalProcesses #UPSC #SSC #ExamPrep #CompetitiveExams #GeographyNotes #EnvironmentalScience #examsfiles",
+      "image_url": "https://i.ibb.co/PGbCgsm8/COASTAL-LANDFORMS-AND-PROCESSES-Page-043.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-21T18:22:00+05:30"
+    },
+    {
+      "index": 17,
+      "filename": "COASTAL_LANDFORMS_AND_PROCESSES Page 044.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/COASTAL_LANDFORMS_AND_PROCESSES Page 044.png",
+      "caption": "Coastal Landforms & Processes 🌊  \n\nCoastal landforms are the physical features that form where land meets the sea, shaped by the dynamic interplay of waves, currents, tides, and sediment supply. Understanding these formations and the processes that create them is essential for geography, coastal management, and disaster mitigation.  \n\n- Definition: Natural features at the interface of land and sea formed by marine and terrestrial forces.  \n- Types: Cliffs, beaches, dunes, spits, barrier islands, estuaries, mudflats, and tidal flats.  \n- Key Features: Wave action, tidal range, sediment transport, erosion and accretion dynamics.  \n- Functions: Provide habitats, protect shorelines, support fisheries, and influence human settlement patterns.  \n- Importance: Critical for biodiversity, coastal protection, tourism, and economic resources.  \n- Challenges: Sea‑level rise, coastal erosion, pollution, and human encroachment threaten these fragile landscapes.  \n\nUPSC, SSC, Geography, School, Competitive Exams  \n\nexamsfiles  \n\nExams Files notes  \n\n#CoastalGeography #Landforms #MarineProcesses #CoastalErosion #SedimentTransport #UPSC #SSC #Geography #CompetitiveExams #examsfiles",
+      "image_url": "https://i.ibb.co/YT23SRVT/COASTAL-LANDFORMS-AND-PROCESSES-Page-044.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-21T18:59:00+05:30"
+    },
+    {
+      "index": 18,
+      "filename": "GEOGRAPHY_OF_INDIA_PHYSIOGRAPHIC_DIVISIONS Page 065.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/GEOGRAPHY_OF_INDIA_PHYSIOGRAPHIC_DIVISIONS Page 065.png",
+      "caption": "India’s Physio‑Geographic Divisions 📍  \nIndia’s land is divided into distinct physio‑geographic zones that influence climate, vegetation, and human activities. Understanding these divisions helps in predicting natural hazards, resource distribution, and planning development.  \n- Definition: Classification based on topography, climate, soil, and vegetation.  \n- Types: Himalayan, Indo‑Gangetic Plain, Thar Desert, Deccan Plateau, Coastal Plains.  \n- Features: Unique altitude ranges, rainfall patterns, soil types, and flora/fauna per zone.  \n- Functions: Determines agricultural suitability, water availability, and settlement patterns.  \n- Importance: Essential for resource management, disaster risk reduction, and ecological conservation.  \n- Challenges: Climate change, land degradation, and rapid urbanization threaten zone integrity.  \nUPSC, SSC, Geography, School, Competitive Exams  \nexamsfiles  \nExams Files notes  \n#IndiaGeography #PhysiographicDivisions #Geography #UPSC #SSC #CompetitiveExams #IndianGeography #ExamPrep #StudyGuide #examsfiles",
+      "image_url": "https://i.ibb.co/wZDYxG8j/GEOGRAPHY-OF-INDIA-PHYSIOGRAPHIC-DIVISIONS-Page-065.jpg",
+      "ig_container_id": "18045790796654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120604369068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-21T19:36:00+05:30"
+    },
+    {
+      "index": 19,
+      "filename": "Gemini_Generated_Image_52zk352zk352zk35.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/Gemini_Generated_Image_52zk352zk352zk35.png",
+      "caption": "Gemini Image AI 🚀  \nGemini, Google’s next‑generation generative AI, can create detailed images from textual prompts. It combines multimodal understanding with advanced diffusion techniques, enabling realistic visuals for a wide range of applications. Understanding its workings and implications is essential for competitive exam preparation.  \n\n- Definition: AI that converts text descriptions into high‑resolution images using diffusion models.  \n- Types: Text‑to‑image, style transfer, and image‑editing modes for diverse use cases.  \n- Features: Real‑time rendering, fine‑grained style control, lighting, perspective, and integration with Google services.  \n- Functions: Content creation, educational illustrations, data visualization, rapid design prototyping.  \n- Importance: Illustrates the shift to multimodal AI, a key topic in AI, technology, and digital transformation sections.  \n- Challenges: Bias in training data, copyright concerns, high computational resource requirements.  \n\nUPSC, SSC, Competitive Exams, AI & Machine Learning, Computer Science, Technology  \nexamsfiles  \nExams Files notes  \n#AI #Gemini #ImageGeneration #Tech #DigitalTransformation #MachineLearning #CompetitiveExams #UPSC #SSC #examsfiles",
+      "image_url": "https://i.ibb.co/sdp2qSnS/Gemini-Generated-Image-52zk352zk352zk35.jpg",
+      "ig_container_id": "18045790820654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120604555068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-21T20:13:00+05:30"
+    },
+    {
+      "index": 20,
+      "filename": "Gemini_Generated_Image_53mts653mts653mt.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/Gemini_Generated_Image_53mts653mts653mt.png",
+      "caption": "Gemini AI‑Generated Images 🌌  \nGemini, Google’s advanced generative AI, can create realistic images from text prompts. These images are used in design, education, and research, showcasing the power of multimodal AI. Understanding how Gemini works helps you stay ahead in tech‑centric exams.  \n\n- **Definition** – Gemini is a multimodal generative model that produces images, text, and audio from prompts.  \n- **Types of Outputs** – Static images, animated sequences, and augmented reality overlays can all be generated.  \n- **Key Features** – High resolution, style transfer, contextual relevance, and fine‑tuning for specific domains.  \n- **Core Functions** – Text‑to‑image synthesis, image editing, and creative brainstorming tools.  \n- **Exam Relevance** – Illustrates AI ethics, data privacy, and the future of creative professions.  \n- **Challenges** – Bias in training data, copyright concerns, and computational cost.  \n\n**Target Audiences**  \nUPSC, SSC, School, Competitive Exams  \n\nexamsfiles  \nExams Files notes  \n\n#AI #Gemini #ImageGeneration #Tech #Innovation #Education #CompetitiveExams #UPSC #SSC #examsfiles",
+      "image_url": "https://i.ibb.co/LzFkkx7X/Gemini-Generated-Image-53mts653mts653mt.jpg",
+      "ig_container_id": "18045790844654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120604633068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-21T20:50:00+05:30"
+    },
+    {
+      "index": 21,
+      "filename": "Gemini_Generated_Image_a0hce5a0hce5a0hc.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/Gemini_Generated_Image_a0hce5a0hce5a0hc.png",
+      "caption": "Gemini Generated Image 🌟  \nGemini, Google's multimodal AI, can generate high‑resolution images from textual prompts. The image ID a0hce5a0hce5a0hc exemplifies its capability to produce detailed visuals that align with user instructions. It is increasingly used in research, creative industries, and educational content.  \n\n- Definition: Gemini is an AI model that combines vision and language to understand context and generate images.  \n- Types: Text‑to‑Image, Prompt‑Refinement, Style Transfer, and Interactive Editing.  \n- Key Features: Real‑time rendering, high‑resolution output, semantic consistency, and adaptive style control.  \n- Functions: Content creation, data augmentation, prototyping, and educational illustration.  \n- Importance: Accelerates design workflows, supports accessibility, and enhances AI literacy.  \n- Challenges: Bias in training data, copyright concerns, computational cost, and interpretability.  \n\nTarget Audiences: UPSC, SSC, Competitive Exams, Computer Science, AI & ML, Indian Polity.  \n\nexamsfiles  \nExams Files notes  \n\n#AI #MachineLearning #ImageGeneration #Gemini #GoogleAI #TechEducation #CompetitiveExams #UPSC #SSC #examsfiles",
+      "image_url": "https://i.ibb.co/xKwX866x/Gemini-Generated-Image-a0hce5a0hce5a0hc.jpg",
+      "ig_container_id": "18045790871654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120604819068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-21T21:27:00+05:30"
     },
     {
       "index": 22,
-      "filename": "WORLD_CLIMATE_CLASSIFICATION Page 017.png",
-      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/WORLD_CLIMATE_CLASSIFICATION Page 017.png",
-      "caption": null,
-      "image_url": null,
-      "ig_container_id": null,
+      "filename": "Gemini_Generated_Image_a1c820a1c820a1c8.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/Gemini_Generated_Image_a1c820a1c820a1c8.png",
+      "caption": "Gemini AI: Image Generation Explained 🚀  \nGemini, Google's cutting‑edge multimodal generative AI, can produce realistic images from text prompts. The image a1c820a1c820a1c8 demonstrates how Gemini interprets context, color, and composition to generate visuals that match user intent. Knowing its mechanics helps exam aspirants grasp emerging AI technologies and their impact on learning and policy.  \n\n- Definition: Gemini is a multimodal generative AI by Google that creates images, text, and code from prompts.  \n- Types of output: photorealistic scenes, stylized artwork, infographics, and data visualizations.  \n- Core features: prompt‑based conditioning, style transfer, resolution upscaling, and contextual understanding.  \n- Functions in exams: aids visualization of concepts, creation of study aids, and assessment of AI ethics and regulation.  \n- Importance: illustrates the shift from static to dynamic content, influencing education, media, and public policy.  \n- Challenges: bias in training data, hallucinations, copyright concerns, and limited explainability.  \n\nUPSC, SSC, School, Competitive exams  \nexamsfiles  \nExams Files notes  \n#AI #Gemini #ImageGeneration #GenerativeAI #TechEducation #CompetitiveExams #UPSC #SSC #ExamPrep #examsfiles",
+      "image_url": "https://i.ibb.co/LXFBFKm1/Gemini-Generated-Image-a1c820a1c820a1c8.jpg",
+      "ig_container_id": "18045790898654948",
       "ig_post_id": null,
       "ig_published": false,
-      "fb_post_id": null,
-      "fb_scheduled": false,
-      "moved": false,
-      "scheduled_time": "2026-08-20T22:04:00+05:30"
+      "fb_post_id": "122120604987068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-21T22:04:00+05:30"
     },
     {
       "index": 23,
-      "filename": "—_AIR_MASSES,_FRONTS_AND_CYCLONES Page 012.png",
-      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_AIR_MASSES,_FRONTS_AND_CYCLONES Page 012.png",
-      "caption": null,
-      "image_url": null,
-      "ig_container_id": null,
+      "filename": "Gemini_Generated_Image_a2264ia2264ia226.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/Gemini_Generated_Image_a2264ia2264ia226.png",
+      "caption": "Gemini Generated Images 📸  \nGemini, Google’s multimodal AI, can create realistic images from textual prompts. These images blend visual and linguistic understanding, enabling applications in design, education, and content creation. Understanding Gemini’s image generation is essential for exams covering AI, technology, and digital innovation.  \n\n- **Definition** – AI model that synthesizes images based on textual input, using diffusion and transformer architectures.  \n- **Types** – Text‑to‑image, style transfer, and image‑editing modes.  \n- **Key Features** – High resolution, contextual relevance, iterative refinement, and user‑controlled style parameters.  \n- **Functions** – Automates visual content creation, aids accessibility, and supports data augmentation for ML training.  \n- **Importance** – Demonstrates practical AI impact, informs policy on digital media, and illustrates ethical considerations.  \n- **Challenges** – Bias in training data, copyright issues, hallucination of details, and computational cost.  \n\n**Target Audiences**  \nUPSC, SSC, Competitive Exams, School Students, Tech Enthusiasts  \n\nexamsfiles  \nExams Files notes  \n\n#GeminiAI #AIgenerated #ImageGeneration #Technology #ArtificialIntelligence #MachineLearning #ExamPrep #CompetitiveExams #UPSC #examsfiles",
+      "image_url": "https://i.ibb.co/chxBmdKm/Gemini-Generated-Image-a2264ia2264ia226.jpg",
+      "ig_container_id": "18045790970654948",
       "ig_post_id": null,
       "ig_published": false,
-      "fb_post_id": null,
-      "fb_scheduled": false,
-      "moved": false,
-      "scheduled_time": "2026-08-20T22:41:00+05:30"
+      "fb_post_id": "122120605215068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-21T22:41:00+05:30"
     }
   ],
-  "prepared_at": "2026-08-20T08:30:00+05:30"
+  "prepared_at": "2026-08-21T08:30:00+05:30"
 }
