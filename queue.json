@@ -1523,7 +1523,7 @@
       "ig_published": false,
       "fb_post_id": "122120690787068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T08:30:00+05:30"
     },
     {
@@ -1537,7 +1537,7 @@
       "ig_published": false,
       "fb_post_id": "122120690907068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T09:07:00+05:30"
     },
     {
@@ -1551,7 +1551,7 @@
       "ig_published": false,
       "fb_post_id": "122120691399068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T09:44:00+05:30"
     },
     {
@@ -1565,22 +1565,8 @@
       "ig_published": false,
       "fb_post_id": null,
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T10:21:00+05:30"
-    },
-    {
-      "index": 4,
-      "filename": "0021_Exam_Tricks.png",
-      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0021_Exam_Tricks.png",
-      "caption": "Exam Tricks 🚀  \nMastering quick strategies can turn a good performance into a great one. These tricks help you save time, reduce exam anxiety, and answer more accurately.  \n\n- Definition: Exam tricks are simple, repeatable techniques that simplify complex questions.  \n- Types: Time‑saving shortcuts, pattern recognition, elimination, mental math, rapid note recall.  \n- Features: Easy to apply, low cognitive load, adaptable to all subjects, boosts confidence.  \n- Functions: Increase speed and accuracy, keep focus, reduce answer fatigue.  \n- Importance: Essential for high‑stakes exams where every second counts.  \n- Challenges: Needs practice, risk of over‑reliance, may overlook deeper concepts.  \n\nUPSC, SSC, School, Competitive exams  \nexamsfiles  \nExams Files notes  \n#examtricks #studyhacks #UPSC #SSC #competitiveexam #studytips #timemanagement #examprep #examsfiles",
-      "image_url": "https://i.ibb.co/FLv3WB5L/0021-Exam-Tricks.jpg",
-      "ig_container_id": null,
-      "ig_post_id": null,
-      "ig_published": false,
-      "fb_post_id": null,
-      "fb_scheduled": false,
-      "moved": false,
-      "scheduled_time": "2026-08-22T10:58:00+05:30"
     },
     {
       "index": 5,
@@ -1593,22 +1579,8 @@
       "ig_published": false,
       "fb_post_id": null,
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T11:35:00+05:30"
-    },
-    {
-      "index": 6,
-      "filename": "AIR_MASSES,_FRONTS_AND_CYCLONES Page 010.png",
-      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/AIR_MASSES,_FRONTS_AND_CYCLONES Page 010.png",
-      "caption": "Air Masses, Fronts & Cyclones 🌬️  \n\nAir masses are vast, relatively homogeneous air bodies with uniform temperature and humidity. When two distinct air masses meet, their boundary forms a front, often bringing rapid weather changes. Cyclones develop where warm and cold air masses clash, creating low‑pressure centers that drive stormy conditions.  \n\n- **Definition** – A large volume of air that has uniform temperature and humidity characteristics.  \n- **Types** – Continental (dry), Maritime (moist), Polar, Tropical, and Mixed.  \n- **Fronts** – Cold, warm, stationary, and occluded fronts mark the meeting zones of different air masses.  \n- **Cyclones** – Low‑pressure systems formed by the collision of warm and cold fronts; they bring precipitation and strong winds.  \n- **Functions** – Regulate global weather patterns, drive monsoons, and influence climate zones.  \n- **Examples** – The North Atlantic storm track, the Indian monsoon trough, and the Arctic cyclonic circulation.  \n\n**Target Audiences** – UPSC, SSC, Geography, Competitive Exams  \nexamsfiles  \nExams Files notes  \n\n#AirMasses #Fronts #Cyclones #Weather #Geography #UPSC #SSC #CompetitiveExams #examsfiles",
-      "image_url": "https://i.ibb.co/9k3VvG6M/AIR-MASSES-FRONTS-AND-CYCLONES-Page-010.jpg",
-      "ig_container_id": null,
-      "ig_post_id": null,
-      "ig_published": false,
-      "fb_post_id": null,
-      "fb_scheduled": false,
-      "moved": false,
-      "scheduled_time": "2026-08-22T12:12:00+05:30"
     },
     {
       "index": 7,
@@ -1621,7 +1593,7 @@
       "ig_published": false,
       "fb_post_id": "122120692455068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T12:49:00+05:30"
     },
     {
@@ -1635,7 +1607,7 @@
       "ig_published": false,
       "fb_post_id": null,
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T13:26:00+05:30"
     },
     {
@@ -1649,7 +1621,7 @@
       "ig_published": false,
       "fb_post_id": "122120692773068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T14:03:00+05:30"
     },
     {
@@ -1663,7 +1635,7 @@
       "ig_published": false,
       "fb_post_id": null,
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T14:40:00+05:30"
     },
     {
@@ -1677,7 +1649,7 @@
       "ig_published": false,
       "fb_post_id": "122120693067068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T15:17:00+05:30"
     },
     {
@@ -1691,7 +1663,7 @@
       "ig_published": false,
       "fb_post_id": "122120693151068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T15:54:00+05:30"
     },
     {
@@ -1705,7 +1677,7 @@
       "ig_published": false,
       "fb_post_id": "122120693283068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T16:31:00+05:30"
     },
     {
@@ -1719,7 +1691,7 @@
       "ig_published": false,
       "fb_post_id": "122120693349068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T17:08:00+05:30"
     },
     {
@@ -1733,7 +1705,7 @@
       "ig_published": false,
       "fb_post_id": "122120693685068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T17:45:00+05:30"
     },
     {
@@ -1747,7 +1719,7 @@
       "ig_published": false,
       "fb_post_id": "122120695257068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T18:22:00+05:30"
     },
     {
@@ -1761,7 +1733,7 @@
       "ig_published": false,
       "fb_post_id": "122120696643068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T18:59:00+05:30"
     },
     {
@@ -1775,7 +1747,7 @@
       "ig_published": false,
       "fb_post_id": "122120696931068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T19:36:00+05:30"
     },
     {
@@ -1789,7 +1761,7 @@
       "ig_published": false,
       "fb_post_id": "122120697189068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T20:13:00+05:30"
     },
     {
@@ -1803,7 +1775,7 @@
       "ig_published": false,
       "fb_post_id": "122120697525068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T20:50:00+05:30"
     },
     {
@@ -1817,7 +1789,7 @@
       "ig_published": false,
       "fb_post_id": "122120697615068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T21:27:00+05:30"
     },
     {
@@ -1831,7 +1803,7 @@
       "ig_published": false,
       "fb_post_id": "122120699175068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T22:04:00+05:30"
     },
     {
@@ -1845,9 +1817,345 @@
       "ig_published": false,
       "fb_post_id": "122120699703068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-22T22:41:00+05:30"
+    },
+    {
+      "index": 0,
+      "filename": "0021_Exam_Tricks.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/0021_Exam_Tricks.png",
+      "caption": "Exam Tricks 🧠  \nMaster the art of exam preparation with quick, high‑impact tricks that save time and boost confidence. From time‑management hacks to memory cues, these strategies are proven to elevate performance across competitive exams.  \n\n- Define “Exam Trick” as a concise technique that maximizes efficiency and accuracy.  \n- Types: Skimming, Highlighting, Mnemonics, Self‑testing, Pacing, Mind‑mapping.  \n- Features: Time‑saving, repeatable, low mental load, adaptable to any subject.  \n- Functions: Reduce anxiety, improve recall, prioritize key concepts, track progress.  \n- Importance: Turns large syllabus into digestible chunks, increases retention, builds exam stamina.  \n- Challenges: Over‑reliance, misapplication, neglecting deep understanding—balance with thorough study.  \n\nUPSC, SSC, IIT‑JEE, NEET, Bank PO, State PSC  \nexamsfiles  \nExams Files notes  \n#ExamTricks #TimeManagement #MemoryHacks #CompetitiveExams #StudyTips #ExamPreparation #ExamSuccess #StudySmart #ExamHacks #examsfiles",
+      "image_url": "https://i.ibb.co/k6cgbm1v/0021-Exam-Tricks.jpg",
+      "ig_container_id": "18046052300654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120782995068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T08:30:00+05:30"
+    },
+    {
+      "index": 1,
+      "filename": "AIR_MASSES,_FRONTS_AND_CYCLONES Page 010.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/AIR_MASSES,_FRONTS_AND_CYCLONES Page 010.png",
+      "caption": "Air Masses, Fronts & Cyclones 🌬️  \n\nAir masses are large bodies of air with uniform temperature and humidity, while fronts are the boundaries where two different air masses meet. Cyclones are low‑pressure systems that form along fronts, driving wind and precipitation patterns across the globe. Understanding these concepts is crucial for predicting weather and assessing environmental impacts.  \n\n- **Definition**: Air mass = homogeneous air body; front = boundary between differing air masses; cyclone = rotating low‑pressure system.  \n- **Types of Air Masses**: Continental Polar (cP), Continental Tropical (cT), Maritime Polar (mP), Maritime Tropical (mT).  \n- **Front Types**: Warm, Cold, Stationary, Occluded – each with distinct temperature and pressure gradients.  \n- **Cyclone Features**: Counter‑clockwise rotation in the Northern Hemisphere, clockwise in the Southern; associated with rising air, cloud formation, and precipitation.  \n- **Functions**: Drive global wind patterns, transport heat and moisture, influence monsoons and storm tracks.  \n- **Challenges**: Accurate intensity prediction, impact on agriculture, adaptation to climate‑change‑induced shifts.  \n\n**Target audiences**  \nUPSC, SSC, Geography, Competitive Exams, School  \n\nexamsfiles  \nExams Files notes  \n\n#airmass #fronts #cyclones #weather #meteorology #geography #UPSC #SSC #competitiveexams #examsfiles",
+      "image_url": "https://i.ibb.co/dsc6XFzH/AIR-MASSES-FRONTS-AND-CYCLONES-Page-010.jpg",
+      "ig_container_id": "18046052360654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120783163068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T09:07:00+05:30"
+    },
+    {
+      "index": 2,
+      "filename": "WORLD_CLIMATE_CLASSIFICATION Page 016.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/WORLD_CLIMATE_CLASSIFICATION Page 016.png",
+      "caption": "World Climate Classification 🌍  \nUnderstanding how the world’s climates are categorized helps predict weather patterns, plan agriculture, and assess climate change impacts. The Köppen system remains the most widely used method, linking temperature and precipitation to distinct climate types.\n\n- **Definition**: A systematic method to classify the Earth’s climates based on long‑term temperature and rainfall patterns.  \n- **Köppen System**: Uses letters (e.g., Af, BWh, Cfa) to denote major climate groups—tropical, arid, temperate, continental, polar.  \n- **Major Zones**: Tropical (Af, Am, Aw), Arid (BWh, BWk, BSh, BSk), Temperate (Cfa, Cfb, Csa, Csb), Continental (Dfa, Dfb, Dsa, Dsb), Polar (EF, ET).  \n- **Key Features**: Temperature ranges, seasonality of rainfall, moisture availability, and vegetation types.  \n- **Functions**: Guides ecological research, disaster management, urban planning, and international climate agreements.  \n- **Challenges**: Rapid climate change is shifting boundaries, creating hybrid climates and complicating predictions.\n\n**Target audiences:** UPSC, SSC, Geography, Environmental Science, Climate Studies  \nexamsfiles  \nExams Files notes  \n#WorldClimate #KoppenClassification #ClimateZones #Geography #UPSC #SSC #CompetitiveExams #ClimateChange #EnvironmentalScience #examsfiles",
+      "image_url": "https://i.ibb.co/hRFck4dF/WORLD-CLIMATE-CLASSIFICATION-Page-016.jpg",
+      "ig_container_id": "18046052462654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120783271068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T09:44:00+05:30"
+    },
+    {
+      "index": 3,
+      "filename": "WORLD_CLIMATE_CLASSIFICATION Page 017.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/WORLD_CLIMATE_CLASSIFICATION Page 017.png",
+      "caption": "World Climate Classification 🌍  \nThe world’s climates are grouped into distinct categories based on long‑term temperature, rainfall, and vegetation patterns.  \nUnderstanding these classifications helps predict weather patterns, guide agriculture, and assess climate change impacts.  \n\n- Definition: System that groups global climates by temperature, precipitation, and vegetation patterns.  \n- Primary schemes: Köppen‑Geiger, Thornthwaite, and Trewartha, each using different thresholds.  \n- Köppen‑Geiger categories (Af, Am, Aw, BSh, BWh, Cfa, Cfb, Dfa, Dfb, EF, ET) and what they represent.  \n- Key climatic criteria: mean annual temperature ≥18 °C for tropical, <18 °C for temperate, <0 °C for polar; precipitation thresholds relative to evapotranspiration.  \n- Significance: Helps in crop selection, water management, ecological zoning, and assessing climate change impacts.  \n- Current challenges: Shifting climate boundaries due to global warming, limited high‑resolution data in polar and oceanic regions, and local microclimate variability.  \n\nUPSC, SSC, Geography, Climate Science, Environmental Studies  \nexamsfiles  \nExams Files notes  \n#WorldClimate #KoppenGeiger #ClimateClassification #Geography #UPSC #SSC #ExamPrep #ClimateChange #examsfiles",
+      "image_url": "https://i.ibb.co/bjHbthDG/WORLD-CLIMATE-CLASSIFICATION-Page-017.jpg",
+      "ig_container_id": "18046052549654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120783601068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T10:21:00+05:30"
+    },
+    {
+      "index": 4,
+      "filename": "—_AIR_MASSES,_FRONTS_AND_CYCLONES Page 012.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_AIR_MASSES,_FRONTS_AND_CYCLONES Page 012.png",
+      "caption": "Air Masses, Fronts & Cyclones 🌬️  \nUnderstanding the dynamic interplay of air masses, fronts, and cyclones is crucial for predicting weather patterns and studying climatic changes. These atmospheric phenomena govern temperature, pressure, and precipitation distribution across the globe.  \n\n- Air mass: a large volume of air with uniform temperature and humidity, originating from a homogeneous source region.  \n- Types: Polar (cold), Tropical (warm), Maritime (moist), Continental (dry) – each shapes local weather.  \n- Fronts: boundaries where two air masses meet; warm, cold, stationary, and occluded fronts differ in temperature gradient and precipitation patterns.  \n- Cyclone: a low‑pressure system with counter‑clockwise rotation in the northern hemisphere, forming over warm oceans and driving severe weather and monsoons.  \n- Functions: redistribute heat, moisture, and momentum; trigger precipitation, storms, and monsoon circulations.  \n- Challenges: forecasting intensity, movement, and impacts; rapid intensification and landfall hazards.  \n\nUPSC, SSC, Geography, Competitive exams  \nexamsfiles  \nExams Files notes  \n#airmass #fronts #cyclone #meteorology #weather #geography #UPSC #SSC #competitiveexams #examsfiles",
+      "image_url": "https://i.ibb.co/bjfwhrBb/AIR-MASSES-FRONTS-AND-CYCLONES-Page-012.jpg",
+      "ig_container_id": "18046052687654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120783805068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T10:58:00+05:30"
+    },
+    {
+      "index": 5,
+      "filename": "—_AIR_MASSES,_FRONTS_AND_CYCLONES Page 013.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_AIR_MASSES,_FRONTS_AND_CYCLONES Page 013.png",
+      "caption": "Air Masses, Fronts & Cyclones 🌬️  \nLarge volumes of air with uniform temperature and humidity (air masses) meet at boundaries called fronts. The interaction of fronts often forms cyclones—low‑pressure systems that bring heavy rain, strong winds and significant weather changes. Understanding these concepts is essential for accurate weather prediction and climate studies.  \n\n- **Definition** – Air mass: uniform temperature & humidity; Front: boundary between two air masses; Cyclone: low‑pressure system with cyclonic circulation.  \n- **Types** – Air masses: cP, cT, mP, mT; Fronts: cold, warm, dry, moist; Cyclones: cyclonic (counter‑clockwise in NH) and anticyclonic.  \n- **Key Features** – Fronts show sharp gradients in temperature, pressure, humidity; Cyclones have a low‑pressure center, rain bands, and spiraling winds.  \n- **Functions** – Drive weather patterns, generate precipitation, influence wind systems, and cause seasonal monsoons.  \n- **Importance** – Critical for forecasting, agriculture, disaster management, and climate research.  \n- **Challenges** – Rapid development, forecasting uncertainty, and increasing intensity due to climate change.  \n\n**Target Audiences** – UPSC, SSC, Geography, School, Competitive exams.  \nexamsfiles  \nExams Files notes  \n#AirMasses #Fronts #Cyclones #Weather #Geography #UPSC #SSC #CompetitiveExams #ExamPrep #examsfiles",
+      "image_url": "https://i.ibb.co/nMcwHLyh/AIR-MASSES-FRONTS-AND-CYCLONES-Page-013.jpg",
+      "ig_container_id": "18046052753654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120783991068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T11:35:00+05:30"
+    },
+    {
+      "index": 6,
+      "filename": "—_AIR_MASSES,_FRONTS_AND_CYCLONES Page 014.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_AIR_MASSES,_FRONTS_AND_CYCLONES Page 014.png",
+      "caption": "Air Masses, Fronts & Cyclones 🌬️  \nAir masses are large volumes of air that share nearly uniform temperature, humidity and pressure characteristics. When two different air masses meet, they form fronts, and the ensuing pressure gradients often produce cyclones—key drivers of weather patterns worldwide.  \n\n- **Definition**: An air mass is a body of air with consistent temperature, moisture and pressure, covering thousands of square kilometers.  \n- **Types**: Continental Polar (cP), Continental Tropical (cT), Maritime Polar (mP), Maritime Tropical (mT), Arctic (A), and others, each with distinct climatic signatures.  \n- **Fronts**: Cold front, warm front, stationary front, and occluded front—boundaries where two air masses exchange heat and moisture, producing cloud formation and precipitation.  \n- **Cyclones**: Low‑pressure centers where air converges and rises, forming clouds and storms; closely linked to front dynamics and global weather systems.  \n- **Functions**: They redistribute heat, moisture and momentum, shaping regional climates, monsoons, and seasonal weather variations.  \n- **Challenges**: Forecasting cyclone tracks, intensity and front‑induced rainfall remains complex due to nonlinear atmospheric interactions.  \n\n**Target Audiences**: UPSC, SSC, Geography, Competitive Exams, Students  \nexamsfiles  \nExams Files notes  \n#AirMasses #Fronts #Cyclones #WeatherSystems #Geography #UPSC #SSC #CompetitiveExams #examsfiles",
+      "image_url": "https://i.ibb.co/SDM40s4h/AIR-MASSES-FRONTS-AND-CYCLONES-Page-014.jpg",
+      "ig_container_id": "18046052780654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120784261068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T12:12:00+05:30"
+    },
+    {
+      "index": 7,
+      "filename": "—_AIR_MASSES,_FRONTS_AND_CYCLONES Page 015.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_AIR_MASSES,_FRONTS_AND_CYCLONES Page 015.png",
+      "caption": "Air Masses, Fronts & Cyclones 🌬️  \nAir masses are vast, uniform bodies of air that travel over the Earth, fronts are the boundaries where two different air masses meet, and cyclones are low‑pressure systems that form at these fronts and rotate counter‑clockwise in the Northern Hemisphere. Understanding their characteristics and interactions is crucial for predicting weather patterns, especially in India’s monsoon‑affected regions.  \n\n- **Air Mass** – Large volume of air with nearly uniform temperature and humidity; classified by source (continental, maritime, polar, tropical).  \n- **Fronts** – Zones of transition between contrasting air masses; include cold, warm, stationary, and occluded fronts, each producing distinct weather changes.  \n- **Cyclones** – Low‑pressure centers with spiral rainbands; rotate counter‑clockwise (NH) or clockwise (SH) and are the primary drivers of heavy rainfall and strong winds.  \n- **Key Features** – Cyclone eye, central pressure drop, wind shift at fronts, and temperature gradient across the boundary.  \n- **Functions** – Regulate global heat and moisture transport, influence monsoon onset, and determine regional climate variability.  \n- **Challenges & Examples** – Rapid intensification of cyclones (e.g., Cyclone Fani 2021), limited observational data over oceans, and difficulty in forecasting front movement.  \n\n**Target Audiences**: UPSC, SSC, Geography, Competitive Exams  \nexamsfiles  \nExams Files notes  \n#airmass #fronts #cyclones #meteorology #geography #UPSC #SSC #competitiveexam #examsfiles",
+      "image_url": "https://i.ibb.co/zHtqcxFF/AIR-MASSES-FRONTS-AND-CYCLONES-Page-015.jpg",
+      "ig_container_id": "18046052819654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120784411068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T12:49:00+05:30"
+    },
+    {
+      "index": 8,
+      "filename": "—_ATMOSPHERE_AND_ITS_COMPOSITION Page 063.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_ATMOSPHERE_AND_ITS_COMPOSITION Page 063.png",
+      "caption": "Atmosphere & Composition 🌍  \nThe Earth’s atmosphere is a thin layer of gases that envelopes the planet, sustaining life and regulating climate. It is a complex mixture of gases, aerosols, and trace compounds whose concentrations change with altitude.  \n\n- Definition: A gaseous envelope (~10,000 km) mainly of N₂ (78%) and O₂ (21%) that surrounds Earth.  \n- Layers & Composition: Troposphere (ground‑to‑12 km) holds most mass; stratosphere contains the ozone layer; higher layers have lower pressure and temperature.  \n- Key Gases: N₂, O₂, Ar, CO₂, CH₄, N₂O, O₃, H₂O vapor; trace gases drive greenhouse effect and air quality.  \n- Functions: Supplies oxygen, blocks harmful UV, moderates temperature via greenhouse gases, drives weather systems.  \n- Exam Relevance: Understanding composition is essential for climate change, air pollution, and atmospheric pressure concepts.  \n- Challenges: Rising CO₂, ozone depletion, aerosol pollution, and climate change impacts threaten atmospheric balance.  \n\n**Target Audiences**: UPSC, SSC, Geography, Environmental Science, Competitive Exams.  \nexamsfiles  \nExams Files notes  \n#Atmosphere #AtmosphericComposition #GreenhouseEffect #OzoneLayer #ClimateChange #AirPollution #Geography #UPSC #SSC #examsfiles",
+      "image_url": "https://i.ibb.co/vCK3S3q3/ATMOSPHERE-AND-ITS-COMPOSITION-Page-063.jpg",
+      "ig_container_id": "18046052852654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120784555068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T13:26:00+05:30"
+    },
+    {
+      "index": 9,
+      "filename": "—_ATMOSPHERE_AND_ITS_COMPOSITION Page 064.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_ATMOSPHERE_AND_ITS_COMPOSITION Page 064.png",
+      "caption": "Atmosphere & Its Composition 🌍  \nThe Earth’s atmosphere is a thin shell of gases that envelops the planet, playing a crucial role in sustaining life. It is mainly composed of nitrogen and oxygen, with trace amounts of other gases that influence climate, weather, and air quality. Understanding its layers and constituents is essential for exams in geography, environmental science, and general aptitude.\n\n- **Definition** – A mixture of gases that surrounds Earth, held by gravity.  \n- **Major Layers** – Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere.  \n- **Primary Gases** – 78 % N₂, 21 % O₂, 1 % Argon, 0.04 % CO₂.  \n- **Trace Gases** – CO₂, methane, ozone, water vapor; they regulate temperature and UV protection.  \n- **Functions** – Climate regulation, protection from solar radiation, support for respiration and photosynthesis.  \n- **Challenges** – Rising CO₂, methane, and pollutants leading to global warming and ozone depletion.\n\n**Target Audiences** – UPSC, SSC, Geography, Environmental Science, School, Competitive exams.  \nexamsfiles  \nExams Files notes  \n#Atmosphere #Composition #EarthScience #Geography #UPSC #SSC #EnvironmentalScience #ExamPrep #StudyTips #examsfiles",
+      "image_url": "https://i.ibb.co/1Y2X9tBQ/ATMOSPHERE-AND-ITS-COMPOSITION-Page-064.jpg",
+      "ig_container_id": "18046052879654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120784723068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T14:03:00+05:30"
+    },
+    {
+      "index": 10,
+      "filename": "—_ATMOSPHERIC_PRESSURE_AND_PRESSURE_BELTS Page 001.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_ATMOSPHERIC_PRESSURE_AND_PRESSURE_BELTS Page 001.png",
+      "caption": "Atmospheric Pressure & Pressure Belts 🌬️  \nAtmospheric pressure is the weight of the air column above a point on Earth’s surface. Pressure belts, such as the subtropical highs and subpolar lows, are large‑scale zones of high and low pressure that dictate global wind patterns and weather systems. Understanding these belts is essential for accurate weather forecasting and climate studies.  \n\n- Definition: Force per unit area exerted by the atmosphere, measured in hPa or mmHg.  \n- Major belts: Tropical (ITCZ), Subtropical high, Subpolar low, Polar high.  \n- Features: Pressure gradient, Coriolis effect, convergence/divergence zones.  \n- Functions: Drive wind circulation, shape trade winds, monsoons, jet streams.  \n- Importance: Key for weather prediction, climate zoning, aviation, maritime navigation.  \n- Challenges: Seasonal shifts, ENSO influence, global warming impacts, measurement accuracy.  \n\nUPSC, SSC, Geography, Climate Science, Meteorology, General Studies  \nexamsfiles  \nExams Files notes  \n\n#AtmosphericPressure #PressureBelts #Geography #Weather #Climate #UPSC #SSC #ExamPrep #StudyNotes #examsfiles",
+      "image_url": "https://i.ibb.co/d48RTWjg/ATMOSPHERIC-PRESSURE-AND-PRESSURE-BELTS-Page-001.jpg",
+      "ig_container_id": "18046052903654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120785155068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T14:40:00+05:30"
+    },
+    {
+      "index": 11,
+      "filename": "—_ATMOSPHERIC_PRESSURE_AND_PRESSURE_BELTS Page 002.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_ATMOSPHERIC_PRESSURE_AND_PRESSURE_BELTS Page 002.png",
+      "caption": "Atmospheric Pressure & Pressure Belts 🌍  \n\nAtmospheric pressure is the weight of air above a point, varying with altitude and weather. Pressure belts are large‑scale zones of high or low pressure that steer wind patterns and influence climate.  \n\n• Definition: Force exerted by air molecules per unit area (hPa).  \n• Types: High‑pressure (anticyclones) & low‑pressure (cyclones) belts.  \n• Features: Formed by temperature gradients, Coriolis effect, and topography.  \n• Functions: Drive global circulation, create weather fronts, and control monsoon onset.  \n• Importance: Crucial for navigation, aviation, agriculture, and disaster forecasting.  \n• Challenges: Rapid pressure changes can lead to extreme events; accurate modelling needs precise data.  \n\nTarget audiences: UPSC, SSC, Geography, Climate Science, Students.  \n\nexamsfiles  \nExams Files notes  \n\n#AtmosphericPressure #PressureBelts #Geography #Climate #UPSC #SSC #CompetitiveExams #ExamPrep #examsfiles",
+      "image_url": "https://i.ibb.co/3bWFgtm/ATMOSPHERIC-PRESSURE-AND-PRESSURE-BELTS-Page-002.jpg",
+      "ig_container_id": "18046052927654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120785215068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T15:17:00+05:30"
+    },
+    {
+      "index": 12,
+      "filename": "—_ATMOSPHERIC_PRESSURE_AND_PRESSURE_BELTS Page 003.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_ATMOSPHERIC_PRESSURE_AND_PRESSURE_BELTS Page 003.png",
+      "caption": "Atmospheric Pressure & Pressure Belts 🌍\n\nAtmospheric pressure is the force exerted by air molecules on the Earth's surface, varying with altitude and latitude. The planet is divided into major pressure belts—Hadley, Ferrel, and Polar—that drive global wind patterns and weather systems.\n\n- Definition: Force per unit area exerted by the atmosphere, measured in hPa or mbar.  \n- Vertical gradient: Decreases exponentially with altitude; ~1 hPa/km at sea level.  \n- Hadley Belt (0°–30°): Warm rising air, low pressure, trade winds, tropical rainfall.  \n- Ferrel Belt (30°–60°): Mid‑latitude westerlies, high pressure, cyclonic activity.  \n- Polar Belt (60°–90°): Cold sinking air, high pressure, polar lows.  \n- Impact: Determines barometric readings, weather forecasting, aviation safety, and climate regulation.\n\nTarget audiences: UPSC, SSC, Geography, Climate Science, Civil Services, Competitive Exams.\n\nexamsfiles  \nExams Files notes  \n\n#AtmosphericPressure #PressureBelts #Geography #UPSC #SSC #ClimateChange #EarthScience #ExamPrep #CompetitiveExams #examsfiles",
+      "image_url": "https://i.ibb.co/Q7MMTnvk/ATMOSPHERIC-PRESSURE-AND-PRESSURE-BELTS-Page-003.jpg",
+      "ig_container_id": "18046053047654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120785461068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T15:54:00+05:30"
+    },
+    {
+      "index": 13,
+      "filename": "—_COASTAL_LANDFORMS_AND_PROCESSES Page 045.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_COASTAL_LANDFORMS_AND_PROCESSES Page 045.png",
+      "caption": "Coastal Landforms & Processes 🌊  \n\nCoastal landforms are the diverse shapes and features formed along shorelines by the interaction of waves, currents, sediment, and sea‑level changes. Understanding these processes is crucial for predicting coastal dynamics, managing resources, and mitigating hazards.  \n\n- Definition: landforms created by marine processes such as erosion, deposition, and transgression/regression.  \n- Types: beaches, dunes, cliffs, headlands, bays, estuaries, spits, barrier islands, reefs.  \n- Key Features: dynamic sediment budgets, wave action, tidal influence, sea‑level rise impacts.  \n- Functions: habitat provision, coastal protection, sediment transport pathways, economic activities (fishing, tourism).  \n- Importance: essential for ecosystem services, human settlements, navigation, and climate change adaptation.  \n- Challenges: coastal erosion, sea‑level rise, human interventions (dams, groynes), pollution, habitat loss.  \n\nUPSC, SSC, Geography, Environmental Science, Civil Engineering  \nexamsfiles  \nExams Files notes  \n\n#coastallandforms #marineprocesses #geography #UPSC #SSC #environmentalscience #climatechange #coastallandforms #examsfiles",
+      "image_url": "https://i.ibb.co/Pyyz52M/COASTAL-LANDFORMS-AND-PROCESSES-Page-045.jpg",
+      "ig_container_id": "18046053095654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120785641068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T16:31:00+05:30"
+    },
+    {
+      "index": 14,
+      "filename": "—_COASTAL_LANDFORMS_AND_PROCESSES Page 046.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_COASTAL_LANDFORMS_AND_PROCESSES Page 046.png",
+      "caption": "Coastal Landforms & Processes 🌊  \nCoastal landforms are the diverse shapes and features formed by the interaction of the sea, land, and climate. Understanding these formations and the dynamic processes that shape them is essential for geography exams and environmental planning.  \n\n- Definition: Natural features created by erosion, deposition, and tectonic activity along coastlines.  \n- Types: Cliffs, beaches, dunes, spits, barrier islands, estuaries, and fjords.  \n- Features: Distinct sedimentary structures, wave dynamics, and tidal influences.  \n- Functions: Provide habitats, protect shorelines, support fisheries, and guide human settlement.  \n- Importance: Key to coastal management, disaster mitigation, and sustainable development.  \n- Challenges: Threatened by sea‑level rise, erosion, pollution, and unplanned development.  \n\n**Target Audiences:** UPSC, SSC, Geography, Competitive Exams, School  \n\nexamsfiles  \nExams Files notes  \n\n#CoastalGeography #Landforms #CoastalProcesses #Geography #UPSC #SSC #ExamPrep #StudyTips #examsfiles",
+      "image_url": "https://i.ibb.co/0jtGxbF1/COASTAL-LANDFORMS-AND-PROCESSES-Page-046.jpg",
+      "ig_container_id": "18046053134654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120785707068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T17:08:00+05:30"
+    },
+    {
+      "index": 15,
+      "filename": "—_COASTAL_LANDFORMS_AND_PROCESSES Page 047.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_COASTAL_LANDFORMS_AND_PROCESSES Page 047.png",
+      "caption": "Coastal Landforms & Processes 🌊  \n\nCoastal landforms are the diverse shapes and features that form along shorelines due to the interaction of waves, currents, tides, and sea‑level changes. Understanding these processes helps predict erosion, sediment transport, and effective coastal management.  \n\n- Definition: Geomorphic features created by marine processes—waves, currents, tides, and sea‑level shifts.  \n- Types: Beaches, dunes, spits, barrier islands, cliffs, headlands, estuaries, and tidal flats.  \n- Features: Vary in scale, sediment composition, and morphological stability; constantly reshaped by dynamic forces.  \n- Functions: Natural storm buffers, habitats for marine flora/fauna, and sites for human settlement and industry.  \n- Importance: Crucial for coastal protection, tourism, fisheries, and biodiversity conservation.  \n- Challenges: Accelerated erosion, sea‑level rise, sediment starvation, and human interventions threaten integrity.  \n\nTarget audiences: UPSC, SSC, Geography, Environmental Science, Coastal Engineering  \n\nexamsfiles  \nExams Files notes  \n\n#CoastalGeography #Landforms #Erosion #SedimentTransport #CoastalManagement #SeaLevelRise #Geography #UPSC #SSC #examsfiles",
+      "image_url": "https://i.ibb.co/kVTbBCh2/COASTAL-LANDFORMS-AND-PROCESSES-Page-047.jpg",
+      "ig_container_id": "18046053173654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120786127068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T17:45:00+05:30"
+    },
+    {
+      "index": 16,
+      "filename": "—_COASTAL_LANDFORMS_AND_PROCESSES Page 048.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_COASTAL_LANDFORMS_AND_PROCESSES Page 048.png",
+      "caption": "Coastal Landforms 🌊  \n\nCoastal landforms are the dynamic features created by the interaction of waves, currents, tides, and sediment supply along shorelines. They record the balance between constructive and destructive processes and are key to understanding marine geology and human impact. This page explains their classification, formation mechanisms, and significance for coastal management.  \n\n- Definition: Landforms formed by marine processes such as wave action, longshore drift, and tidal dynamics.  \n- Types: Beaches, cliffs, dunes, spits, bars, headlands, estuaries, and lagoons.  \n- Formation Features: Deposition (bars, dunes) vs erosion (cliffs, headlands), wave energy, sediment size.  \n- Functions: Provide habitats, protect inland areas, support tourism, and influence navigation.  \n- Importance: Indicators of sea‑level change, sediment budgets, and climate variability; guide coastal engineering and conservation.  \n- Challenges: Sea‑level rise, coastal erosion, human encroachment, and pollution threaten their stability and ecological roles.  \n\nTarget audiences: UPSC, SSC, Geography, School, Competitive exams.  \n\nexamsfiles  \nExams Files notes  \n\n#CoastalGeography #Landforms #MarineProcesses #SeaLevelRise #CoastalErosion #GeographyStudy #ExamPrep #Geology #GeographyEducation #examsfiles",
+      "image_url": "https://i.ibb.co/CpfQr7TX/COASTAL-LANDFORMS-AND-PROCESSES-Page-048.jpg",
+      "ig_container_id": "18046053302654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120786211068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T18:22:00+05:30"
+    },
+    {
+      "index": 17,
+      "filename": "—_DESERTS_AND_ARID_LANDFORMS Page 041.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_DESERTS_AND_ARID_LANDFORMS Page 041.png",
+      "caption": "Deserts & Arid Landforms 🌵  \nDeserts are the driest terrestrial ecosystems, covering about 10 % of Earth's land surface. They are defined by low rainfall (<200 mm/year) and high evapotranspiration, and they influence global climate, biodiversity, and human activities.  \n\n- Definition: Arid landforms receive <200 mm annual rainfall and have sparse vegetation.  \n- Types of deserts: hot (Sahara, Arabian) vs cold (Gobi, Great Basin) and semi‑arid steppes.  \n- Key features: dune fields, sabkhas, playas, salt flats, rock arches, and seasonal wadis.  \n- Functions: regulate atmospheric circulation, store groundwater, provide habitats for specialized flora and fauna.  \n- Importance: source of minerals, tourism, cultural heritage, climate regulation, and a natural laboratory for climate‑change studies.  \n- Challenges: desertification, overgrazing, water scarcity, sandstorms, and impacts on agriculture and settlements.  \n\nUPSC, SSC, Geography, Competitive Exams, School, Students, Teachers  \nexamsfiles  \nExams Files notes  \n#Deserts #AridLandforms #Geography #UPSC #SSC #CompetitiveExams #ClimateChange #Biodiversity #IndiaGeography #examsfiles",
+      "image_url": "https://i.ibb.co/BkYnGxd/DESERTS-AND-ARID-LANDFORMS-Page-041.jpg",
+      "ig_container_id": "18046053341654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120786361068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T18:59:00+05:30"
+    },
+    {
+      "index": 18,
+      "filename": "—_DESERTS_AND_ARID_LANDFORMS Page 042.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_DESERTS_AND_ARID_LANDFORMS Page 042.png",
+      "caption": "Deserts & Arid Landforms 🌵  \nDeserts are vast regions receiving less than 250 mm of rainfall annually, characterized by extreme temperature variations and sparse vegetation. Arid landforms—such as dunes, wadis, and playas—are shaped by this dry climate and play crucial roles in ecological balance and human livelihoods. Understanding their features is vital for geography exams and environmental studies.  \n\n- **Definition**: Areas with annual rainfall < 250 mm, high evapotranspiration, and limited soil moisture.  \n- **Types**: Tropical (e.g., Sahara), semi‑arid (e.g., Thar), and cold deserts (e.g., Gobi).  \n- **Key Features**: Dunes, sabkhas, dry valleys, salt flats, and occasional monsoon streams.  \n- **Functions**: Provide unique habitats, influence local climate, and support nomadic cultures.  \n- **Importance**: Source of minerals, tourism, and study of climate change impacts.  \n- **Challenges**: Desertification, salinization, water scarcity, and biodiversity loss.  \n\n**Target Audiences**: UPSC, SSC, Geography, School, Competitive Exams  \nexamsfiles  \nExams Files notes  \n#deserts #aridlandforms #geography #UPSC #SSC #competitiveexam #studyguide #examprep #IndiaGeography #examsfiles",
+      "image_url": "https://i.ibb.co/ksQDK82x/DESERTS-AND-ARID-LANDFORMS-Page-042.jpg",
+      "ig_container_id": "18046053386654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120786769068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T19:36:00+05:30"
+    },
+    {
+      "index": 19,
+      "filename": "—_DRAINAGE_SYSTEMS_AND_RIVER_BASINS_OF_INDIA Page 072.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_DRAINAGE_SYSTEMS_AND_RIVER_BASINS_OF_INDIA Page 072.png",
+      "caption": "India’s Drainage & River Basins 🌊  \n\nIndia’s drainage system is a network of rivers, streams, and catchment areas that channel surface water from the Himalayas to the Bay of Bengal, Arabian Sea, and Indian Ocean. It shapes the country’s geography, economy, and ecology, influencing agriculture, industry, and urban life. Understanding its structure and challenges is essential for UPSC, SSC, and geography aspirants.  \n\n- Definition: A drainage system is the interconnected network of rivers, streams, and their tributaries that convey surface water to a common outlet.  \n- Types of River Basins: Major basins (Ganga, Brahmaputra, Indus, Godavari, Krishna) and minor tributary basins that feed them.  \n- Key Features: Catchment area, slope, soil type, vegetation cover, and lithology determine runoff, infiltration, and sediment transport.  \n- Functions: Water supply, irrigation, navigation, flood control, sediment transport, and ecological support for aquatic life.  \n- Importance: Drives agriculture (70% of Indian agriculture relies on basin water), supports hydropower, and sustains biodiversity hotspots.  \n- Challenges: Rapid urbanization, industrial pollution, siltation, dam construction, climate change-induced variability, and groundwater depletion.  \n\n**Audience**: UPSC, SSC, Geography, Competitive Exams  \nexamsfiles  \nExams Files notes  \n#DrainageSystems #RiverBasins #IndiaGeography #UPSC #SSC #CompetitiveExams #Geography #WaterResources #Hydrology #examsfiles",
+      "image_url": "https://i.ibb.co/LhS4kcnv/DRAINAGE-SYSTEMS-AND-RIVER-BASINS-OF-INDIA-Page-072.jpg",
+      "ig_container_id": "18046053422654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120787213068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T20:13:00+05:30"
+    },
+    {
+      "index": 20,
+      "filename": "—_DRAINAGE_SYSTEMS_AND_RIVER_BASINS_OF_INDIA Page 073.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_DRAINAGE_SYSTEMS_AND_RIVER_BASINS_OF_INDIA Page 073.png",
+      "caption": "Drainage Systems & River Basins of India 🌊  \n\nIndia’s drainage network comprises natural river basins and man‑made channels that channel surface water into the sea. Understanding these systems is crucial for water resource management, flood control and regional planning.  \n\n- Definition: A drainage system is the network of rivers, streams, and man‑made channels that convey runoff to a receiving basin.  \n- Types: Natural basins (e.g., Ganga, Brahmaputra, Indus) and artificial channels (canals, diversion ditches).  \n- Features: Basin size, catchment area, discharge, tributary pattern, and geomorphology.  \n- Functions: Supply water for irrigation, hydroelectricity, domestic use; control floods; support ecosystems.  \n- Importance: Determines water availability, agricultural productivity, and socio‑economic development.  \n- Challenges: Climate change, pollution, encroachment, sedimentation, and inadequate infrastructure.  \n\nTarget audiences: UPSC, SSC, Geography, School, Competitive Exams  \n\nexamsfiles  \nExams Files notes  \n\n#DrainageSystems #RiverBasins #IndiaGeography #WaterResources #Hydrology #UPSC #SSC #CompetitiveExams #Geography #examsfiles",
+      "image_url": "https://i.ibb.co/zTzNRH4k/DRAINAGE-SYSTEMS-AND-RIVER-BASINS-OF-INDIA-Page-073.jpg",
+      "ig_container_id": "18046053464654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120787555068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T20:50:00+05:30"
+    },
+    {
+      "index": 21,
+      "filename": "—_DRAINAGE_SYSTEMS_AND_RIVER_BASINS_OF_INDIA Page 074.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_DRAINAGE_SYSTEMS_AND_RIVER_BASINS_OF_INDIA Page 074.png",
+      "caption": "Drainage Systems & River Basins of India 🌍  \nIndia’s drainage network is a vast, interlinked system that shapes its geography, economy, and ecology. It comprises natural river basins, catchment areas, and man‑made channels that manage surface water flow, irrigation, and flood control. Understanding these systems is essential for UPSC, SSC, and competitive exam candidates in Geography and Environmental Studies.  \n\n- **Definition** – A drainage system is the network of rivers, streams, and canals that collect and transport surface water to seas or lakes.  \n- **Types** – Indigenous (natural river basins) and engineered (canal, barrage, and drainage ditch systems).  \n- **Key Features** – Drainage divides, catchment area, tributary hierarchy, and watershed boundaries.  \n- **Functions** – Water supply, irrigation, flood mitigation, navigation, and sediment transport.  \n- **Importance** – Supports agriculture, industry, hydropower, and biodiversity; critical for water resource management.  \n- **Challenges & Examples** – Sedimentation, pollution, over‑extraction, and climate change impact basins like Ganges, Indus, Brahmaputra, Godavari, Krishna, and Narmada.  \n\n**Target Audiences** – UPSC, SSC, Indian Geography, Competitive Exams, School Students  \nexamsfiles  \nExams Files notes  \n#IndiaGeography #DrainageSystems #RiverBasins #WaterResources #CompetitiveExams #UPSC #SSC #GeographyStudy #ExamPreparation #examsfiles",
+      "image_url": "https://i.ibb.co/Nd0JRQt5/DRAINAGE-SYSTEMS-AND-RIVER-BASINS-OF-INDIA-Page-074.jpg",
+      "ig_container_id": "18046053512654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120787639068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T21:27:00+05:30"
+    },
+    {
+      "index": 22,
+      "filename": "—_DRAINAGE_SYSTEMS_AND_RIVER_BASINS_OF_INDIA Page 075.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_DRAINAGE_SYSTEMS_AND_RIVER_BASINS_OF_INDIA Page 075.png",
+      "caption": "India's River Basins & Drainage Systems 🌊  \n\nIndia’s drainage system is a network of rivers, streams, and canals that channel water from the highlands to the sea. Understanding its major basins—Ganga, Indus, Brahmaputra, Godavari, Krishna, and others—is crucial for geography, water resource management, and environmental studies. These basins shape the country’s agriculture, economy, and ecology.\n\n- **Definition**: A drainage system is the arrangement of natural and artificial channels that convey surface water to a common outlet.  \n- **Types**: Natural (river basins, streams) and artificial (canals, diversion channels).  \n- **Major Basins**: Ganga, Indus, Brahmaputra, Godavari, Krishna, Mahanadi, Narmada, Tapti, and others, covering ~60% of India’s land.  \n- **Key Features**: Catchment area, tributary network, soil type, rainfall patterns, and topography.  \n- **Functions**: Water supply, irrigation, flood control, hydroelectric power, navigation, and ecological balance.  \n- **Challenges**: Pollution, siltation, over-extraction, climate change impacts, and trans-boundary water disputes.\n\n**Target Audiences**  \nUPSC, SSC, Geography, Competitive Exams, School Students  \n\nexamsfiles  \nExams Files notes  \n\n#IndiaGeography #RiverBasins #DrainageSystems #UPSC #SSC #CompetitiveExams #Geography #India #Hydrology #examsfiles",
+      "image_url": "https://i.ibb.co/MkpWYSZb/DRAINAGE-SYSTEMS-AND-RIVER-BASINS-OF-INDIA-Page-075.jpg",
+      "ig_container_id": "18046053623654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120787867068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T22:04:00+05:30"
+    },
+    {
+      "index": 23,
+      "filename": "—_GEOGRAPHY_OF_INDIA_PHYSIOGRAPHIC_DIVISIONS Page 066.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_GEOGRAPHY_OF_INDIA_PHYSIOGRAPHIC_DIVISIONS Page 066.png",
+      "caption": "Physiographic Divisions of India 🌍  \nIndia’s land is classified into distinct physiographic divisions based on topography, geology, climate, and vegetation. These divisions—Himalayan, Indo‑Gangetic Plain, Deccan Plateau, Thar Desert, and Coastal Plains—explain regional differences in culture, agriculture, and resource distribution.  \n\n- Himalayan Division: highest peaks, alpine climate, source of major rivers, limited agriculture.  \n- Indo‑Gangetic Plain: alluvial soils, fertile, dense population, major rice and wheat belt.  \n- Deccan Plateau: basaltic rock, semi‑arid climate, major cotton and iron ore deposits.  \n- Thar Desert: arid, sparse vegetation, challenges of water scarcity, camel‑herding culture.  \n- Coastal Plains: low‑lying, fertile, major fishing and port hubs, vulnerability to cyclones.  \n- Western Ghats: biodiversity hotspot, rain‑forest climate, key for hydropower and water catchment.  \n\nTarget audiences: UPSC, SSC, Geography, School, Competitive Exams  \n\nexamsfiles  \n\nExams Files notes  \n\n#Geography #India #PhysiographicDivisions #UPSC #SSC #CompetitiveExams #StudyNotes #ExamPreparation #IndiaGeography #examsfiles",
+      "image_url": "https://i.ibb.co/9kMnGQfm/GEOGRAPHY-OF-INDIA-PHYSIOGRAPHIC-DIVISIONS-Page-066.jpg",
+      "ig_container_id": "18046053662654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120788377068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-23T22:41:00+05:30"
     }
   ],
-  "prepared_at": "2026-08-22T08:30:00+05:30"
+  "prepared_at": "2026-08-23T08:30:00+05:30"
 }
