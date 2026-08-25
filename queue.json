@@ -2167,7 +2167,7 @@
       "ig_published": false,
       "fb_post_id": "122120883519068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T08:30:00+05:30"
     },
     {
@@ -2181,36 +2181,8 @@
       "ig_published": false,
       "fb_post_id": "122120883861068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T09:07:00+05:30"
-    },
-    {
-      "index": 2,
-      "filename": "—_HEAT_BUDGET_AND_TEMPERATURE_DISTRIBUTION_OF_EARTH Page 069.png",
-      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_HEAT_BUDGET_AND_TEMPERATURE_DISTRIBUTION_OF_EARTH Page 069.png",
-      "caption": "Heat Budget & Temp Distribution 🌍  \nThe Earth’s heat budget is the balance between incoming solar radiation and outgoing terrestrial radiation, shaping climate and temperature patterns. Understanding how energy is distributed across latitudes, oceans, and land surfaces helps predict weather, climate change, and regional temperature extremes.  \n\n- Definition: Net energy balance at the top of the atmosphere and surface, expressed in W/m².  \n- Key components: Shortwave solar input, longwave infrared emission, albedo, greenhouse gases, latent & sensible heat fluxes.  \n- Latitudinal variation: Highest solar gain at the equator, decreasing toward the poles, explaining tropical warmth and polar cold.  \n- Ocean vs land: Oceans store heat (high heat capacity), moderating temperatures; land heats/cools faster, creating continental climates.  \n- Role in climate change: Greenhouse gases shift the budget, raising surface temperature; feedbacks like ice‑albedo amplify warming.  \n- Challenges: Accurate measurement of fluxes, cloud cover, and surface properties; requires satellites, ground stations, and models.  \n\nUPSC, SSC, Geography, Physical Geography, Climate Science, Earth Sciences  \nexamsfiles  \nExams Files notes  \n#HeatBudget #TemperatureDistribution #EarthScience #ClimateChange #Geography #PhysicalGeography #UPSC #SSC #ExamPrep #examsfiles",
-      "image_url": "https://i.ibb.co/7xtJL2ZP/HEAT-BUDGET-AND-TEMPERATURE-DISTRIBUTION-OF-EARTH-Page-069.jpg",
-      "ig_container_id": null,
-      "ig_post_id": null,
-      "ig_published": false,
-      "fb_post_id": null,
-      "fb_scheduled": false,
-      "moved": false,
-      "scheduled_time": "2026-08-24T09:44:00+05:30"
-    },
-    {
-      "index": 3,
-      "filename": "—_HEAT_BUDGET_AND_TEMPERATURE_DISTRIBUTION_OF_EARTH Page 070.png",
-      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_HEAT_BUDGET_AND_TEMPERATURE_DISTRIBUTION_OF_EARTH Page 070.png",
-      "caption": "Heat Budget of Earth 🌍  \nThe Earth’s heat budget is the balance between incoming solar radiation and outgoing terrestrial energy, governing climate and temperature distribution. It explains why equatorial regions are warmer than poles and how energy is redistributed globally. It also reveals the role of greenhouse gases in trapping heat, a key factor in climate change.  \n\n- Definition: Net energy balance of Earth, calculated as incoming solar radiation minus outgoing longwave radiation.  \n- Key components: Solar insolation, albedo, greenhouse effect, latent & sensible heat fluxes.  \n- Temperature distribution: Higher absorption at equator → warmer, poles receive less insolation → cooler.  \n- Redistribution mechanisms: Atmospheric circulation (Hadley, Ferrel, Polar cells) and oceanic currents.  \n- Importance: Determines climate zones, weather patterns, and baseline for climate change assessments.  \n- Challenges: Accurate measurement of albedo, cloud cover, and feedbacks; impacts of anthropogenic aerosols and CO₂.  \n\nTarget audiences: UPSC, SSC, Geography, Environmental Science, Climate Studies.  \n\nexamsfiles  \nExams Files notes  \n\n#HeatBudget #EarthClimate #TemperatureDistribution #Geography #ClimateChange #UPSC #SSC #ExamPrep #CompetitiveExams #examsfiles",
-      "image_url": "https://i.ibb.co/NQCqgGc/HEAT-BUDGET-AND-TEMPERATURE-DISTRIBUTION-OF-EARTH-Page-070.jpg",
-      "ig_container_id": null,
-      "ig_post_id": null,
-      "ig_published": false,
-      "fb_post_id": null,
-      "fb_scheduled": false,
-      "moved": false,
-      "scheduled_time": "2026-08-24T10:21:00+05:30"
     },
     {
       "index": 4,
@@ -2223,7 +2195,7 @@
       "ig_published": false,
       "fb_post_id": "122120884503068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T10:58:00+05:30"
     },
     {
@@ -2237,7 +2209,7 @@
       "ig_published": false,
       "fb_post_id": "122120884725068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T11:35:00+05:30"
     },
     {
@@ -2251,7 +2223,7 @@
       "ig_published": false,
       "fb_post_id": "122120884785068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T12:12:00+05:30"
     },
     {
@@ -2265,7 +2237,7 @@
       "ig_published": false,
       "fb_post_id": "122120885031068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T12:49:00+05:30"
     },
     {
@@ -2279,7 +2251,7 @@
       "ig_published": false,
       "fb_post_id": "122120885199068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T13:26:00+05:30"
     },
     {
@@ -2293,7 +2265,7 @@
       "ig_published": false,
       "fb_post_id": "122120885367068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T14:03:00+05:30"
     },
     {
@@ -2307,7 +2279,7 @@
       "ig_published": false,
       "fb_post_id": "122120885541068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T14:40:00+05:30"
     },
     {
@@ -2321,7 +2293,7 @@
       "ig_published": false,
       "fb_post_id": null,
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T15:17:00+05:30"
     },
     {
@@ -2335,22 +2307,8 @@
       "ig_published": false,
       "fb_post_id": null,
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T15:54:00+05:30"
-    },
-    {
-      "index": 13,
-      "filename": "—_KARST_TOPOGRAPHY_AND_LIMESTONE_LANDFORMS Page 054.png",
-      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_KARST_TOPOGRAPHY_AND_LIMESTONE_LANDFORMS Page 054.png",
-      "caption": "Karst Topography & Limestone Landforms 🌄  \n\nKarst topography forms when soluble rocks like limestone dissolve, creating unique features such as sinkholes, caves, and disappearing streams. These landforms influence surface water flow, groundwater recharge, and landscape evolution, making them critical study areas for geography and geology exams.  \n\n- Definition: Landscape shaped by chemical weathering of soluble rocks.  \n- Key Features: Sinkholes, dolines, solutional caves, disappearing streams.  \n- Types of Karst: Subaerial (surface) and subaqueous (underwater) karst.  \n- Hydrological Role: Controls groundwater flow, aquifer recharge, and water quality.  \n- Economic Importance: Source of limestone, cave tourism, and water resources.  \n- Challenges: Erosion, sinkhole hazards, and groundwater contamination.  \n\nTarget Audience: UPSC, SSC, Geography, School, Competitive Exams  \n\nexamsfiles  \nExams Files notes  \n\n#Karst #Limestone #Topography #Geography #ExamPrep #UPSC #SSC #CompetitiveExams #Geology #examsfiles",
-      "image_url": "https://i.ibb.co/QFKksr3W/KARST-TOPOGRAPHY-AND-LIMESTONE-LANDFORMS-Page-054.jpg",
-      "ig_container_id": null,
-      "ig_post_id": null,
-      "ig_published": false,
-      "fb_post_id": null,
-      "fb_scheduled": false,
-      "moved": false,
-      "scheduled_time": "2026-08-24T16:31:00+05:30"
     },
     {
       "index": 14,
@@ -2363,7 +2321,7 @@
       "ig_published": false,
       "fb_post_id": "122120886129068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T17:08:00+05:30"
     },
     {
@@ -2377,7 +2335,7 @@
       "ig_published": false,
       "fb_post_id": "122120886405068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T17:45:00+05:30"
     },
     {
@@ -2391,7 +2349,7 @@
       "ig_published": false,
       "fb_post_id": "122120886615068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T18:22:00+05:30"
     },
     {
@@ -2405,7 +2363,7 @@
       "ig_published": false,
       "fb_post_id": "122120886885068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T18:59:00+05:30"
     },
     {
@@ -2419,7 +2377,7 @@
       "ig_published": false,
       "fb_post_id": "122120887089068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T19:36:00+05:30"
     },
     {
@@ -2433,7 +2391,7 @@
       "ig_published": false,
       "fb_post_id": "122120887335068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T20:13:00+05:30"
     },
     {
@@ -2447,7 +2405,7 @@
       "ig_published": false,
       "fb_post_id": "122120887407068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T20:50:00+05:30"
     },
     {
@@ -2461,7 +2419,7 @@
       "ig_published": false,
       "fb_post_id": "122120887671068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T21:27:00+05:30"
     },
     {
@@ -2475,7 +2433,7 @@
       "ig_published": false,
       "fb_post_id": "122120887929068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T22:04:00+05:30"
     },
     {
@@ -2489,9 +2447,303 @@
       "ig_published": false,
       "fb_post_id": "122120888121068119",
       "fb_scheduled": true,
-      "moved": false,
+      "moved": true,
       "scheduled_time": "2026-08-24T22:41:00+05:30"
+    },
+    {
+      "index": 0,
+      "filename": "—_HEAT_BUDGET_AND_TEMPERATURE_DISTRIBUTION_OF_EARTH Page 069.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_HEAT_BUDGET_AND_TEMPERATURE_DISTRIBUTION_OF_EARTH Page 069.png",
+      "caption": "Heat Budget & Temperature Distribution 🌍  \n\nThe Earth’s heat budget is the balance between incoming solar radiation and outgoing terrestrial radiation, dictating surface and atmospheric temperatures. Understanding this balance helps predict climate patterns, weather extremes, and regional temperature gradients.  \n\n- **Definition**: Net energy exchange between Earth and space, expressed in watts per square meter.  \n- **Key Components**: Solar insolation, reflected shortwave, emitted longwave, latent and sensible heat fluxes.  \n- **Temperature Distribution**: Equatorial warmth, mid‑latitude cooling, polar cold, and the influence of ocean currents.  \n- **Functions**: Drives atmospheric circulation, oceanic heat transport, and weather systems.  \n- **Importance**: Basis for climate change projections and energy balance models used in exams.  \n- **Challenges**: Accurate measurement of fluxes, cloud‑radiation interactions, and regional variability.  \n\n**Target Audiences**: UPSC, SSC, Geography, Climate Science, Environmental Studies  \n\nexamsfiles  \nExams Files notes  \n\n#HeatBudget #TemperatureDistribution #EarthScience #Geography #ClimateChange #UPSC #SSC #CompetitiveExams #examsfiles",
+      "image_url": "https://i.ibb.co/Y7Hkj7Wh/HEAT-BUDGET-AND-TEMPERATURE-DISTRIBUTION-OF-EARTH-Page-069.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-25T08:30:00+05:30"
+    },
+    {
+      "index": 1,
+      "filename": "—_HEAT_BUDGET_AND_TEMPERATURE_DISTRIBUTION_OF_EARTH Page 070.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_HEAT_BUDGET_AND_TEMPERATURE_DISTRIBUTION_OF_EARTH Page 070.png",
+      "caption": "Heat Budget & Earth’s Temperature 🌍  \nThe Earth’s heat budget is the balance between incoming solar radiation and outgoing terrestrial radiation. Understanding this balance explains why surface temperatures vary across latitudes and why climate change is a pressing issue.  \n\n- **Definition**: Net energy exchange between Earth and space, expressed as (Solar In – Solar Out) + (Terrestrial In – Terrestrial Out).  \n- **Key Components**: Solar irradiance, albedo, greenhouse gases, cloud cover, and surface heat capacity.  \n- **Temperature Distribution**: Higher latitudes receive less solar energy, leading to colder climates; equatorial regions receive more, causing higher temperatures.  \n- **Role of Greenhouse Gases**: Trap outgoing infrared radiation, raising surface temperatures and altering the heat budget.  \n- **Feedback Mechanisms**: Ice‑albedo and water‑vapour feedbacks amplify temperature changes, making the system sensitive to small perturbations.  \n- **Challenges in Modelling**: Accurate representation of cloud dynamics, aerosols, and land‑surface interactions remains difficult, limiting prediction precision.  \n\n**Target Audiences**: UPSC, SSC, Geography, Climate Science, Environmental Studies, Competitive Exams  \n\nexamsfiles  \nExams Files notes  \n\n#HeatBudget #EarthTemperature #ClimateChange #Geography #UPSC #SSC #CompetitiveExams #ExamPrep #StudyMaterial #examsfiles",
+      "image_url": "https://i.ibb.co/PzVk8M7w/HEAT-BUDGET-AND-TEMPERATURE-DISTRIBUTION-OF-EARTH-Page-070.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-25T09:07:00+05:30"
+    },
+    {
+      "index": 2,
+      "filename": "—_KARST_TOPOGRAPHY_AND_LIMESTONE_LANDFORMS Page 054.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_KARST_TOPOGRAPHY_AND_LIMESTONE_LANDFORMS Page 054.png",
+      "caption": "Karst Topography 🌄\n\nKarst topography refers to landscapes formed by the dissolution of soluble rocks such as limestone, dolomite, and gypsum. It is marked by sinkholes, caves, disappearing streams, and underground drainage systems, making it crucial for groundwater management, civil engineering, and ecological studies.\n\n- Definition: Landscape created by chemical weathering of soluble rocks, mainly limestone.  \n- Key features: Sinkholes, dolines, disappearing streams, underground rivers, caves, karst springs.  \n- Types: Surface karst (sinkholes, dolines), underground karst (caves, shafts), mixed karst.  \n- Functions: Natural aquifers, controls surface water flow, provides unique habitats.  \n- Importance: Vital for water resources, agriculture, tourism; informs hazard assessment (land subsidence).  \n- Challenges: Susceptible to sinkhole collapse, aquifer contamination, difficult infrastructure planning.\n\nUPSC, SSC, Geography, School, Competitive exams\n\nexamsfiles\n\nExams Files notes\n\n#Karst #Topography #LimestoneLandforms #Geography #WaterResources #Sinkholes #Caves #KarstCaves #Groundwater #examsfiles",
+      "image_url": "https://i.ibb.co/8n7PszSP/KARST-TOPOGRAPHY-AND-LIMESTONE-LANDFORMS-Page-054.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-25T09:44:00+05:30"
+    },
+    {
+      "index": 3,
+      "filename": "—_OCEAN_RELIEF_AND_SEAFLOOR_FEATURES Page 030.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_OCEAN_RELIEF_AND_SEAFLOOR_FEATURES Page 030.png",
+      "caption": "Ocean Relief & Seafloor Features 🌊  \nThe ocean relief refers to the variation in the sea floor’s topography and the processes that shape it. Understanding seafloor features is essential for geography, marine geology, and resource management.  \n\n- Definition: Ocean relief is the vertical variation of the sea floor from shallow shelves to deep trenches.  \n- Types of features: abyssal plains, mid‑ocean ridges, trenches, seamounts, continental shelves, and abyssal fans.  \n- Formation processes: tectonic plate movement, volcanic activity, sedimentation, erosion, and mantle convection.  \n- Functions: provide habitats, support nutrient cycling, host hydrocarbon reservoirs, and record plate tectonic history.  \n- Exam relevance: links to geology, natural resources, climate change, and disaster management.  \n- Challenges: limited mapping data, high exploration costs, and technical difficulties in deep‑sea studies.  \n\nUPSC, SSC, Geography, Marine Science, Competitive Exams  \nexamsfiles  \nExams Files notes  \n#OceanRelief #SeafloorFeatures #Geography #MarineGeology #UPSC #SSC #CompetitiveExams #EarthScience #PlateTectonics #examsfiles",
+      "image_url": "https://i.ibb.co/8gfxdhjP/OCEAN-RELIEF-AND-SEAFLOOR-FEATURES-Page-030.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-25T10:21:00+05:30"
+    },
+    {
+      "index": 4,
+      "filename": "—_OCEAN_RELIEF_AND_SEAFLOOR_FEATURES Page 033.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_OCEAN_RELIEF_AND_SEAFLOOR_FEATURES Page 033.png",
+      "caption": "Ocean Relief & Seafloor Features 🌊  \nThe seafloor is not a flat plane; it is shaped by tectonic forces, volcanic activity, and sedimentation. Understanding its relief—mountains, trenches, ridges, and basins—is essential for grasping ocean circulation, resource distribution, and geological hazards.  \n\n- **Definition**: Ocean relief refers to the vertical variation of the seafloor, analogous to land relief.  \n- **Major Features**: Mid‑ocean ridges, continental margins, oceanic trenches, abyssal plains, and seamounts.  \n- **Formation Processes**: Plate tectonics (divergent, convergent, transform boundaries), volcanic activity, and sediment deposition.  \n- **Functions**: Influences ocean currents, nutrient upwelling, and habitat diversity; provides sites for hydrothermal vents.  \n- **Importance**: Key to resource exploration (oil, gas, minerals), climate regulation, and understanding Earth’s geological history.  \n- **Challenges**: Difficult access, high pressure, and dynamic nature of seafloor make mapping and study complex.  \n\n**Audience**: UPSC, SSC, Geography, School, Competitive Exams  \n\nexamsfiles  \nExams Files notes  \n\n#Oceanography #Geography #Seafloor #OceanRelief #PhysicalGeography #CompetitiveExams #UPSC #SSC #School #examsfiles",
+      "image_url": "https://i.ibb.co/mC5tNmJx/OCEAN-RELIEF-AND-SEAFLOOR-FEATURES-Page-033.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-25T10:58:00+05:30"
+    },
+    {
+      "index": 5,
+      "filename": "—_PLANETARY_WINDS_AND_GLOBAL_WIND_SYSTEMS Page 006.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_PLANETARY_WINDS_AND_GLOBAL_WIND_SYSTEMS Page 006.png",
+      "caption": "Planetary Winds 🌬️  \nPlanetary winds are large‑scale air currents driven by solar heating and Earth’s rotation, forming the global wind system. These winds shape weather, climate, and ocean circulation, making them a core topic in geography and environmental science.  \n\n• Definition – Continuous, large‑scale air movement across the planet, driven by differential heating and Coriolis force.  \n• Main Types – Hadley, Ferrel, Polar cells; trade winds, westerlies, monsoons.  \n• Key Features – Pressure‑gradient force, Coriolis deflection, frictional boundary layer.  \n• Functions – Redistribute heat from equator to poles, influence precipitation patterns, drive ocean currents.  \n• Importance – Critical for agriculture, navigation, disaster forecasting, and climate regulation.  \n• Challenges – Predicting changes under global warming, complex interactions with local topography.  \n\nTarget Audiences: UPSC, SSC, Geography, Climate Science, School, Competitive Exams  \nexamsfiles  \nExams Files notes  \n#geography #planetarywinds #globalwinds #climatechange #weather #UPSC #SSC #competitiveexam #study #examsfiles",
+      "image_url": "https://i.ibb.co/kVjNS0wQ/PLANETARY-WINDS-AND-GLOBAL-WIND-SYSTEMS-Page-006.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-25T11:35:00+05:30"
+    },
+    {
+      "index": 6,
+      "filename": "—_PLANETARY_WINDS_AND_GLOBAL_WIND_SYSTEMS Page 007.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_PLANETARY_WINDS_AND_GLOBAL_WIND_SYSTEMS Page 007.png",
+      "caption": "Planetary Winds 🌬️  \nPlanetary winds are large‑scale atmospheric movements that drive weather and climate across the globe. They arise from solar heating, Earth’s rotation, and the Coriolis effect, creating distinct wind belts that influence temperature distribution and precipitation patterns.  \n\n- Definition: Continuous horizontal airflow driven by pressure gradients, rotation, and solar heating.  \n- Major Systems: Trade Winds (tropics), Westerlies (mid‑latitudes), Polar Easterlies (high latitudes), Jet Streams (upper troposphere).  \n- Circulation Cells: Hadley, Ferrel, and Polar cells channel air between equator and poles.  \n- Functions: Redistribute heat, moisture, and momentum; shape storm tracks and monsoons.  \n- Importance: Critical for climate regulation, agriculture, aviation routes, and predicting extreme events.  \n- Challenges: Accurate modeling under climate change, interaction with topography, and predicting jet‑stream shifts.  \n\nUPSC, SSC, Geography, Climate Science, Aviation  \nexamsfiles  \nExams Files notes  \n#PlanetaryWinds #GlobalWindSystems #AtmosphericScience #ClimateChange #Geography #UPSC #SSC #ExamPreparation #StudyGuide #examsfiles",
+      "image_url": "https://i.ibb.co/Zp3PWg7y/PLANETARY-WINDS-AND-GLOBAL-WIND-SYSTEMS-Page-007.jpg",
+      "ig_container_id": "18046319486654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120965329068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-25T12:12:00+05:30"
+    },
+    {
+      "index": 7,
+      "filename": "—_PLANETARY_WINDS_AND_GLOBAL_WIND_SYSTEMS Page 008.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_PLANETARY_WINDS_AND_GLOBAL_WIND_SYSTEMS Page 008.png",
+      "caption": "Planetary Winds & Global Circulation 🌬️\n\nPlanetary winds are large‑scale air movements driven by differential solar heating and Earth’s rotation. They form the backbone of global wind systems that distribute heat, moisture, and shape weather patterns across the planet.\n\n- Definition: horizontal air motion caused by pressure gradients and Coriolis deflection.  \n- Main types: Trade Winds, Westerlies, Polar Easterlies, and jet streams.  \n- Formation: equatorial heating creates a low‑pressure belt; air flows poleward and is deflected, forming circulation cells.  \n- Key features: zonal (east‑west) flow, meridional (north‑south) component, jet streams at ~30° and ~60° latitudes.  \n- Functions: redistribute thermal energy, drive monsoons, influence ocean gyres, support marine ecosystems.  \n- Challenges: predicting interannual variability (El Niño/La Niña) and climate‑change impacts on wind patterns.\n\nUPSC, SSC, Geography, Climate Science  \nexamsfiles  \nExams Files notes  \n#planetarywinds #globalwinds #meteorology #climate #geography #UPSC #SSC #competitiveexam #studyguide #examsfiles",
+      "image_url": "https://i.ibb.co/P3kJfRy/PLANETARY-WINDS-AND-GLOBAL-WIND-SYSTEMS-Page-008.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-25T12:49:00+05:30"
+    },
+    {
+      "index": 8,
+      "filename": "—_PLANETARY_WINDS_AND_GLOBAL_WIND_SYSTEMS Page 009.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_PLANETARY_WINDS_AND_GLOBAL_WIND_SYSTEMS Page 009.png",
+      "caption": "Planetary Winds & Global Systems 🌬️ (Page 009)  \nPlanetary winds are large‑scale air movements driven by differential solar heating and Earth’s rotation. They form the basis of global circulation patterns that dictate climate zones, weather systems, and ocean currents.  \n\n- Definition: Horizontal airflow between high‑ and low‑pressure zones across latitudes.  \n- Types: Trade winds, westerlies, polar easterlies, monsoon winds.  \n- Driving forces: Coriolis effect, pressure‑gradient force, surface friction.  \n- Key features: Hadley, Ferrel, Polar cells; jet streams; monsoon troughs.  \n- Functions: Regulate temperature, transport moisture, influence monsoon onset, support ocean gyres.  \n- Challenges: Climate change alters wind strength and paths, impacting agriculture, aviation, and renewable energy.  \n\nUPSC, SSC, Geography, Climate Science, Meteorology  \nexamsfiles  \nExams Files notes  \n#PlanetaryWinds #GlobalCirculation #Meteorology #Geography #ClimateChange #UPSC #SSC #ExamPrep #CompetitiveExams #examsfiles",
+      "image_url": "https://i.ibb.co/pvtr4YNc/PLANETARY-WINDS-AND-GLOBAL-WIND-SYSTEMS-Page-009.jpg",
+      "ig_container_id": "18046319597654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120965551068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-25T13:26:00+05:30"
+    },
+    {
+      "index": 9,
+      "filename": "—_SOILS_OF_THE_WORLD_AND_SOIL_FORMATION Page 060.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_SOILS_OF_THE_WORLD_AND_SOIL_FORMATION Page 060.png",
+      "caption": "World Soils & Formation 🌍  \nSoils are the Earth’s living skin, formed through weathering of parent material, climate, organisms, topography, and time. Understanding the diversity and genesis of soils worldwide is crucial for agriculture, ecology, and sustainable development.  \n\n- Definition: Soil is a natural body of earth material on the surface, comprising mineral, organic, water, and air fractions.  \n- Formation processes: Physical weathering, chemical weathering, biological activity, and time lead to soil development; the Law of Soil Formation (Wheeler's Law).  \n- Global soil types: Alfisols, Mollisols, Haplic, Vertisols, Oxisols, etc., each with distinct texture, color, and fertility.  \n- Key features: Horizonation (O, A, E, B, C, R), pH, organic matter, structure, and permeability.  \n- Functions: Supports plant growth, regulates water cycle, stores carbon, filters pollutants, and sustains biodiversity.  \n- Challenges: Soil erosion, salinization, acidification, loss of organic matter, and climate change impacts.  \n\nUPSC, SSC, Geography, Environmental Science, Agriculture  \nexamsfiles  \nExams Files notes  \n#Soils #Geography #UPSC #SSC #EnvironmentalScience #SoilScience #Agriculture #ClimateChange #Sustainability #examsfiles",
+      "image_url": "https://i.ibb.co/B50ZHQGV/SOILS-OF-THE-WORLD-AND-SOIL-FORMATION-Page-060.jpg",
+      "ig_container_id": "18046319636654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-25T14:03:00+05:30"
+    },
+    {
+      "index": 10,
+      "filename": "—_SOILS_OF_THE_WORLD_AND_SOIL_FORMATION Page 061.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_SOILS_OF_THE_WORLD_AND_SOIL_FORMATION Page 061.png",
+      "caption": "Soils of the World 🌍  \nSoils are the thin, dynamic layer that covers the Earth's surface, forming the basis of terrestrial ecosystems. Their formation is governed by parent material, climate, organisms, topography and time, leading to diverse soil types across the globe.  \n\n- Definition: Soil is the product of rock weathering and organic matter decomposition, creating a heterogeneous medium.  \n- Types: Oxisols, Alfisols, Mollisols, Entisols, Vertisols, Andisols, etc., each with distinct texture, mineralogy, and fertility.  \n- Formation process: Physical weathering, chemical weathering, biological activity, leaching, and horizon development.  \n- Key features: Texture (sand, silt, clay), structure, pH, organic matter, nutrient content, drainage.  \n- Functions: Supports plant growth, regulates water cycle, hosts microbial communities, stores carbon, filters pollutants.  \n- Challenges: Erosion, salinization, acidification, land degradation, climate change impacts on soil health.  \n\nUPSC, SSC, Geography, School, Competitive Exams  \nexamsfiles  \nExams Files notes  \n#Soils #SoilFormation #Geography #EnvironmentalScience #UPSC #SSC #CompetitiveExams #EarthScience #StudyGuide #examsfiles",
+      "image_url": "https://i.ibb.co/Qv2N0P9v/SOILS-OF-THE-WORLD-AND-SOIL-FORMATION-Page-061.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-25T14:40:00+05:30"
+    },
+    {
+      "index": 11,
+      "filename": "—_SOILS_OF_THE_WORLD_AND_SOIL_FORMATION Page 062.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_SOILS_OF_THE_WORLD_AND_SOIL_FORMATION Page 062.png",
+      "caption": "World Soil Diversity 🌍  \nSoils are the planet's living skin, formed by complex interactions of parent material, climate, organisms, topography, and time. Page 062 delves into the global variety of soils and the processes that create them, essential for understanding land use and sustainability.  \n\n• Definition: Soil is a dynamic natural system formed by parent material, climate, organisms, relief, and time.  \n• Types: Loam, sandy, clayey, peaty, saline, alluvial, lateritic – classified by texture and horizon development.  \n• Formation factors: Parent material, climate, organisms, relief, time – each shaping horizons and properties.  \n• Global distribution: Arid zones → sandy deserts; temperate zones → loamy soils; tropical rainforests → lateritic soils rich in iron and aluminum.  \n• Functions: Nutrient supply, water retention, habitat for microbes, carbon sequestration, and support for agriculture and ecosystems.  \n• Challenges: Erosion, salinization, compaction, loss of organic matter, and climate change impacting soil health worldwide.  \n\nUPSC, SSC, Geography, Environmental Science, Agriculture, Soil Science  \nexamsfiles  \nExams Files notes  \n#Soils #SoilFormation #WorldSoils #Geography #UPSC #SSC #Agriculture #EnvironmentalScience #Sustainability #examsfiles",
+      "image_url": "https://i.ibb.co/ymypYrW5/SOILS-OF-THE-WORLD-AND-SOIL-FORMATION-Page-062.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-25T15:17:00+05:30"
+    },
+    {
+      "index": 12,
+      "filename": "—_SOILS_OF_THE_WORLD_AND_SOIL_FORMATION Page 063.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_SOILS_OF_THE_WORLD_AND_SOIL_FORMATION Page 063.png",
+      "caption": "Soils of the World 🌍  \nSoils are the dynamic, living layers of the Earth’s surface that form through the weathering of rocks and the decomposition of organic matter. They play a pivotal role in sustaining life by providing nutrients, retaining water, and supporting plant growth. Understanding their types and formation processes is essential for land use planning, agriculture, and environmental conservation.  \n\n- **Definition** – A natural, heterogeneous mixture of minerals, organic matter, water, air, and living organisms that supports plant life.  \n- **Major Soil Types** – Oxisols, Ultisols, Alfisols, Mollisols, Entisols, Inceptisols (global classification).  \n- **Formation (Soil Genesis)** – Parent material, climate, topography, organisms, time (the 5 Ps).  \n- **Key Features** – Texture, structure, color, horizon development, pH, organic content.  \n- **Functions** – Nutrient cycling, water filtration, habitat for microorganisms, carbon sequestration.  \n- **Challenges** – Erosion, salinization, acidification, loss of organic matter, climate change impacts.  \n\n**Target Audiences** – UPSC, SSC, Geography, School, Competitive Exams  \nexamsfiles  \nExams Files notes  \n#Soils #Geography #UPSC #SSC #CompetitiveExams #EarthScience #SoilFormation #SoilTypes #EnvironmentalScience #examsfiles",
+      "image_url": "https://i.ibb.co/BVxCD34d/SOILS-OF-THE-WORLD-AND-SOIL-FORMATION-Page-063.jpg",
+      "ig_container_id": "18046319915654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120965851068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-25T15:54:00+05:30"
+    },
+    {
+      "index": 13,
+      "filename": "—_TIDES,_WAVES_AND_OCEANIC_PROCESSES Page 042.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_TIDES,_WAVES_AND_OCEANIC_PROCESSES Page 042.png",
+      "caption": "Tides & Waves Explained 🌊\n\nTides and waves are primary oceanic processes that shape coastal dynamics and marine navigation. Tides are periodic rise and fall of sea level caused by lunar and solar gravitational forces, while waves are surface disturbances generated by wind energy transfer. Understanding their mechanisms is crucial for coastal management, navigation, and climate studies.\n\n- Definition: Tides – regular sea‑level fluctuations; Waves – oscillatory surface motions.  \n- Types of tides: Spring (max amplitude) vs Neap (min amplitude); diurnal, semidiurnal, mixed.  \n- Wave generation: Wind speed, fetch, duration, and sea‑state control wave height and period.  \n- Oceanic processes: Resonance in bays, upwelling, downwelling, and coastal currents.  \n- Functions: Sediment transport, nutrient mixing, shoreline erosion control, and energy resource potential.  \n- Challenges: Climate‑induced sea‑level rise, coastal flooding, and navigation hazards.\n\nTarget audiences: UPSC, SSC, Geography, Environmental Science, Oceanography, Competitive Exams.\n\nexamsfiles  \nExams Files notes  \n\n#tides #waves #oceanicprocesses #geography #UPSC #SSC #competitiveexams #studyguide #examsfiles",
+      "image_url": "https://i.ibb.co/XfPWkWtd/TIDES-WAVES-AND-OCEANIC-PROCESSES-Page-042.jpg",
+      "ig_container_id": "18046319942654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120965917068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-25T16:31:00+05:30"
+    },
+    {
+      "index": 14,
+      "filename": "—_TIDES,_WAVES_AND_OCEANIC_PROCESSES Page 043.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_TIDES,_WAVES_AND_OCEANIC_PROCESSES Page 043.png",
+      "caption": "Tides & Waves 🌊\n\nTides and waves are primary surface phenomena driven by gravitational forces and wind energy, respectively. They shape coastal dynamics, influence marine navigation, and regulate marine ecosystems. Understanding their mechanisms is crucial for coastal management and disaster mitigation.\n\n- **Definition**: Tides = periodic rise/fall of sea level due to lunar/solar gravity; Waves = surface ripples generated by wind or seismic activity.\n- **Causes**: Tides by lunar/solar attraction; Waves by wind stress, seismic forces, and atmospheric pressure changes.\n- **Types**: Tides – semi‑diurnal, diurnal, mixed; Waves – wind waves, swell, tsunamis.\n- **Key Features**: Tidal range, phase lag, harmonic constituents; Wave height, period, wavelength, direction.\n- **Functions**: Tides provide tidal energy, influence sediment transport; Waves drive coastal erosion, sediment redistribution, and support marine habitats.\n- **Challenges & Importance**: Coastal flooding, erosion, navigation hazards; essential for tidal power, fisheries, and climate change studies.\n\nTarget audiences: UPSC, SSC, Geography, Oceanography, School, Competitive Exams  \nexamsfiles  \nExams Files notes  \n#tides #waves #oceanicprocesses #geography #UPSC #SSC #competitiveexam #studyguide #examprep #examsfiles",
+      "image_url": "https://i.ibb.co/fGvBGYnj/TIDES-WAVES-AND-OCEANIC-PROCESSES-Page-043.jpg",
+      "ig_container_id": null,
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": null,
+      "fb_scheduled": false,
+      "moved": false,
+      "scheduled_time": "2026-08-25T17:08:00+05:30"
+    },
+    {
+      "index": 15,
+      "filename": "—_TIDES,_WAVES_AND_OCEANIC_PROCESSES Page 044.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_TIDES,_WAVES_AND_OCEANIC_PROCESSES Page 044.png",
+      "caption": "TIDES, WAVES & OCEANIC PROCESSES 🌊  \nTides and waves are the most visible oceanic processes that shape coastal landscapes and influence marine navigation. They are driven primarily by gravitational forces of the moon and sun, wind, and variations in sea level. Understanding these processes is essential for coastal management, navigation safety, and climate change studies.  \n\n- **Tides**: Regular rise and fall of sea level caused by lunar and solar gravitation; primary types are spring, neap, diurnal, semidiurnal, mixed.  \n- **Waves**: Surface oscillations generated mainly by wind; classified as wind waves, swell, and tsunamis.  \n- **Key Features**: Period, wavelength, amplitude, speed; influenced by fetch, wind speed, and depth.  \n- **Functions**: Sediment transport, nutrient mixing, coastal erosion and accretion, navigation aids.  \n- **Importance**: Predicting tidal ranges is critical for harbor operations, flood forecasting, and renewable energy (tidal power).  \n- **Challenges & Examples**: Coastal flooding in low‑lying areas, tsunami risk in tectonically active zones, impact of sea‑level rise on tidal patterns.  \n\n**Target Audiences:** UPSC, SSC, Geography, Competitive Exams  \nexamsfiles  \nExams Files notes  \n#Tides #Waves #OceanicProcesses #Geography #UPSC #SSC #CompetitiveExams #StudyMaterial #examsfiles",
+      "image_url": "https://i.ibb.co/rGtt1cDj/TIDES-WAVES-AND-OCEANIC-PROCESSES-Page-044.jpg",
+      "ig_container_id": "18046320014654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120966421068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-25T17:45:00+05:30"
+    },
+    {
+      "index": 16,
+      "filename": "—_TIDES,_WAVES_AND_OCEANIC_PROCESSES Page 045.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_TIDES,_WAVES_AND_OCEANIC_PROCESSES Page 045.png",
+      "caption": "Tides & Waves 🌊  \nTides, waves and other oceanic processes are fundamental to the Earth's marine environment. They arise from the interplay of lunar/solar gravity, wind, and Earth’s rotation, shaping coastlines, influencing climate, and supporting marine ecosystems.  \n\n- **Tides**: Periodic sea‑level rise and fall driven by the Moon and Sun’s gravitational pull; classified as semidiurnal, diurnal, or mixed.  \n- **Waves**: Surface disturbances created mainly by wind (wind‑generated waves), by distant storms (swell), or by seismic events (tsunamis).  \n- **Key features**: Wavelength, frequency, amplitude, and propagation speed determine wave energy and impact on shores.  \n- **Functions**: Coastal erosion and accretion, sediment transport, nutrient mixing, and potential for tidal‑energy generation.  \n- **Importance**: Critical for navigation, fisheries, coastal protection, and climate regulation; early warning of tsunamis and storm surges saves lives.  \n- **Challenges & examples**: Rising sea levels increase flood risk; 2004 Indian Ocean tsunami highlighted tsunami hazards; tidal locks affect freshwater access.  \n\nTarget audiences: UPSC, SSC, Geography, Oceanography, Environmental Science  \nexamsfiles  \nExams Files notes  \n#Tides #Waves #OceanicProcesses #Geography #UPSC #SSC #MarineScience #CoastalErosion #ClimateChange #examsfiles",
+      "image_url": "https://i.ibb.co/8LZSBMFW/TIDES-WAVES-AND-OCEANIC-PROCESSES-Page-045.jpg",
+      "ig_container_id": "18046320068654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120966721068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-25T18:22:00+05:30"
+    },
+    {
+      "index": 17,
+      "filename": "—_WORLD_CLIMATE_CLASSIFICATION Page 018.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_WORLD_CLIMATE_CLASSIFICATION Page 018.png",
+      "caption": "🌍 World Climate Classification  \nWorld climate classification divides the planet into distinct climate zones using long‑term temperature and precipitation data. It is essential for predicting weather, planning agriculture, and understanding ecological zones.  \n\n- **Definition**: A systematic method to categorize Earth's climates based on average temperature and rainfall.  \n- **Types**: Tropical, Arid, Temperate, Continental, Polar, and their sub‑categories.  \n- **Key Features**: Distinct temperature ranges, precipitation patterns, seasonal variability, and vegetation types.  \n- **Major Systems**: Köppen‑Geiger, Thornthwaite, and Trewartha, each with specific criteria and symbols.  \n- **Functions**: Guides land use planning, water resource management, biodiversity conservation, and climate change studies.  \n- **Challenges**: Data gaps, rapid climate change altering boundaries, and the need for high‑resolution local classifications.  \n\n**Target Audiences**  \nUPSC, SSC, Geography, Climate Science, Competitive Exams  \n\nexamsfiles  \nExams Files notes  \n\n#WorldClimate #KoppenClassification #Geography #ClimateScience #UPSC #SSC #CompetitiveExams #StudyTips #examsfiles",
+      "image_url": "https://i.ibb.co/G3FZWG4C/WORLD-CLIMATE-CLASSIFICATION-Page-018.jpg",
+      "ig_container_id": "18046320101654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120966793068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-25T18:59:00+05:30"
+    },
+    {
+      "index": 18,
+      "filename": "—_WORLD_CLIMATE_CLASSIFICATION Page 019.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_WORLD_CLIMATE_CLASSIFICATION Page 019.png",
+      "caption": "World Climate Classification 🌍  \nThe world climate classification system categorizes global climates based on long‑term temperature and precipitation patterns. It aids in understanding ecological zones, agricultural planning, and climate change impacts.  \n\n- A systematic way to categorize global climates using long‑term temperature & precipitation.  \n- Five main zones: Tropical, Dry, Temperate, Continental, Polar – each with sub‑types (Af, BWh, Cfa, Dfa, EF).  \n- Key features: 10°C isotherm, 0°C isotherm, and seasonal precipitation patterns define boundaries.  \n- Functions: Helps in agriculture, water resources, urban planning, and ecological studies.  \n- Importance: Provides a common framework for scientists, policymakers, and educators.  \n- Current challenges: Climate change shifts zones, data gaps in polar & oceanic areas, need for higher resolution.  \n\nUPSC, SSC, Geography, Competitive Exams  \nexamsfiles  \nExams Files notes  \n#ClimateClassification #WorldClimate #Geography #UPSC #SSC #CompetitiveExams #ExamsPreparation #ExamNotes #examsfiles",
+      "image_url": "https://i.ibb.co/gZfXVYbD/WORLD-CLIMATE-CLASSIFICATION-Page-019.jpg",
+      "ig_container_id": "18046320131654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120967171068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-25T19:36:00+05:30"
+    },
+    {
+      "index": 19,
+      "filename": "—_WORLD_CLIMATE_CLASSIFICATION Page 020.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_WORLD_CLIMATE_CLASSIFICATION Page 020.png",
+      "caption": "World Climate Classification 🌍  \nWorld climate classification is a systematic method to categorize the Earth's climates based on temperature and precipitation patterns. It helps in understanding regional weather, agriculture, and ecological zones.  \n\n- Definition: A framework that divides the globe into distinct climate zones using Köppen–Geiger or Trewartha systems.  \n- Main types: Arid (B), Temperate (C), Tropical (A), Polar (E) and their subtypes.  \n- Key features: Temperature ranges, annual precipitation, seasonality, and vegetation.  \n- Functions: Guides climate research, agriculture planning, and disaster management.  \n- Importance: Essential for predicting climate change impacts and resource distribution.  \n- Challenges: Regional variations, data gaps, and overlapping boundaries.  \n\nUPSC, SSC, Geography, Competitive Exams  \nexamsfiles  \nExams Files notes  \n#WorldClimate #ClimateClassification #KoppenGeiger #Geography #UPSC #SSC #CompetitiveExams #ClimateScience #Education #examsfiles",
+      "image_url": "https://i.ibb.co/39gXSxWH/WORLD-CLIMATE-CLASSIFICATION-Page-020.jpg",
+      "ig_container_id": "18046320161654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120967249068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-25T20:13:00+05:30"
+    },
+    {
+      "index": 20,
+      "filename": "—_WORLD_CLIMATE_CLASSIFICATION Page 021.png",
+      "image_path": "/home/runner/work/examsfiles-automation/examsfiles-automation/exam upload/—_WORLD_CLIMATE_CLASSIFICATION Page 021.png",
+      "caption": "World Climate Classification 🌍  \nThe world’s climate is divided into distinct types based on long‑term temperature and precipitation patterns. Knowing these categories helps predict weather, plan agriculture, and assess climate change impacts.  \n\n- Köppen–Geiger system: the most widely used, classifies climates into five main groups (A, B, C, D, E).  \n- Main criteria: mean annual temperature, monthly precipitation, and seasonality of rainfall.  \n- Typical climates: Tropical rainforest (Af), Mediterranean (Csa), Humid continental (Dfa), Polar tundra (ET), Arid desert (BWh).  \n- Functions: Guides crop selection, urban planning, water resource management, and ecological research.  \n- Importance: Provides a common language for scientists, policymakers, and educators worldwide.  \n- Challenges: Climate change is shifting boundaries, making classifications dynamic and requiring continuous updates.  \n\nUPSC, SSC, Geography, Environmental Science, Competitive Exams  \nexamsfiles  \nExams Files notes  \n#WorldClimate #KoppenGeiger #ClimateClassification #Geography #ClimateChange #UPSC #SSC #CompetitiveExams #Education #examsfiles",
+      "image_url": "https://i.ibb.co/Gvj3XyDn/WORLD-CLIMATE-CLASSIFICATION-Page-021.jpg",
+      "ig_container_id": "18046320191654948",
+      "ig_post_id": null,
+      "ig_published": false,
+      "fb_post_id": "122120967405068119",
+      "fb_scheduled": true,
+      "moved": true,
+      "scheduled_time": "2026-08-25T20:50:00+05:30"
     }
   ],
-  "prepared_at": "2026-08-24T08:30:00+05:30"
+  "prepared_at": "2026-08-25T08:30:00+05:30"
 }
