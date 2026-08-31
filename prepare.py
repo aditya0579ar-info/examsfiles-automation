@@ -234,7 +234,7 @@ def generate_caption(image_path: Path, config: dict) -> str:
     }
     
     data = {
-        "model": "openai/gpt-oss-20b",
+        "model": "llama-3.3-70b-versatile",
         "messages": [
             {"role": "user", "content": prompt}
         ],
@@ -453,6 +453,11 @@ def git_push_queue():
         subprocess.run([git_exe, "add", "queue.json"], check=True, **run_kw)
         if (SCRIPT_DIR / "post_log.json").exists():
             subprocess.run([git_exe, "add", "post_log.json"], check=True, **run_kw)
+            
+        if (SCRIPT_DIR / "exam upload").exists():
+            subprocess.run([git_exe, "add", "exam upload/"], check=True, **run_kw)
+        if (SCRIPT_DIR / "uploaded exam").exists():
+            subprocess.run([git_exe, "add", "uploaded exam/"], check=True, **run_kw)
         
         result = subprocess.run(
             [git_exe, "commit", "-m",
@@ -524,7 +529,7 @@ def prepare(dry_run: bool = False):
             print(f"\n🧹 Cleaning {len(old_files)} previously published image(s) from '{uploaded_folder.name}/'...")
             for f in old_files:
                 rel_path = str(f.relative_to(SCRIPT_DIR))
-                subprocess.run(["git", "rm", "-f", "--ignore-unmatch", rel_path],
+                subprocess.run([str(SCRIPT_DIR / "git_portable" / "cmd" / "git.exe"), "rm", "-f", "--ignore-unmatch", rel_path],
                                cwd=str(SCRIPT_DIR), capture_output=True)
             print(f"   ✅ Cleared {len(old_files)} old image(s) to free GitHub storage.")
         else:
@@ -778,7 +783,7 @@ def prepare(dry_run: bool = False):
                     shutil.move(str(src), str(dst))
                     # In CI, we want to ensure git removes the file from vault/
                     if is_ci:
-                        subprocess.run(["git", "rm", str(src)], cwd=str(SCRIPT_DIR), capture_output=True)
+                        subprocess.run([str(SCRIPT_DIR / "git_portable" / "cmd" / "git.exe"), "rm", str(src)], cwd=str(SCRIPT_DIR), capture_output=True)
                 except Exception as exc:
                     print(f"   ⚠️  Could not move {post['filename']}: {exc}")
                     continue

@@ -1,6 +1,8 @@
 name: Daily Prepare Instagram Posts
 
 on:
+  schedule:
+    - cron: '0 0 * * *'
   # Allow manual trigger from GitHub Actions UI
   workflow_dispatch:
   repository_dispatch:
