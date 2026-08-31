@@ -118,8 +118,8 @@ def load_config() -> dict:
                 "api_key": os.environ.get("IMGBB_API_KEY", "")
             },
             "settings": {
-                "posts_per_day": 24,
-                "hour_gap": 0.5,
+                "posts_per_day": 15,
+                "hour_gap": 0.75,
                 "immediate_posts": 2,
                 "facebook_enabled": False
             }
