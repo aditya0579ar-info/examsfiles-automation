@@ -5,9 +5,10 @@ name: Publish Instagram Posts
 
 on:
   schedule:
-    - cron: '0,45 0,3,6,9,12,15,18,21 * * *'
-    - cron: '30 1,4,7,10,13,16,19,22 * * *'
-    - cron: '15 2,5,8,11,14,17,20,23 * * *'
+    - cron: '0 4,7,10,13 * * *'
+    - cron: '15 6,9,12 * * *'
+    - cron: '30 5,8,11 * * *'
+    - cron: '45 4,7,10 * * *'
   # Allow manual trigger from GitHub Actions UI
   workflow_dispatch:
   # Allow external webhook triggers (like cron-job.org)
