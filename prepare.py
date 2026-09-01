@@ -515,7 +515,8 @@ def prepare(dry_run: bool = False):
         uploaded_folder.mkdir(parents=True, exist_ok=True)
     posts_per_day = int(settings.get("posts_per_day", 20))
     immediate_posts = int(settings.get("immediate_posts", 2))
-    minute_gap = float(settings.get("minute_gap", 37.0))
+    hour_gap = float(settings.get("hour_gap", 0.75))
+    minute_gap = hour_gap * 60  # Convert hours to minutes (0.75h = 45 min)
     # Ensure the uploaded folder exists
     uploaded_folder.mkdir(parents=True, exist_ok=True)
 
