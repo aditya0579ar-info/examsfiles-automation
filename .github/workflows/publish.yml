@@ -4,11 +4,6 @@ name: Publish Instagram Posts
 # Also supports manual triggering from the Actions tab.
 
 on:
-  schedule:
-    - cron: '0 4,7,10,13 * * *'
-    - cron: '15 6,9,12 * * *'
-    - cron: '30 5,8,11 * * *'
-    - cron: '45 4,7,10 * * *'
   # Allow manual trigger from GitHub Actions UI
   workflow_dispatch:
   # Allow external webhook triggers (like cron-job.org)
