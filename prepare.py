@@ -218,33 +218,28 @@ def scan_images(folder: Path) -> list[Path]:
 
 def generate_caption(image_path: Path, config: dict) -> str:
     """
-    Generate caption using Groq AI (Llama 3).
-    Topic is extracted from the filename — no image is sent to the API.
+    Generate caption using Gemini AI.
+    Topic is extracted from the filename.
     """
     topic = extract_topic_from_filename(image_path)
-    prompt = CAPTION_PROMPT_TEMPLATE.format(topic=topic)
+    prompt = CAPTION_PROMPT_TEMPLATE.format(topic=topic) + "\n\nCRITICAL RULE: DO NOT mention that you are an AI. DO NOT mention \"Gemini Generated Image\" or talk about image generation. Output ONLY the educational caption based on the real topic!"
     
-    api_key = config.get("groq", {}).get("api_key") or config.get("gemini", {}).get("api_key")
+    api_key = config.get("gemini", {}).get("api_key")
     if not api_key:
-        raise ValueError("No Groq API key found in config")
+        raise ValueError("No Gemini API key found in config")
 
-    headers = {
-        "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json"
-    }
-    
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+    headers = {"Content-Type": "application/json"}
     data = {
-        "model": "llama-3.3-70b-versatile",
-        "messages": [
-            {"role": "user", "content": prompt}
-        ],
-        "temperature": 0.7,
-        "max_tokens": 2048
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 0.7}
     }
 
     max_retries = 3
+    import time
+    import requests
     for attempt in range(max_retries):
-        response = requests.post("https://api.groq.com/openai/v1/chat/completions", headers=headers, json=data)
+        response = requests.post(url, headers=headers, json=data)
         if response.status_code == 429:
             time.sleep((attempt + 1) * 3)  # exponential backoff
             continue
@@ -253,20 +248,18 @@ def generate_caption(image_path: Path, config: dict) -> str:
     else:
         response.raise_for_status()
     
-    caption = response.json()["choices"][0]["message"]["content"].strip()
+    try:
+        caption = response.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
+    except Exception:
+        caption = response.text.strip()
 
     # Strip markdown code fences if the model wraps its output
     if caption.startswith("```"):
         lines = caption.split("\n")
         if lines[-1].strip() == "```":
-            lines = lines[1:-1]
-        elif lines[0].startswith("```"):
-            lines = lines[1:]
-        caption = "\n".join(lines).strip()
-
-    # Enforce Instagram's 2200-character limit
-    if len(caption) > 2200:
-        caption = caption[:2197] + "..."
+            caption = "\n".join(lines[1:-1]).strip()
+            if caption.lower().startswith("text\n") or caption.lower().startswith("markdown\n"):
+                caption = caption[caption.find("\n")+1:].strip()
 
     return caption
 
