@@ -448,8 +448,6 @@ def git_push_queue():
     
     # Use portable Git
     import os
-    import os
-    git_exe = str(SCRIPT_DIR / "git_portable" / "cmd" / "git.exe") if os.name == "nt" else "git" if os.name == "nt" else "git"
 
     try:
         subprocess.run([git_exe, "add", "queue.json"], check=True, **run_kw)
