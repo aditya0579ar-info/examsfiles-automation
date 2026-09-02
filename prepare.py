@@ -447,7 +447,9 @@ def git_push_queue():
     run_kw = dict(cwd=str(SCRIPT_DIR), capture_output=True, text=True, env=env)
     
     # Use portable Git
-    git_exe = str(SCRIPT_DIR / "git_portable" / "cmd" / "git.exe")
+    import os
+    import os
+    git_exe = str(SCRIPT_DIR / "git_portable" / "cmd" / "git.exe") if os.name == "nt" else "git" if os.name == "nt" else "git"
 
     try:
         subprocess.run([git_exe, "add", "queue.json"], check=True, **run_kw)
@@ -530,7 +532,7 @@ def prepare(dry_run: bool = False):
             print(f"\n🧹 Cleaning {len(old_files)} previously published image(s) from '{uploaded_folder.name}/'...")
             for f in old_files:
                 rel_path = str(f.relative_to(SCRIPT_DIR))
-                subprocess.run([str(SCRIPT_DIR / "git_portable" / "cmd" / "git.exe"), "rm", "-f", "--ignore-unmatch", rel_path],
+                subprocess.run([git_exe, "rm", "-f", "--ignore-unmatch", rel_path],
                                cwd=str(SCRIPT_DIR), capture_output=True)
             print(f"   ✅ Cleared {len(old_files)} old image(s) to free GitHub storage.")
         else:
@@ -784,7 +786,7 @@ def prepare(dry_run: bool = False):
                     shutil.move(str(src), str(dst))
                     # In CI, we want to ensure git removes the file from vault/
                     if is_ci:
-                        subprocess.run([str(SCRIPT_DIR / "git_portable" / "cmd" / "git.exe"), "rm", str(src)], cwd=str(SCRIPT_DIR), capture_output=True)
+                        subprocess.run([git_exe, "rm", str(src)], cwd=str(SCRIPT_DIR), capture_output=True)
                 except Exception as exc:
                     print(f"   ⚠️  Could not move {post['filename']}: {exc}")
                     continue
