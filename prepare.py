@@ -778,6 +778,7 @@ def prepare(dry_run: bool = False):
 
         src = Path(post["image_path"])
         dst = uploaded_folder / post["filename"]
+        uploaded_folder.mkdir(parents=True, exist_ok=True)
 
         if src.exists():
             if dry_run:
