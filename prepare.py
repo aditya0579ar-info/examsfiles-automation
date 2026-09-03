@@ -44,6 +44,9 @@ except ImportError as e:
 # Paths
 # ---------------------------------------------------------------------------
 SCRIPT_DIR = Path(__file__).parent.resolve()
+import os
+git_exe = str(SCRIPT_DIR / "git_portable" / "cmd" / "git.exe") if os.name == "nt" else "git"
+
 CONFIG_PATH = SCRIPT_DIR / "config.json"
 QUEUE_PATH = SCRIPT_DIR / "queue.json"
 LOG_PATH = SCRIPT_DIR / "post_log.json"
