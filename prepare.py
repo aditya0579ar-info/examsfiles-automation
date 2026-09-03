@@ -450,7 +450,7 @@ def git_push_queue():
     run_kw = dict(cwd=str(SCRIPT_DIR), capture_output=True, text=True, env=env)
     
     # Use portable Git
-    import os
+    
 
     try:
         subprocess.run([git_exe, "add", "queue.json"], check=True, **run_kw)
