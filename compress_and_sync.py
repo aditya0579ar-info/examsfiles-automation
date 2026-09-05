@@ -31,6 +31,9 @@ def sync_exam_upload():
     exam_upload_folder = SCRIPT_DIR / "exam upload"
     exam_upload_folder.mkdir(parents=True, exist_ok=True)
     
+    env_tmp = {**os.environ, "GIT_TERMINAL_PROMPT": "0"}
+    print("   Pulling latest changes from GitHub to prevent conflicts...")
+    run_git_command(["pull", "--rebase", "origin", "main"], env_tmp)
     env = {**os.environ, "GIT_TERMINAL_PROMPT": "0"}
     
     images = [f for f in image_folder.iterdir() if f.is_file() and f.suffix.lower() in ['.png', '.jpg', '.jpeg', '.webp']]
